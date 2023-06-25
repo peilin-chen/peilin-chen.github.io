@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Advice for Research"
-permalink: /advice/
+title: "Tutorials for Learning"
+permalink: /tutorials/
 author_profile: true
 ---
 

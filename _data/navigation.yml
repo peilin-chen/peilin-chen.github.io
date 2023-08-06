@@ -1,5 +1,5 @@
 # main links links
-#main:
+main:
 #  - title: "Research"
 #    url: /research/
 
@@ -14,3 +14,6 @@
     
 #  - title: "Gallery"
 #    url: /gallery/
+
+  - title: "Reading list"
+    url: /reading list/

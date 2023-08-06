@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 ## Basic Information
-``` shell
-School: Xidian University                         Gender: Male                                                 
-Institute: School of Microeletronics              Age: 21                                                     
-Major: Integrated Circuit Design                  Native Place: Zhanjiang City, Guangdong Province, China      
-Telephone: (+86) 133-3650-5376                    Mail: chenpeilin@stu.xidian.edu.cn                           
-WeChat:133-3650-5376                              Address: Xi'an City, Shaanxi Province 
-```
+School: Xidian University&nbsp;&nbsp;&nbsp;Gender: Male                                                 
+Institute: School of Microeletronics&nbsp;&nbsp;&nbsp;Age: 21                                                     
+Major: Integrated Circuit Design&nbsp;&nbsp;&nbsp;Native Place: Zhanjiang City, Guangdong Province, China      
+Telephone: (+86) 133-3650-5376&nbsp;&nbsp;&nbsp;Mail: chenpeilin@stu.xidian.edu.cn                           
+WeChat:133-3650-5376&nbsp;&nbsp;&nbsp;Address: Xi'an City, Shaanxi Province 
 
 ## Academic Performance
 

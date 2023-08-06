@@ -18,8 +18,20 @@ WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## Academic Performance
 
 ## Project Experiences
-* CPU Processor Design Based on RISC-V Instruction Set(single core, five-stage pipeline, 64bit)
+* Digital IC Design programme at Nanyang Technological University (from 24 July to 4 August 2023)
+* Research assistant at the Hong Kong University of Science and Technology (from 21 June to 21 July 2023)
+* CPU Processor Design Based on RISC-V Instruction Set (single core, five-stage pipeline, 64bit)
+  - Responsible for adding Differential Testing to the processor, using the NEMU simulator as a reference, comparing the processor with its output, and locating bugs faster.
+  - Responsible for Verilog code writing and verification of modules such as instruction fetch, decoding, execution, memory access, write-back, ROM, RAM, multiplication and division unit, bus, and Cache.
+  - Responsible for testing and verifying each instruction of the designed processor and running various test programs.
+* Design of hardware accelerator for handwritten digit recognition based on LeNet-5 network
 
+* Mask wearing recognition access control system based on FPGA
+
+* FPGA-based industrial defect detection system for aluminum surface
+
+* China Undergraduate Mathematical Contest in Modeling
+ 
 ## Student work
 * Minister of Technology Department in the Science and Technology Association
   - The main work is to carry out technical training courses, lectures on competition activities, competition experience sharing sessions and 

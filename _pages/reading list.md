@@ -5,6 +5,6 @@ permalink: /reading list/
 author_profile: true
 ---
 
-## AI Chips/Accelerator
+## AI Chip/Accelerator
 
 ## Machine Learning

@@ -26,7 +26,7 @@ WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 * Scholarship
   - Xidian University Special Scholarship(Top 1%), Social Scholarship(24/22586), National Encouragement Scholarship, Outstanding Student Model(Top 1%), Innovation Model(10/22586), etc.
 * Subject competition
-
+  - 2021.11 
 * Innovation Competition
 
 ## Student work

@@ -18,7 +18,7 @@ WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## Academic Performance
 
 ## Project Experiences
-* CPU Processor Design Based on RISC-V Instruction Set (Single core, five-stage pipeline, 64 bit)
+* CPU Processor Design Based on RISC-V Instruction Set (single core, five-stage pipeline, 64bit)
 ## Student work
 * Minister of Technology Department in the Science and Technology Association
   - The main work is to carry out technical training courses, lectures on competition activities, competition experience sharing sessions and 

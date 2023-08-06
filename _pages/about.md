@@ -14,8 +14,8 @@ Institute&nbsp;&nbsp;&nbsp;:&nbsp;School of Microeletronics&nbsp;&nbsp;&nbsp;&nb
 Major&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Integrated Circuit Design&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Native Place: Guangdong Province, China      
 Telephone:&nbsp;(+86) 133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: chenpeilin@stu.xidian.edu.cn                           
 WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Xi'an City, Shaanxi Province 
-## Academic Performance
 
+## Academic Performance
 
 
 ## Project Experiences
@@ -23,8 +23,11 @@ WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Awards
+### Scholarship
 
+### Subject competition
 
+### Innovation Competition
 
 ## Student work
 

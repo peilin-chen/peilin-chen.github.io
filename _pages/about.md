@@ -23,11 +23,11 @@ WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Awards
-### Scholarship
+* Scholarship
 
-### Subject competition
+* Subject competition
 
-### Innovation Competition
+* Innovation Competition
 
 ## Student work
 

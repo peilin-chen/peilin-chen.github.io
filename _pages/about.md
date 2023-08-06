@@ -26,8 +26,8 @@ WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 * Scholarship
   - Xidian University Special Scholarship(Top 1%), Social Scholarship(24/22586), National Encouragement Scholarship, Outstanding Student Model(Top 1%), Innovation Model(10/22586), etc.
 * Subject competition
-  - 2021.11&nbsp;&nbsp;&nbsp;&nbsp;**China Undergraduate Mathematical Contest in Modeling**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
-  - 2021.12&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate Mathematics Competition&nbsp;&nbsp;&nbsp;&nbsp;Provincial Second Prize
+  - 2021.11&nbsp;&nbsp;&nbsp;&nbsp;**China Undergraduate Mathematical Contest in Modeling**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
+  - 2021.12&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate Mathematics Competition&nbsp;&nbsp;&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
   - 2022.05&nbsp;&nbsp;&nbsp;&nbsp;International Undergradute Mathematical Contest in Modeling&nbsp;&nbsp;&nbsp;&nbsp;**International**&nbsp;&nbsp;&nbsp;&nbsp;First Prize
 * Innovation Competition
   - 2021.12&nbsp;&nbsp;&nbsp;&nbsp;**China Undergraduate FPGA Innovation Design Competition**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Third Prize

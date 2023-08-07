@@ -66,6 +66,3 @@ technical guidance for innovation and entrepreneurship competitions, and organiz
   - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;The 24th China Robotics and Artificial Intelligence Competition&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
   - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;**2022 Intel Cup Undergraduate Electronic Design Contest**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
   - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;**National Undergraduate Integrated Circuit Innovation Competition**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
-
-## Academic Performance
-GPA: 3.8/4.0&nbsp;&nbsp;&nbsp;&nbsp;Weighted Average Score: 86.4/100&nbsp;&nbsp;&nbsp;&nbsp;Comprehensive Ranking: 1/247&nbsp;&nbsp;&nbsp;&nbsp;IELTS: During exam preparation

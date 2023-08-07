@@ -21,5 +21,5 @@ main:
   - title: "Channel"
     url: /channel/
 
- # - title: "Research Proposal"
- #   url: /research proposal/
+  - title: "Symposium"
+    url: /symposium/

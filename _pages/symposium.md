@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My channel"
-permalink: /research proposal/
+title: "Technology Symposium"
+permalink: /symposium/
 author_profile: true
 ---

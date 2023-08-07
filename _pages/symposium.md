@@ -9,3 +9,4 @@ author_profile: true
 Organizer: AI Chip Center for Emerging Smart Systems (ACCESS)
 
 ## 2023 HKUST IC Design Center Annual Symposium (9-10 August 2023)
+Organizer: ECE Department of HKUST

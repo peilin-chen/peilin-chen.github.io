@@ -10,12 +10,10 @@ redirect_from:
 
 ## Basic Information
 School&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Xidian University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gender&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Male                                                 
-Institute&nbsp;&nbsp;&nbsp;:&nbsp;School of Microeletronics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Age&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 21                                                     
+Faculty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;School of Microeletronics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Age&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 21                                                     
 Major&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Integrated Circuit Design&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Native Place: Guangdong Province, China      
 Telephone:&nbsp;(+86) 133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: chenpeilin@stu.xidian.edu.cn                           
 WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Xi'an City, Shaanxi Province 
-
-## Academic Performance
 
 ## Project Experiences
 * Digital IC Design programme at Nanyang Technological University (from 24 July to 4 August 2023)
@@ -60,3 +58,6 @@ technical guidance for innovation and entrepreneurship competitions, and organiz
   - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;The 24th China Robotics and Artificial Intelligence Competition&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
   - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;**2022 Intel Cup Undergraduate Electronic Design Contest**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
   - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;**National Undergraduate Integrated Circuit Innovation Competition**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
+
+## Academic Performance
+GPA: 3.8/4.0&nbsp;&nbsp;Weighted Average Score: 86.4/100&nbsp;&nbsp;Comprehensive Ranking: 1/247&nbsp;&nbsp;IELTS: During exam preparation

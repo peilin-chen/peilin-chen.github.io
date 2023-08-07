@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Frontiers of AI Accelerators: Technologies, Circuits and Applications III (6-7 June 2023)
-Organizer: AI Chip Center for Emerging Smart Systems (ACCESS)
+Organizer: AI Chip Center for Emerging Smart Systems (ACCESS)   
 Online participation
 - "Cross-Layer Design Space Exploration for In-Memory Computing Based Accelerators"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Sharon HU** (University of Norte Dame)
 - "MINOTAUR: Enabling Transformer Models at the Edge with Posits and Resistive RAM"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Priyanka RAINA** (Stanford University)

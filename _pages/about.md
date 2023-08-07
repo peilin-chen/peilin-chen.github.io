@@ -46,7 +46,7 @@ WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   - The main work is to carry out technical training courses, lectures on competition activities, competition experience sharing sessions and 
 technical guidance for innovation and entrepreneurship competitions, and organize school-level activities for many times.
 
-## Awards
+## Awards and Honors
 * Scholarship
   - Xidian University Special Scholarship(Top 1%), Social Scholarship(24/22586), National Encouragement Scholarship, Outstanding Student Model(Top 1%), Innovation Model(10/22586), etc.
 * Subject competition

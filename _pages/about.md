@@ -45,18 +45,18 @@ Digital Integrated Circuits, AI Chip/Accelerator Based on Computing-In-Memory, R
   - Responsible for mathematical modeling and mathematical derivation, as well as the writing of abstract during competition.
  
 ## Student work
-* Minister of Technology Department in the Science and Technology Association
+* **Minister of Technology Department in the Science and Technology Association**
   - The main work is to carry out technical training courses, lectures on competition activities, competition experience sharing sessions and 
 technical guidance for innovation and entrepreneurship competitions, and organize school-level activities for many times.
 
 ## Awards and Honors
-* Scholarship
+* **Scholarship**
   - **Xidian University Special Scholarship**(Top 1%), Social Scholarship(24/22586), National Encouragement Scholarship, Outstanding Student Model(Top 1%), Innovation Model(10/22586), etc.
-* Subject competition
+* **Subject competition**
   - 2021.11&nbsp;&nbsp;&nbsp;&nbsp;**China Undergraduate Mathematical Contest in Modeling**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
   - 2021.12&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate Mathematics Competition&nbsp;&nbsp;&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
   - 2022.05&nbsp;&nbsp;&nbsp;&nbsp;International Undergradute Mathematical Contest in Modeling&nbsp;&nbsp;&nbsp;&nbsp;**International**&nbsp;&nbsp;&nbsp;&nbsp;First Prize
-* Innovation Competition
+* **Innovation Competition**
   - 2021.12&nbsp;&nbsp;&nbsp;&nbsp;**China Undergraduate FPGA Innovation Design Competition**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
   - 2022.05&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate Service Outsourcing Innovation Competition&nbsp;&nbsp;&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
   - 2022.05&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate Computer Design Competition&nbsp;&nbsp;&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;Second Prize

@@ -17,6 +17,10 @@ WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Project Experiences
 * Digital IC Design programme at Nanyang Technological University (from 24 July to 4 August 2023)
+  - Completed the Digital Integrated Circuits Design course, taught by Prof. Goh Wang Ling and Prof. Gwee Bah Hwee.
+  - Attended three specialized lectures on "Ultra-low power memory circuit design for Internet-of-Things," "Low power integrated circuits design in advanced CMOS technology," and "Computing-in-memory design for machine learning and artificial intelligence accelerators," presented by Prof. Tony Tae-Hyoung Kim.
+  - Visited Nanyang Technological University's Integrated Circuits Laboratory (CICS).
+  - Served as the team leader to complete the final project presentation, and received the Best Group award along with recognition as an outstanding student.
 * Research assistant at the Hong Kong University of Science and Technology (from 21 June to 21 July 2023)
 * CPU Processor Design Based on RISC-V Instruction Set (single core, five-stage pipeline, 64bit)
   - Responsible for adding Differential Testing to the processor, using the NEMU simulator as a reference, comparing the processor with its output, and locating bugs faster.

@@ -60,4 +60,4 @@ technical guidance for innovation and entrepreneurship competitions, and organiz
   - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;**National Undergraduate Integrated Circuit Innovation Competition**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
 
 ## Academic Performance
-GPA: 3.8/4.0&nbsp;&nbsp;Weighted Average Score: 86.4/100&nbsp;&nbsp;Comprehensive Ranking: 1/247&nbsp;&nbsp;IELTS: During exam preparation
+GPA: 3.8/4.0&nbsp;&nbsp;&nbsp;&nbsp;Weighted Average Score: 86.4/100&nbsp;&nbsp;&nbsp;&nbsp;Comprehensive Ranking: 1/247&nbsp;&nbsp;&nbsp;&nbsp;IELTS: During exam preparation

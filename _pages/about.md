@@ -15,6 +15,9 @@ Major&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Integrated Circuit Design&
 Telephone:&nbsp;(+86) 133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: chenpeilin@stu.xidian.edu.cn                           
 WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Xi'an City, Shaanxi Province 
 
+## Research Interests
+Digital Integrated Circuits, AI Chip/Accelerator Based on Computing-In-Memory, Reconfigurable Computing, Computer Architecture 
+
 ## Project Experiences
 * Digital IC Design programme at Nanyang Technological University (from 24 July to 4 August 2023)
   - Complete the Digital Integrated Circuits Design course, taught by Prof. Goh Wang Ling and Prof. Gwee Bah Hwee.

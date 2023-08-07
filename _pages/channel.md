@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "My channel"
+title: "My Channel"
 permalink: /channel/
 author_profile: true
 ---
+

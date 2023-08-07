@@ -30,7 +30,7 @@ Digital Integrated Circuits, AI Chip/Accelerator Based on Computing-In-Memory, R
   - Responsible for adding Differential Testing to the processor, using the NEMU simulator as a reference, comparing the processor with its output, and locating bugs faster.
   - Responsible for Verilog code writing and verification of modules such as instruction fetch, decoding, execution, memory access, write-back, ROM, RAM, multiplication and division unit, bus, and Cache.
   - Responsible for testing and verifying each instruction of the designed processor and running various test programs.
-* Design of hardware accelerator for handwritten digit recognition based on LeNet-5 network
+* **Design of hardware accelerator for handwritten digit recognition based on LeNet-5 network**
   - Responsible for using TensorFlow to build the LeNet-5 NN model for training, exporting the convolutional layer, fully connected layer parameters and int8 quantization.
   - Responsible for using Verilog to implement the convolutional layer, pooling layer, relu activation layer, fully connected layer and SoftMax activation layer, respectively simulate and verify each network layer, and the verified network layers are used to integrate the entire LeNet-5 network structure, finally the entire network is simulated, verified, debugged and optimized.
 * Mask wearing recognition access control system based on FPGA

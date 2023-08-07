@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Reading list"
+title: "Paper Reading"
 permalink: /reading list/
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My channel"
+title: "RP"
 permalink: /research proposal/
 author_profile: true
 ---

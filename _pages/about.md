@@ -20,12 +20,12 @@ Digital Integrated Circuits, AI Chip/Accelerator Based on Computing-In-Memory, R
 
 ## Project Experiences
 * Digital IC Design programme at Nanyang Technological University (from 24 July to 4 August 2023)
-  - Complete the Digital Integrated Circuits Design course, taught by Prof. Goh Wang Ling and Prof. Gwee Bah Hwee.
-  - Attend three specialized lectures on "Ultra-low power memory circuit design for Internet-of-Things," "Low power integrated circuits design in advanced CMOS technology," and "Computing-in-memory design for machine learning and artificial intelligence accelerators," presented by Prof. Tony Tae-Hyoung Kim.
+  - Complete the Digital Integrated Circuits Design course, taught by **Prof. Goh Wang Ling** and **Prof. Gwee Bah Hwee**.
+  - Attend three specialized lectures on "Ultra-low power memory circuit design for Internet-of-Things," "Low power integrated circuits design in advanced CMOS technology," and "Computing-in-memory design for machine learning and artificial intelligence accelerators," presented by **Prof. Tony Tae-Hyoung Kim**.
   - Visit Nanyang Technological University's Integrated Circuits Laboratory (CICS).
-  - Serve as the team leader to complete the final project presentation, and receive the Best Group award along with recognition as an outstanding student.
+  - Serve as the team leader to complete the final project presentation, and receive **the Best Group award** along with recognition as **an outstanding student**.
 * Research assistant at the Hong Kong University of Science and Technology (GUANGZHOU) (from 21 June to 21 July 2023)
-  - The main work is to assist Prof. Hongwu Jiang in researching software-hardware co-design for AI application, the specific principles and computation process of transformer, the design of transformer accelerators.
+  - The main work is to assist **Prof. Hongwu Jiang** in researching software-hardware co-design for AI application, the specific principles and computation process of transformer, the design of transformer accelerators.
 * CPU Processor Design Based on RISC-V Instruction Set (single core, five-stage pipeline, 64bit)
   - Responsible for adding Differential Testing to the processor, using the NEMU simulator as a reference, comparing the processor with its output, and locating bugs faster.
   - Responsible for Verilog code writing and verification of modules such as instruction fetch, decoding, execution, memory access, write-back, ROM, RAM, multiplication and division unit, bus, and Cache.
@@ -51,7 +51,7 @@ technical guidance for innovation and entrepreneurship competitions, and organiz
 
 ## Awards and Honors
 * Scholarship
-  - Xidian University Special Scholarship(Top 1%), Social Scholarship(24/22586), National Encouragement Scholarship, Outstanding Student Model(Top 1%), Innovation Model(10/22586), etc.
+  - **Xidian University Special Scholarship**(Top 1%), Social Scholarship(24/22586), National Encouragement Scholarship, Outstanding Student Model(Top 1%), Innovation Model(10/22586), etc.
 * Subject competition
   - 2021.11&nbsp;&nbsp;&nbsp;&nbsp;**China Undergraduate Mathematical Contest in Modeling**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
   - 2021.12&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate Mathematics Competition&nbsp;&nbsp;&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;Second Prize

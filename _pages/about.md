@@ -26,7 +26,7 @@ Digital Integrated Circuits, AI Chip/Accelerator Based on Computing-In-Memory, R
   - Serve as the team leader to complete the final project presentation, and receive **the Best Group award** along with recognition as **an outstanding student**.
 * **Research Assistant at Hong Kong University of Science and Technology (GUANGZHOU)** (from 21 June to 21 July 2023)
   - The main work is to assist **Prof. Hongwu Jiang** in researching software-hardware co-design for AI application, the specific principles and computation process of transformer, the design of transformer accelerators.
-* **Internship at Shenzhen Xiyun Digital Technology Co., Ltd**
+* **Internship at Shenzhen Xiyun Digital Technology Co., Ltd** (Nov. 2021 - Jan. 2022)
   - The main work is responsible for the application of Huawei Atlas 500 and the deployment of unmanned aerial vehicles (UAVs) low-altitude recognition algorithm.
 * **CPU Processor Design Based on RISC-V Instruction Set** (single core, five-stage pipeline, 64bit)
   - Responsible for adding Differential Testing to the processor, using the NEMU simulator as a reference, comparing the processor with its output, and locating bugs faster.

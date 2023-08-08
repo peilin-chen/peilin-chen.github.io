@@ -40,6 +40,7 @@ author_profile: true
   - Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices(2019)
   - Compute-in-Memory Chips for Deep Learning: Recent Trends and Prospects(2021)
   - Digital Versus Analog Artificial Intelligence Accelerators: Advances, trends, and emerging designs(2022)
+  - ULECGNet: An Ultra-Lightweight End-to-End ECG Classification Neural Network(2022)
 
 ## Machine Learning
   - Attention Is All You Need(2017)

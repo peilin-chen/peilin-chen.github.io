@@ -17,4 +17,9 @@ Online participation
 - "Efficient Lookup-Table AI Acceleration"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Ngai WONG** (HKU)
 
 ## 2023 HKUST IC Design Center Annual Symposium (9-10 August 2023)
-Organizer: ECE Department of HKUST
+Organizer: ECE Department of HKUST   
+Online participation
+- "Intelligence on Silicon: From DNN Accelerators to Brain Mimicking AI-SoCs"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Hoi-Jun Yoo** (KAIST)
+- "Ultra-Low-Power Circuit Design Driving Biomedical Innovations"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Yihan ZHANG** (HKUST)
+- "Digital Computing-in-Memory AI Chip Architecture and Design Automation"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Fengbin TU** (HKUST)
+- "Early-stage Timing and Power Evaluation for VLSI Design"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Zhiyao XIE** (HKUST)

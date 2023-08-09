@@ -13,7 +13,7 @@ author_profile: true
   - A 2.9TOPS/W Deep Convolutional Neural Network SoC in FD-SOI 28nm for Intelligent Embedded Systems(2017)
   - DNPU: An 8.1TOPS/W Reconfigurable CNN-RNN Processor for General-Purpose Deep Neural Networks(2017)
   - UNPU: A 50.6TOPS/W Unified Deep Neural Network Accelerator with 1b-to-16b Fully-Variable Weight Bit-Precision(2018)
-  - An 89TOPS/W and 16.3TOPS/mm2 All-Digital SRAM-Based Full-Precision Compute-In Memory Macro in 22nm for Machine-Learning Edge Applications(2021)
+  - An 89TOPS/W and 16.3TOPS/mm2 All-Digital SRAM-Based Full-Precision Compute-In-Memory Macro in 22nm for Machine-Learning Edge Applications(2021)
 * JSSC
   - Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks(2017)
   - A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications(2018)
@@ -30,7 +30,7 @@ author_profile: true
 * TCAS-I
   - ENNA: An Efficient Neural Network Accelerator Design Based on ADC-Free Compute-In-Memory Subarrays(2023)
 * MWSCAS
-  - 8T XNOR-SRAM based Parallel Compute-inMemory for Deep Neural Network Accelerator(2020)
+  - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)
 * Others
   - Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks(2016)
   - Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1(2016)

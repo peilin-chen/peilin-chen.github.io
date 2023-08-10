@@ -23,3 +23,5 @@ Online participation
 - "Ultra-Low-Power Circuit Design Driving Biomedical Innovations"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Yihan ZHANG** (HKUST)
 - "Digital Computing-in-Memory AI Chip Architecture and Design Automation"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Fengbin TU** (HKUST)
 - "Early-stage Timing and Power Evaluation for VLSI Design"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Zhiyao XIE** (HKUST)
+- "Technology-Driven Architecture Innovations in the AI Era"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Prof. Yuan XIE** (Alibaba)
+- "SRAM-based Computing-in-Mmemory Design - Circuit and Architecture"&nbsp;&nbsp;&nbsp;&nbsp;Lecturer: **Dr. Xiaomeng WANG** (HKUST)

@@ -13,6 +13,8 @@ author_profile: true
   - A 2.9TOPS/W Deep Convolutional Neural Network SoC in FD-SOI 28nm for Intelligent Embedded Systems(2017)
   - DNPU: An 8.1TOPS/W Reconfigurable CNN-RNN Processor for General-Purpose Deep Neural Networks(2017)
   - UNPU: A 50.6TOPS/W Unified Deep Neural Network Accelerator with 1b-to-16b Fully-Variable Weight Bit-Precision(2018)
+  - A 65nm 4Kb Algorithm-Dependent Computing-inMemory SRAM Unit-Macro with 2.3ns and 55.8TOPS/W Fully Parallel Product-Sum Operation for Binary DNN Edge Processors(2018)
+  - A 28nm 64Kb 6T SRAM Computing-in-Memory Macro with 8b MAC Operation for AI Edge Chips(2020)
   - An 89TOPS/W and 16.3TOPS/mm2 All-Digital SRAM-Based Full-Precision Compute-In-Memory Macro in 22nm for Machine-Learning Edge Applications(2021)
 * JSSC
   - Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks(2017)
@@ -42,6 +44,7 @@ author_profile: true
   - Compute-in-Memory Chips for Deep Learning: Recent Trends and Prospects(2021)
   - Digital Versus Analog Artificial Intelligence Accelerators: Advances, trends, and emerging designs(2022)
   - ULECGNet: An Ultra-Lightweight End-to-End ECG Classification Neural Network(2022)
+  - From Macro To Microarchitecture: Reviews and Trends of SRAM-Based Compute-in-Memory Circuits(2023)
 
 ## Machine Learning
   - Attention Is All You Need(2017)

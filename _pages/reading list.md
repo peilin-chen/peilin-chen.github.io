@@ -46,6 +46,7 @@ author_profile: true
   - Digital Versus Analog Artificial Intelligence Accelerators: Advances, trends, and emerging designs(2022)
   - ULECGNet: An Ultra-Lightweight End-to-End ECG Classification Neural Network(2022)
   - From Macro To Microarchitecture: Reviews and Trends of SRAM-Based Compute-in-Memory Circuits(2023)
+  - Side-Channel Attack Analysis on In-Memory Computing Architectures(2023)
 
 ## Machine Learning
   - Attention Is All You Need(2017)

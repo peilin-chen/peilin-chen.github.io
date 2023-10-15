@@ -29,6 +29,8 @@ author_profile: true
   - SCALEDEEP:A Scalable Compute Architecture for Learning and Evaluating Deep Networks(2017)
   - SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks(2017)
   - ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks(2021)
+* IEDM
+  - DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies(2018)
 * HPCA
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
 * TCAS-I
@@ -50,6 +52,7 @@ author_profile: true
 
 ## Machine Learning
   - Attention Is All You Need(2017)
+  - Training and Inference with Integers in Deep Neural Networks(2018)
   - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2019)
   - Q8BERT: Quantized 8Bit BERT(2019)
   - Language Models are Few-Shot Learners(2020)

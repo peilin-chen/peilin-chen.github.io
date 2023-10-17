@@ -30,7 +30,8 @@ author_profile: true
   - SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks(2017)
   - ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks(2021)
 * IEDM
-  - DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies(2018)
+  - NeuroSim+: An integrated device-to-algorithm framework for benchmarking synaptic devices and array architectures(2017)
+  - DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies(2019)
 * HPCA
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
 * TCAS-I
@@ -43,6 +44,7 @@ author_profile: true
   - Efficient Processing of Deep Neural Networks: A Tutorial and Survey(2017)
   - FINN: A Framework for Fast, Scalable Binarized Neural Network Inference(2017)
   - A Lightweight YOLOv2: A Binarized CNN with A Parallel Support Vector Regression for an FPGA(2018)
+  - NeuroSim: A Circuit-Level Macro Model for Benchmarking Neuro-Inspired Architectures in Online Learning(2018)
   - Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices(2019)
   - Compute-in-Memory Chips for Deep Learning: Recent Trends and Prospects(2021)
   - Digital Versus Analog Artificial Intelligence Accelerators: Advances, trends, and emerging designs(2022)

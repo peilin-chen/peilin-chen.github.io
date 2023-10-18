@@ -23,6 +23,7 @@ author_profile: true
   - ReDCIM: Reconfigurable Digital ComputingIn-Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration(2023)
 * VLSI
   - Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns(2017)
+  - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)
   - A 40nm Analog-Input ADC-Free Compute-in-Memory RRAM Macro with Pulse-Width Modulation between Sub-arrays(2022)
 * ISCA
   - In-Datacenter Performance Analysis of a Tensor Processing Unit(2017)
@@ -39,6 +40,7 @@ author_profile: true
 * MWSCAS
   - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)
 * Others
+  - DRAMSim2: A Cycle Accurate Memory System Simulator(2011)
   - Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks(2016)
   - Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1(2016)
   - Efficient Processing of Deep Neural Networks: A Tutorial and Survey(2017)
@@ -47,6 +49,8 @@ author_profile: true
   - NeuroSim: A Circuit-Level Macro Model for Benchmarking Neuro-Inspired Architectures in Online Learning(2018)
   - Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices(2019)
   - Compute-in-Memory Chips for Deep Learning: Recent Trends and Prospects(2021)
+  - NeuroSim Simulator for Compute-in-Memory Hardware Accelerator: Validation and Benchmark(2021)
+  - Benchmarking Memory-Centric Computing Systems: Analysis of Real Processing-In-Memory Hardware(2021)
   - Digital Versus Analog Artificial Intelligence Accelerators: Advances, trends, and emerging designs(2022)
   - ULECGNet: An Ultra-Lightweight End-to-End ECG Classification Neural Network(2022)
   - From Macro To Microarchitecture: Reviews and Trends of SRAM-Based Compute-in-Memory Circuits(2023)

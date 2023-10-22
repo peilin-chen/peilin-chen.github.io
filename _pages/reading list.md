@@ -37,6 +37,8 @@ author_profile: true
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
 * TCAS-I
   - ENNA: An Efficient Neural Network Accelerator Design Based on ADC-Free Compute-In-Memory Subarrays(2023)
+* ICCAD
+  - ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration(2020)
 * DATE
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)
 * MWSCAS

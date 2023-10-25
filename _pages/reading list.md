@@ -41,6 +41,8 @@ author_profile: true
   - ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration(2020)
 * DATE
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)
+* ISCAS
+  - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)
 * MWSCAS
   - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)
 * Others

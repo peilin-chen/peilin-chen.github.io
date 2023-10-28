@@ -16,7 +16,7 @@ Telephone:&nbsp;(+86) 133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Xi'an City, Shaanxi Province 
 
 ## Research Interests
-Digital/Mixed-signal Integrated Circuit, AI Chips Based on Computing-In-Memory, Reconfigurable Computing, Computer Architecture 
+Digital/Mixed-signal Integrated Circuit Design, AI Chips Based on Computing-In-Memory, Reconfigurable Computing, Computer Architecture 
 
 ## Project Experiences
 * **Digital IC Design programme at Nanyang Technological University** (from 24 July to 4 August 2023)

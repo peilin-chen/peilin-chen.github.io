@@ -54,6 +54,7 @@ author_profile: true
   - A Lightweight YOLOv2: A Binarized CNN with A Parallel Support Vector Regression for an FPGA(2018)
   - NeuroSim: A Circuit-Level Macro Model for Benchmarking Neuro-Inspired Architectures in Online Learning(2018)
   - Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices(2019)
+  - Device and materials requirements for neuromorphic computing(2019)
   - Compute-in-RRAM with Limited On-chip Resources(2021)
   - Compute-in-Memory Chips for Deep Learning: Recent Trends and Prospects(2021)
   - NeuroSim Simulator for Compute-in-Memory Hardware Accelerator: Validation and Benchmark(2021)

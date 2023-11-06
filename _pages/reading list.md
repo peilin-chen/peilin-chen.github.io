@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## AI Chip/Accelerator
+*Science
+  - Edge learning using a fully integrated neuro-inspired memristor chip(2023)
 * ISSCC
   - A 1.42TOPS/W Deep Convolutional Neural Network Recognition Processor for Intelligent IoE Systems(2016)
   - A 288μW Programmable Deep-Learning Processor with 270KB On-Chip Weight Storage Using Non-Uniform Memory Hierarchy for Mobile Intelligence(2017)

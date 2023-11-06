@@ -21,6 +21,7 @@ author_profile: true
 * JSSC
   - Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks(2017)
   - A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications(2018)
+  - Evolver: A Deep Learning Processor With On-Device Quantization–Voltage–Frequency Tuning(2021)
   - TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes(2023)
   - ReDCIM: Reconfigurable Digital ComputingIn-Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration(2023)
 * VLSI

@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Peilin CHEN"
 title_separator          : "-"
-name                     : &name "Peilin Chen's Homepage"
+name                     : &name "Peilin CHEN's Homepage"
 description              : &description "personal description"
 url                      : https://peilin-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

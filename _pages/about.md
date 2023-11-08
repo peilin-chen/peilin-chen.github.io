@@ -8,63 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-## Basic Information
-School&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Xidian University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gender&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Male                                                 
-Faculty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;School of Microeletronics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Age&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 21                                                     
-Major&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Integrated Circuit Design&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Native Place: Guangdong Province, China      
-Telephone:&nbsp;(+86) 133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: chenpeilin@stu.xidian.edu.cn                           
-WeChat&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;133-3650-5376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Xi'an City, Shaanxi Province 
+# Welcome to Peilin's homepage!
 
-## Research Interests
-Digital/Mixed-signal IC Design, AI Chips Based on Computing-In-Memory, Reconfigurable Computing, Computer Architecture 
+&emsp;
 
-## Project Experiences
-* **Digital IC Design programme at Nanyang Technological University** (from 24 July to 4 August 2023)
-  - Complete the Digital Integrated Circuits Design course, taught by **Prof. Goh Wang Ling** and **Prof. Gwee Bah Hwee**.
-  - Attend three specialized lectures on "Ultra-low power memory circuit design for Internet-of-Things," "Low power integrated circuits design in advanced CMOS technology," and "Computing-in-memory design for machine learning and artificial intelligence accelerators," presented by **Prof. Tony Tae-Hyoung Kim**.
-  - Visit Nanyang Technological University's Integrated Circuits Laboratory (CICS).
-  - Serve as the team leader to complete the final project presentation, and receive **the Best Group award** along with recognition as **an outstanding student**.
-* **Research Assistant at Hong Kong University of Science and Technology (GUANGZHOU)** (from 21 June to 21 July 2023)
-  - The main work is to assist **Prof. Hongwu Jiang** in researching software-hardware co-design for AI application, the specific principles and computation process of transformer, the design of transformer accelerators.
-* **Internship at Shenzhen Xiyun Digital Technology Co., Ltd** (Nov. 2021 - Jan. 2022)
-  - The main work is responsible for the application of Huawei Atlas 500 and the deployment of unmanned aerial vehicles (UAVs) low-altitude recognition algorithm.
-* **CPU Processor Design Based on RISC-V Instruction Set** (single core, five-stage pipeline, 64bit)
-  - Responsible for adding Differential Testing to the processor, using the NEMU simulator as a reference, comparing the processor with its output, and locating bugs faster.
-  - Responsible for Verilog code writing and verification of modules such as instruction fetch, decoding, execution, memory access, write-back, ROM, RAM, multiplication and division unit, bus, and Cache.
-  - Responsible for testing and verifying each instruction of the designed processor and running various test programs.
-* **Design of accelerator for handwritten digit recognition based on LeNet-5 network**
-  - Responsible for using TensorFlow to build the LeNet-5 NN model for training, exporting the convolutional layer, fully connected layer parameters and int8 quantization.
-  - Responsible for using Verilog to implement the convolutional layer, pooling layer, relu activation layer, fully connected layer and SoftMax activation layer, respectively simulate and verify each network layer, and the verified network layers are used to integrate the entire LeNet-5 network structure, finally the entire network is simulated, verified, debugged and optimized.
-* **Mask wearing recognition access control system based on FPGA**
-  - Responsible for creating datasets, use and improve the LeNet-5 network structure, and perform training and quantization.
-  - Responsible for building the block design of the Zynq 7020 platform SOC system, the HLS-level development of the NN accelerator, the construction of the convolution module and pooling module and simulation, adding synthesis directives to the convolution layer and pooling layer to improve computation parallelism.
-* **FPGA-based industrial defect detection system for aluminum surface**
-  - Responsible for creating datasets for aluminum, using PaddlePaddle to replace the backbone network, train and optimize Yolo and SSD series models.
-  - Responsible for using the Flask lightweight framework to develop interactive web front-ends.
-  - Responsible for converting the Paddle model generated by training into nb model files supported on the Intel FPGA platform, and deploying the model on FPGA using PaddleLite.
-* **China Undergraduate Mathematical Contest in Modeling**
-  - Selecting physical analysis question, the adjustment of the reflection panel of the "FAST" active reflection surface and the acceptance ratio of the feed cabin after adjustment are studied when the celestial body to be measured is in different positions.Simplify the three-dimensional parabola and sphere into two-dimensional parabola and arc for processing, use the coordinate system transformation theory to establish a moving coordinate system, and consider the constraints required in the question to establish a multi-objective optimization model.
-  - Responsible for mathematical modeling and mathematical derivation, as well as the writing of abstract during competition.
- 
-## Student work
-* **Minister of Technology Department in the Science and Technology Association**
-  - The main work is to carry out technical training courses, lectures on competition activities, competition experience sharing sessions and 
-technical guidance for innovation and entrepreneurship competitions, and organize school-level activities for many times.
+## Peilin CHEN (陈培林)
 
-## Awards and Honors
-* **Scholarship**
-  - **Xidian University Special Scholarship**(Top 1%), Social Scholarship(24/22586), National Encouragement Scholarship, Outstanding Student Model(Top 1%), Innovation Model(10/22586), etc.
-* **Subject competition**
-  - 2021.11&nbsp;&nbsp;&nbsp;&nbsp;**China Undergraduate Mathematical Contest in Modeling**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
-  - 2021.12&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate Mathematics Competition&nbsp;&nbsp;&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
-  - 2022.05&nbsp;&nbsp;&nbsp;&nbsp;International Undergradute Mathematical Contest in Modeling&nbsp;&nbsp;&nbsp;&nbsp;**International**&nbsp;&nbsp;&nbsp;&nbsp;First Prize
-* **Innovation Competition**
-  - 2021.12&nbsp;&nbsp;&nbsp;&nbsp;**China Undergraduate FPGA Innovation Design Competition**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
-  - 2022.05&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate Service Outsourcing Innovation Competition&nbsp;&nbsp;&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
-  - 2022.05&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate Computer Design Competition&nbsp;&nbsp;&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
-  - 2022.07&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate "Innovation, Originality and Entrepreneurship" Contest&nbsp;&nbsp;&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
-  - 2022.07&nbsp;&nbsp;&nbsp;&nbsp;China Undergraduate Traning Program for Innovation and Entrepreneurship&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Excellent
-  - 2022.07&nbsp;&nbsp;&nbsp;&nbsp;National University Students' Opt-Sci-tech Competition&nbsp;&nbsp;&nbsp;&nbsp;Provincial&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
-  - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;The 24th China Robotics and Artificial Intelligence Competition&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
-  - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;**2022 Intel Cup Undergraduate Electronic Design Contest**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Third Prize
-  - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;**National Undergraduate Integrated Circuit Innovation Competition**&nbsp;&nbsp;&nbsp;&nbsp;**National**&nbsp;&nbsp;&nbsp;&nbsp;Second Prize
+### Undergraduate student at Xidian University (XDU)
+
+&emsp;
+
+Peilin CHEN is now a fourth-year student at Xidian University. His current research interests are Digital/Mixed-signal IC Design, AI Chips Based on Computing-In-Memory and Computer Architecture.
+
+
+**Email:** chenpeilin101@gmail.com
+
+
+
+## News
+
+Look forward to good news
+;**[19/06/2023] Dissertation:** My dissertation, **Digital Compute-In-Memory Automatic Design Methodology**, has been selected as the excellent graduation project (dissertation) of SCUT! \
+;**[12/04/2023] HKPFS&Redbird:** I have been awarded the Hong Kong PhD Fellowship and HKUST Redbird Award! \
+;**[14/02/2023] DAC'23:** One paper, **AutoDCIM**, has been accepted by DAC'23! Congrats！

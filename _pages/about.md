@@ -27,7 +27,4 @@ Peilin CHEN is now a fourth-year student at Xidian University. His current resea
 
 ## News
 
-Look forward to good news
-;**[19/06/2023] Dissertation:** My dissertation, **Digital Compute-In-Memory Automatic Design Methodology**, has been selected as the excellent graduation project (dissertation) of SCUT! \
-;**[12/04/2023] HKPFS&Redbird:** I have been awarded the Hong Kong PhD Fellowship and HKUST Redbird Award! \
-;**[14/02/2023] DAC'23:** One paper, **AutoDCIM**, has been accepted by DAC'23! Congrats！
+Look forward to good news!

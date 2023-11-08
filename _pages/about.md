@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peilin Chen (陈培林)"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 

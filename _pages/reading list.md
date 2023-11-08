@@ -52,6 +52,7 @@ author_profile: true
   - DRAMSim2: A Cycle Accurate Memory System Simulator(2011)
   - Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks(2016)
   - Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1(2016)
+  - Ramulator: A Fast and Extensible DRAM Simulator(2016)
   - Efficient Processing of Deep Neural Networks: A Tutorial and Survey(2017)
   - FINN: A Framework for Fast, Scalable Binarized Neural Network Inference(2017)
   - A Lightweight YOLOv2: A Binarized CNN with A Parallel Support Vector Regression for an FPGA(2018)

@@ -46,6 +46,8 @@ author_profile: true
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)
 * ISCAS
   - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)
+* TCAD
+  - ESSENCE: Exploiting Structured Stochastic Gradient Pruning for Endurance-Aware ReRAM-Based In-Memory Training Systems(2023)
 * MWSCAS
   - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)
 * Others

@@ -38,6 +38,8 @@ author_profile: true
 * IEDM
   - NeuroSim+: An integrated device-to-algorithm framework for benchmarking synaptic devices and array architectures(2017)
   - DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies(2019)
+* DAC
+  - PIMCOMP: A Universal Compilation Framework for Crossbar-based PIM DNN Accelerators(2023)
 * HPCA
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
 * TCAS-I

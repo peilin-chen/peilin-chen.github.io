@@ -40,6 +40,7 @@ author_profile: true
   - DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies(2019)
 * DAC
   - PIMCOMP: A Universal Compilation Framework for Crossbar-based PIM DNN Accelerators(2023)
+  - AutoDCIM: An Automated Digital CIM Compiler(2023)
 * HPCA
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
 * TCAS-I

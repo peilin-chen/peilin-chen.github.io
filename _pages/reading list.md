@@ -1,4 +1,4 @@
----
+![image](https://github.com/peilin-chen/peilin-chen.github.io/assets/84078615/828a80d6-9a95-4674-81ae-a3e1ef5f6940)---
 layout: single
 title: "Paper Reading"
 permalink: /reading list/
@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## AI Chip/Accelerator
+* Nature
+  - Neuro-inspired computing chips(2020)
 * Science
   - Edge learning using a fully integrated neuro-inspired memristor chip(2023)
 * ISSCC

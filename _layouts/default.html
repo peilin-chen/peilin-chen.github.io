@@ -37,13 +37,10 @@ layout: compress
             var scJsHost = "https://";
             document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
             "statcounter.com/counter/counter.js'></"+"script>");
-            // 获取访客计数器的数字
-            function getVisitorCount() {
-              return document.querySelector('.statcounter').innerText.trim();
-            }
-            // 根据访客计数显示句子
-            function displayVisitorSentence() {
-              var visitorCount = parseInt(getVisitorCount());
+          
+            // 在页面加载后显示句子
+            window.addEventListener('load', function() {
+              var visitorCount = parseInt(document.querySelector('.statcounter').innerText.trim());
               var sentence = "You are my ";
               if (visitorCount == 1) {
                 sentence += "1st";
@@ -56,10 +53,6 @@ layout: compress
               }
               sentence += " visitor!";
               document.getElementById("visitor-sentence").innerText = sentence;
-            }
-            // 在页面加载后显示句子
-            window.addEventListener('load', function() {
-              displayVisitorSentence();
             });
           </script>
           <noscript>
@@ -69,9 +62,9 @@ layout: compress
               </a>
             </div>
           </noscript>
-        </div>
-        <p id="visitor-sentence"></p>
-        <style>
+          <p id="visitor-sentence"></p>
+          
+          <style>
           .visitor-counter {
             /* 添加自定义样式 */
             text-align: center;

@@ -18,66 +18,38 @@ layout: compress
 
       gtag('config', 'G-8X7HTJ0NEQ');
     </script>
+
+    
+    
   </head>
 
   <body>
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+
     {{ content }}
+
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
-        <!-- 粘贴访客计数器代码片段 -->
-        <div class="visitor-counter">
-          <script type="text/javascript">
-            var sc_project=12940346; 
-            var sc_invisible=0; 
-            var sc_security="940d3e6d"; 
-            var scJsHost = "https://";
-            document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
-            "statcounter.com/counter/counter.js'></"+"script>");
-      
-            window.addEventListener('load', function() {
-              var checkExist = setInterval(function() {
-                if (document.querySelector('.statcounter')) {
-                  clearInterval(checkExist);
-                  displayVisitorSentence();
-                }
-              }, 100); // 每100毫秒检查一次是否存在.statcounter元素
-            });
-      
-            function displayVisitorSentence() {
-              var visitorCount = parseInt(document.querySelector('.statcounter').innerText.trim());
-              var sentence = "You are my ";
-              if (visitorCount == 1) {
-                sentence += "1st";
-              } else if (visitorCount == 2) {
-                sentence += "2nd";
-              } else if (visitorCount == 3) {
-                sentence += "3rd";
-              } else {
-                sentence += visitorCount + "th";
-              }
-              sentence += " visitor!";
-              document.getElementById("visitor-sentence").innerText = sentence;
-            }
-          </script>
-          <noscript>
-            <div class="statcounter">
-              <a title="Web Analytics Made Easy - Statcounter" href="https://statcounter.com/" target="_blank">
-                <img class="statcounter" src="https://c.statcounter.com/12940346/0/940d3e6d/0/" alt="Web Analytics Made Easy - Statcounter" referrerPolicy="no-referrer-when-downgrade">
-              </a>
-            </div>
-          </noscript>
-          <p id="visitor-sentence"></p>
-          
-          <style>
-          .visitor-counter {
-            /* 添加自定义样式 */
-            text-align: center;
-          }
-        </style>
+        <!-- Default Statcounter code for My Personal Website
+        https://peilin-chen.github.io/ -->
+        <script type="text/javascript">
+        var sc_project=12940346; 
+        var sc_invisible=0; 
+        var sc_security="940d3e6d"; 
+        var scJsHost = "https://";
+        document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
+        "statcounter.com/counter/counter.js'></"+"script>");
+        </script>
+        <noscript><div class="statcounter"><a title="Web Analytics Made Easy -
+        Statcounter" href="https://statcounter.com/" target="_blank"><img
+        class="statcounter" src="https://c.statcounter.com/12940346/0/940d3e6d/0/"
+        alt="Web Analytics Made Easy - Statcounter"
+        referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+        <!-- End of Statcounter Code -->
       </footer>
     </div>
 

@@ -10,7 +10,7 @@ author_profile: true
   - Neuro-inspired computing chips(2020)
 * Science
   - Edge learning using a fully integrated neuro-inspired memristor chip(2023)
-* ISSCC
+* [ISSCC](https://dblp.org/db/conf/isscc/index.html)
   - A 1.42TOPS/W Deep Convolutional Neural Network Recognition Processor for Intelligent IoE Systems(2016)
   - A 288μW Programmable Deep-Learning Processor with 270KB On-Chip Weight Storage Using Non-Uniform Memory Hierarchy for Mobile Intelligence(2017)
   - A 0.62mW Ultra-Low-Power Convolutional-NeuralNetwork Face-Recognition Processor and a CIS Integrated with Always-On Haar-Like Face Detector(2017)
@@ -20,7 +20,7 @@ author_profile: true
   - A 65nm 4Kb Algorithm-Dependent Computing-inMemory SRAM Unit-Macro with 2.3ns and 55.8TOPS/W Fully Parallel Product-Sum Operation for Binary DNN Edge Processors(2018)
   - A 28nm 64Kb 6T SRAM Computing-in-Memory Macro with 8b MAC Operation for AI Edge Chips(2020)
   - An 89TOPS/W and 16.3TOPS/mm2 All-Digital SRAM-Based Full-Precision Compute-In-Memory Macro in 22nm for Machine-Learning Edge Applications(2021)
-* JSSC
+* [JSSC](https://dblp.org/db/journals/jssc/index.html)
   - Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks(2017)
   - A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications(2018)
   - Evolver: A Deep Learning Processor With On-Device Quantization–Voltage–Frequency Tuning(2021)
@@ -30,7 +30,7 @@ author_profile: true
   - Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns(2017)
   - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)
   - A 40nm Analog-Input ADC-Free Compute-in-Memory RRAM Macro with Pulse-Width Modulation between Sub-arrays(2022)
-* ISCA
+* [ISCA](https://dblp.org/db/conf/isca/index.html)
   - In-Datacenter Performance Analysis of a Tensor Processing Unit(2017)
   - SCALEDEEP:A Scalable Compute Architecture for Learning and Evaluating Deep Networks(2017)
   - SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks(2017)

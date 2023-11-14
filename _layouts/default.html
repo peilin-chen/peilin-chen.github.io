@@ -37,9 +37,17 @@ layout: compress
             var scJsHost = "https://";
             document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
             "statcounter.com/counter/counter.js'></"+"script>");
-          
-            // 在页面加载后显示句子
+      
             window.addEventListener('load', function() {
+              var checkExist = setInterval(function() {
+                if (document.querySelector('.statcounter')) {
+                  clearInterval(checkExist);
+                  displayVisitorSentence();
+                }
+              }, 1000); // 每100毫秒检查一次是否存在.statcounter元素
+            });
+      
+            function displayVisitorSentence() {
               var visitorCount = parseInt(document.querySelector('.statcounter').innerText.trim());
               var sentence = "You are my ";
               if (visitorCount == 1) {
@@ -53,7 +61,7 @@ layout: compress
               }
               sentence += " visitor!";
               document.getElementById("visitor-sentence").innerText = sentence;
-            });
+            }
           </script>
           <noscript>
             <div class="statcounter">

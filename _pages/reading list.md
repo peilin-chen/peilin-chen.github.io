@@ -38,7 +38,7 @@ author_profile: true
 * IEDM
   - NeuroSim+: An integrated device-to-algorithm framework for benchmarking synaptic devices and array architectures(2017)
   - DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies(2019)
-* ASPLOS
+* [ASPLOS](https://dblp.org/db/conf/asplos/index.html)
   - PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference(2019)
 * [DAC](https://dblp.org/db/conf/dac/index.html)
   - PIMCOMP: A Universal Compilation Framework for Crossbar-based PIM DNN Accelerators(2023)

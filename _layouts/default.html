@@ -46,7 +46,7 @@ layout: compress
             
             // 获取访客计数器的数字
             function getVisitorCount() {
-              return document.getElementsByClassName('statcounter')[0].getElementsByTagName('strong')[0].innerText;
+              return document.querySelector('.statcounter').innerText.trim();
             }
             
             // 根据访客计数显示句子

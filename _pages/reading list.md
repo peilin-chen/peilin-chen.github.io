@@ -26,10 +26,11 @@ author_profile: true
   - Evolver: A Deep Learning Processor With On-Device Quantization–Voltage–Frequency Tuning(2021)
   - TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes(2023)
   - ReDCIM: Reconfigurable Digital ComputingIn-Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration(2023)
-* VLSI
+* [VLSI](https://dblp.org/db/conf/vlsic/index.html)
+  - A 40nm Analog-Input ADC-Free Compute-in-Memory RRAM Macro with Pulse-Width Modulation between Sub-arrays(2022)
+* [TVLSI](https://dblp.org/db/journals/tvlsi/index.html)
   - Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns(2017)
   - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)
-  - A 40nm Analog-Input ADC-Free Compute-in-Memory RRAM Macro with Pulse-Width Modulation between Sub-arrays(2022)
 * [ISCA](https://dblp.org/db/conf/isca/index.html)
   - In-Datacenter Performance Analysis of a Tensor Processing Unit(2017)
   - SCALEDEEP:A Scalable Compute Architecture for Learning and Evaluating Deep Networks(2017)
@@ -43,20 +44,20 @@ author_profile: true
 * [DAC](https://dblp.org/db/conf/dac/index.html)
   - PIMCOMP: A Universal Compilation Framework for Crossbar-based PIM DNN Accelerators(2023)
   - AutoDCIM: An Automated Digital CIM Compiler(2023)
-* HPCA
+* [HPCA](https://dblp.org/db/conf/hpca/index.html)
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
-* TCAS-I
+* [TCAS-I](https://dblp.org/db/journals/tcasI/index.html)
   - ENNA: An Efficient Neural Network Accelerator Design Based on ADC-Free Compute-In-Memory Subarrays(2023)
 * [ICCAD](https://dblp.org/db/conf/iccad/index.html)
   - Scaling the "memory wall"(2012)
   - ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration(2020)
-* DATE
+* [DATE](https://dblp.org/db/conf/date/index.html)
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)
-* ISCAS
+* [ISCAS](https://dblp.org/db/conf/iscas/index.html)
   - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)
-* TCAD
+* [TCAD](https://dblp.org/db/journals/tcad/index.html)
   - ESSENCE: Exploiting Structured Stochastic Gradient Pruning for Endurance-Aware ReRAM-Based In-Memory Training Systems(2023)
-* MWSCAS
+* [MWSCAS](https://dblp.org/db/conf/mwscas/index.html)
   - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)
 * Others
   - DRAMSim2: A Cycle Accurate Memory System Simulator(2011)

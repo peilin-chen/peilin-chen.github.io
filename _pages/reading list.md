@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## AI Chip/Accelerator
-* Nature
+* [Nature](https://www.nature.com/search?journal=ncomms,%20nature,%20natelectron&article_type=research&subject=engineering,%20nanoscience-and-technology&order=relevance)
   - Neuro-inspired computing chips(2020)
-* Science
+* [Science](https://www.science.org/action/doSearch?AllField=Edge+learning+using+a+fully+integrated+neuro-inspired+memristor+chip)
   - Edge learning using a fully integrated neuro-inspired memristor chip(2023)
 * [ISSCC](https://dblp.org/db/conf/isscc/index.html)
   - A 1.42TOPS/W Deep Convolutional Neural Network Recognition Processor for Intelligent IoE Systems(2016)

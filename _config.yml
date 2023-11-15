@@ -83,11 +83,11 @@ author:
   name             : "Peilin CHEN"
   avatar           : "My photo5.jpg"
   bio              : "Undergraduate student at XDU"
-  #location         : "Location"
+  location         : "Xi'an, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "chenpeilin101@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "academicpages"
+  github           : "https://github.com/peilin-chen"
   google_plus      :
   keybase          :
   instagram        :

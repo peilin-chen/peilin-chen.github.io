@@ -44,6 +44,7 @@ author_profile: true
 * [DAC](https://dblp.org/db/conf/dac/index.html)
   - PIMCOMP: A Universal Compilation Framework for Crossbar-based PIM DNN Accelerators(2023)
   - AutoDCIM: An Automated Digital CIM Compiler(2023)
+  - A Convolution Neural Network Accelerator Design with Weight Mapping and Pipeline Optimization(2023)
 * [HPCA](https://dblp.org/db/conf/hpca/index.html)
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
 * [TCAS-I](https://dblp.org/db/journals/tcasI/index.html)

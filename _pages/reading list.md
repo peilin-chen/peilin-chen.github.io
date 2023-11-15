@@ -36,7 +36,7 @@ author_profile: true
   - SCALEDEEP:A Scalable Compute Architecture for Learning and Evaluating Deep Networks(2017)
   - SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks(2017)
   - ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks(2021)
-* IEDM
+* [IEDM](https://ieeexplore.ieee.org/xpl/conhome/1000245/all-proceedings)
   - NeuroSim+: An integrated device-to-algorithm framework for benchmarking synaptic devices and array architectures(2017)
   - DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies(2019)
 * [ASPLOS](https://dblp.org/db/conf/asplos/index.html)

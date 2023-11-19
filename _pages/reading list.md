@@ -33,6 +33,7 @@ author_profile: true
   - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)
 * [ISCA](https://dblp.org/db/conf/isca/index.html)
   - ISAAC: a convolutional neural network accelerator with in-situ analog arithmetic in crossbars(2016)
+  - PRIME: a novel processing-in-memory architecture for neural network computation in ReRAM-based main memory(2016)
   - In-Datacenter Performance Analysis of a Tensor Processing Unit(2017)
   - SCALEDEEP:A Scalable Compute Architecture for Learning and Evaluating Deep Networks(2017)
   - SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks(2017)

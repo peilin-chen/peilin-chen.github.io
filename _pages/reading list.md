@@ -27,6 +27,7 @@ author_profile: true
   - TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes(2023)
   - ReDCIM: Reconfigurable Digital ComputingIn-Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration(2023)
 * [VLSI](https://dblp.org/db/conf/vlsic/index.html)
+  - A 1.06-to-5.09 TOPS/W reconfigurable hybrid-neural-network processor for deep learning applications(2017)
   - A 40nm Analog-Input ADC-Free Compute-in-Memory RRAM Macro with Pulse-Width Modulation between Sub-arrays(2022)
 * [TVLSI](https://dblp.org/db/journals/tvlsi/index.html)
   - Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns(2017)

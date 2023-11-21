@@ -53,12 +53,20 @@ layout: compress
     </div>
 
     <!-- map -->   
-    <p> <center>	
-    <!-- height:400px; -->
     <div style="margin:10px auto=; width:500px; pointer-events: none;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY"></script>
+    <script type="text/javascript" id="clstr_globe" data-cm-size="300x300" src="//clustrmaps.com/globe.js?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY"></script>
     </div>
-    </p> </center>
+
+    <div id="clstr_globe" style="width: 50%; height: 50px;"></div>
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY"></script>
+    <style>
+    #clstr_globe {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    </style>
+
     
     {% include scripts.html %}
 

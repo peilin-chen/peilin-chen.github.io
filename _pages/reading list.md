@@ -57,6 +57,7 @@ author_profile: true
 * [ICCAD](https://dblp.org/db/conf/iccad/index.html)
   - Scaling the "memory wall"(2012)
   - ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration(2020)
+  - GAMMA: automating the HW mapping of DNN models on accelerators via genetic algorithm(2020)
   - Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators(2022)
 * [DATE](https://dblp.org/db/conf/date/index.html)
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)

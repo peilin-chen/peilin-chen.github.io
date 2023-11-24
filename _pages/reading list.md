@@ -60,6 +60,7 @@ author_profile: true
   - GAMMA: automating the HW mapping of DNN models on accelerators via genetic algorithm(2020)
   - Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators(2022)
 * [DATE](https://dblp.org/db/conf/date/index.html)
+  - TDO-CIM: Transparent Detection and Offloading for Computation In-memory(2020)
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)
 * [ISCAS](https://dblp.org/db/conf/iscas/index.html)
   - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)

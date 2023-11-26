@@ -69,6 +69,7 @@ author_profile: true
 * [ISCAS](https://dblp.org/db/conf/iscas/index.html)
   - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)
 * [TCAD](https://dblp.org/db/journals/tcad/index.html)
+  - OCC: An Automated End-to-End Machine Learning Optimizing Compiler for Computing-In-Memory(2022)
   - ESSENCE: Exploiting Structured Stochastic Gradient Pruning for Endurance-Aware ReRAM-Based In-Memory Training Systems(2023)
 * [MWSCAS](https://dblp.org/db/conf/mwscas/index.html)
   - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)

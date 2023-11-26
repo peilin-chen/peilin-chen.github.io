@@ -54,6 +54,7 @@ author_profile: true
   - PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning(2017)
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
 * [TCAS-I](https://dblp.org/db/journals/tcasI/index.html)
+  - Research Progress on Memristor: From Synapses to Computing Systems(2022)
   - ENNA: An Efficient Neural Network Accelerator Design Based on ADC-Free Compute-In-Memory Subarrays(2023)
 * [ICCAD](https://dblp.org/db/conf/iccad/index.html)
   - Scaling the "memory wall"(2012)

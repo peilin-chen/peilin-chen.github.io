@@ -82,6 +82,7 @@ author_profile: true
   - FINN: A Framework for Fast, Scalable Binarized Neural Network Inference(2017)
   - A Lightweight YOLOv2: A Binarized CNN with A Parallel Support Vector Regression for an FPGA(2018)
   - NeuroSim: A Circuit-Level Macro Model for Benchmarking Neuro-Inspired Architectures in Online Learning(2018)
+  - mRNA: Enabling Efficient Mapping Space Exploration for a Reconfiguration Neural Accelerator(2019)
   - Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices(2019)
   - Device and materials requirements for neuromorphic computing(2019)
   - Compute-in-RRAM with Limited On-chip Resources(2021)

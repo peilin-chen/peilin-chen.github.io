@@ -105,3 +105,6 @@ author_profile: true
   - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2019)
   - Q8BERT: Quantized 8Bit BERT(2019)
   - Language Models are Few-Shot Learners(2020)
+
+## RISC-V
+  - Framework and Tools for Undergraduates Designing RISC-V Processors on an FPGA in Computer Architecture Education(2019)

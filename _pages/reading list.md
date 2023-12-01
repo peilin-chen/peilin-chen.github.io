@@ -109,3 +109,4 @@ author_profile: true
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)
   - Framework and Tools for Undergraduates Designing RISC-V Processors on an FPGA in Computer Architecture Education(2019)
+  - RVfpga: Using a RISC-V Core Targeted to an FPGA in Computer Architecture Education(2021)

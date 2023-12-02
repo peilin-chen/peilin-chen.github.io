@@ -111,3 +111,4 @@ author_profile: true
   - Framework and Tools for Undergraduates Designing RISC-V Processors on an FPGA in Computer Architecture Education(2019)
   - GVSoC: A Highly Configurable, Fast and Accurate Full-Platform Simulator for RISC-V based IoT Processors(2021)
   - RVfpga: Using a RISC-V Core Targeted to an FPGA in Computer Architecture Education(2021)
+  - A Survey of RISC-V CPU for IoT Applications(2022)

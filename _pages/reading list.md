@@ -110,6 +110,7 @@ author_profile: true
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)
+  - TAIGA: A new RISC-V soft-processor framework enabling high performance CPU architectural features(2017)
   - Framework and Tools for Undergraduates Designing RISC-V Processors on an FPGA in Computer Architecture Education(2019)
   - GVSoC: A Highly Configurable, Fast and Accurate Full-Platform Simulator for RISC-V based IoT Processors(2021)
   - RVfpga: Using a RISC-V Core Targeted to an FPGA in Computer Architecture Education(2021)

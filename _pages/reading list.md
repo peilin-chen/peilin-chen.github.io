@@ -88,6 +88,7 @@ author_profile: true
   - mRNA: Enabling Efficient Mapping Space Exploration for a Reconfiguration Neural Accelerator(2019)
   - Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices(2019)
   - Device and materials requirements for neuromorphic computing(2019)
+  - Timeloop: A Systematic Approach to DNN Accelerator Evaluation(2019)
   - MNSIM 2.0: A Behavior-Level Modeling Tool for Memristor-based Neuromorphic Computing Systems(2020)
   - An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs(2020)
   - Compute-in-RRAM with Limited On-chip Resources(2021)

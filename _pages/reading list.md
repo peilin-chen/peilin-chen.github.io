@@ -106,6 +106,7 @@ author_profile: true
   - Hardware-aware Quantization/Mapping Strategies for Compute-in-Memory Accelerators(2023)
 
 ## Machine Learning
+  - Training deep neural networks with low precision multiplications(2015)
   - Attention Is All You Need(2017)
   - Training and Inference with Integers in Deep Neural Networks(2018)
   - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2019)

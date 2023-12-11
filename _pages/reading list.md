@@ -103,6 +103,7 @@ author_profile: true
   - From Macro To Microarchitecture: Reviews and Trends of SRAM-Based Compute-in-Memory Circuits(2023)
   - Side-Channel Attack Analysis on In-Memory Computing Architectures(2023)
   - An Ultra-Low Power TinyML System for Real-Time Visual Processing at Edge(2023)
+  - Hardware-aware Quantization/Mapping Strategies for Compute-in-Memory Accelerators(2023)
 
 ## Machine Learning
   - Attention Is All You Need(2017)

@@ -60,6 +60,7 @@ author_profile: true
   - ENNA: An Efficient Neural Network Accelerator Design Based on ADC-Free Compute-In-Memory Subarrays(2023)
 * [ICCAD](https://dblp.org/db/conf/iccad/index.html)
   - Scaling the "memory wall"(2012)
+  - OpenRAM: An open-source memory compiler(2016)
   - Accelergy: An Architecture-Level Energy Estimation Methodology for Accelerator Designs(2019)
   - ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration(2020)
   - GAMMA: automating the HW mapping of DNN models on accelerators via genetic algorithm(2020)

@@ -47,6 +47,7 @@ author_profile: true
   - PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference(2019)
 * [DAC](https://dblp.org/db/conf/dac/index.html)
   - Atomlayer: a universal ReRAM-based CNN accelerator with atomic layer computation(2018)
+  - A Configurable Multi-Precision CNN Computing Framework Based on Single Bit RRAM(2019)
   - PIMCOMP: A Universal Compilation Framework for Crossbar-based PIM DNN Accelerators(2023)
   - AutoDCIM: An Automated Digital CIM Compiler(2023)
   - A Convolution Neural Network Accelerator Design with Weight Mapping and Pipeline Optimization(2023)

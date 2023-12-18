@@ -106,6 +106,7 @@ author_profile: true
   - Side-Channel Attack Analysis on In-Memory Computing Architectures(2023)
   - An Ultra-Low Power TinyML System for Real-Time Visual Processing at Edge(2023)
   - Hardware-aware Quantization/Mapping Strategies for Compute-in-Memory Accelerators(2023)
+  - Wafer-scale Computing: Advancements, Challenges, and Future Perspectives(2023)
 
 ## Machine Learning
   - Training deep neural networks with low precision multiplications(2015)

@@ -107,6 +107,7 @@ author_profile: true
   - An Ultra-Low Power TinyML System for Real-Time Visual Processing at Edge(2023)
   - Hardware-aware Quantization/Mapping Strategies for Compute-in-Memory Accelerators(2023)
   - Wafer-scale Computing: Advancements, Challenges, and Future Perspectives(2023)
+  - Neuro-Symbolic Computing: Advancements and Challenges in Hardware-Software Co-Design(2023)
 
 ## Machine Learning
   - Training deep neural networks with low precision multiplications(2015)

@@ -67,6 +67,7 @@ author_profile: true
   - GAMMA: automating the HW mapping of DNN models on accelerators via genetic algorithm(2020)
   - Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators(2022)
 * [ASPDAC](https://dblp.org/db/conf/aspdac/index.html)
+  - ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks(2018)
   - Improving the Robustness and Efficiency of PIM-Based Architecture by SW/HW Co-Design(2023)
 * [DATE](https://dblp.org/db/conf/date/index.html)
   - TDO-CIM: Transparent Detection and Offloading for Computation In-memory(2020)

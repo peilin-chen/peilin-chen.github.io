@@ -103,6 +103,7 @@ author_profile: true
   - Digital Versus Analog Artificial Intelligence Accelerators: Advances, trends, and emerging designs(2022)
   - ULECGNet: An Ultra-Lightweight End-to-End ECG Classification Neural Network(2022)
   - Design Methodology and Trends of SRAM-Based Compute-in-Memory Circuits(2022)
+  - Tolerating Noise Effects in Processing-in-Memory Systems for Neural Networks: A Hardware–Software Codesign Perspective(2022)
   - From Macro To Microarchitecture: Reviews and Trends of SRAM-Based Compute-in-Memory Circuits(2023)
   - Side-Channel Attack Analysis on In-Memory Computing Architectures(2023)
   - An Ultra-Low Power TinyML System for Real-Time Visual Processing at Edge(2023)

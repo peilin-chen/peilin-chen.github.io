@@ -65,6 +65,7 @@ author_profile: true
   - Accelergy: An Architecture-Level Energy Estimation Methodology for Accelerator Designs(2019)
   - ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration(2020)
   - GAMMA: automating the HW mapping of DNN models on accelerators via genetic algorithm(2020)
+  - Multi-Objective Optimization of ReRAM Crossbars for Robust DNN Inferencing under Stochastic Noise(2021)
   - Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators(2022)
 * [ASPDAC](https://dblp.org/db/conf/aspdac/index.html)
   - ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks(2018)

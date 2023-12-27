@@ -52,6 +52,7 @@ author_profile: true
   - PIMCOMP: A Universal Compilation Framework for Crossbar-based PIM DNN Accelerators(2023)
   - AutoDCIM: An Automated Digital CIM Compiler(2023)
   - A Convolution Neural Network Accelerator Design with Weight Mapping and Pipeline Optimization(2023)
+  - PIM-HLS: An Automatic Hardware Generation Tool for Heterogeneous Processing-In-Memory-based Neural Network Accelerators(2023)
 * [HPCA](https://dblp.org/db/conf/hpca/index.html)
   - PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning(2017)
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)

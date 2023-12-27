@@ -79,6 +79,7 @@ author_profile: true
 * [DATE](https://dblp.org/db/conf/date/index.html)
   - TDO-CIM: Transparent Detection and Offloading for Computation In-memory(2020)
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)
+  - Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture(2022)
 * [ISCAS](https://dblp.org/db/conf/iscas/index.html)
   - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)
 * [MWSCAS](https://dblp.org/db/conf/mwscas/index.html)

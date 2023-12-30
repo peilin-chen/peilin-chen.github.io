@@ -134,5 +134,6 @@ author_profile: true
   - GVSoC: A Highly Configurable, Fast and Accurate Full-Platform Simulator for RISC-V based IoT Processors(2021)
   - RVfpga: Using a RISC-V Core Targeted to an FPGA in Computer Architecture Education(2021)
   - Design and verification of RISC-V CPU based on HLS and UVM(2021)
+  - A comparative survey of open-source application-class RISC-V processor implementations(2021)
   - A review of CNN accelerators for embedded systems based on RISC-V(2022)
   - A Survey of RISC-V CPU for IoT Applications(2022)

@@ -64,6 +64,7 @@ author_profile: true
   - DNN+NeuroSim V2.0: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators for On-Chip Training(2021)
   - OCC: An Automated End-to-End Machine Learning Optimizing Compiler for Computing-In-Memory(2022)
   - ESSENCE: Exploiting Structured Stochastic Gradient Pruning for Endurance-Aware ReRAM-Based In-Memory Training Systems(2023)
+  - A Coordinated Model Pruning and Mapping Framework for RRAM-Based DNN Accelerators(2023)
 * [TVLSI](https://dblp.org/db/journals/tvlsi/index.html)
   - Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns(2017)
   - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)

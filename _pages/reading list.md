@@ -39,7 +39,6 @@ author_profile: true
   - In-Datacenter Performance Analysis of a Tensor Processing Unit(2017)
   - SCALEDEEP:A Scalable Compute Architecture for Learning and Evaluating Deep Networks(2017)
   - SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks(2017)
-  - MINT: Mixed-Precision RRAM-Based IN-Memory Training Architecture(2020)
   - ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks(2021)
 * [ASPLOS](https://dblp.org/db/conf/asplos/index.html)
   - PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference(2019)
@@ -87,6 +86,7 @@ author_profile: true
   - Improving the Robustness and Efficiency of PIM-Based Architecture by SW/HW Co-Design(2023)
 * [ISCAS](https://dblp.org/db/conf/iscas/index.html)
   - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)
+  - MINT: Mixed-Precision RRAM-Based IN-Memory Training Architecture(2020)
 * [MWSCAS](https://dblp.org/db/conf/mwscas/index.html)
   - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)
 * Others

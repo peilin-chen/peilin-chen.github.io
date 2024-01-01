@@ -84,6 +84,7 @@ author_profile: true
   - Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture(2022)
 * [ASPDAC](https://dblp.org/db/conf/aspdac/index.html)
   - ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks(2018)
+  - Learning the sparsity for ReRAM: mapping and pruning sparse neural network for ReRAM based accelerator(2019)
   - Improving the Robustness and Efficiency of PIM-Based Architecture by SW/HW Co-Design(2023)
 * [ISCAS](https://dblp.org/db/conf/iscas/index.html)
   - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)

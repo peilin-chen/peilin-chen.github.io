@@ -55,6 +55,7 @@ author_profile: true
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
   - MAGMA: An Optimization Framework for Mapping Multiple DNNs on Multiple Accelerator Cores(2022)
 * [TC](https://dblp.org/db/journals/tc/index.html)
+  - CIMAT: A Compute-In-Memory Architecture for On-chip Training Based on Transpose SRAM Arrays(2020)
   - Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators(2021)
 * [TCAS-I](https://dblp.org/db/journals/tcasI/index.html)
   - Research Progress on Memristor: From Synapses to Computing Systems(2022)

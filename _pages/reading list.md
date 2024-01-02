@@ -131,6 +131,7 @@ author_profile: true
   - Training and Inference with Integers in Deep Neural Networks(2018)
   - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2019)
   - Q8BERT: Quantized 8Bit BERT(2019)
+  - Machine Learning at Facebook: Understanding Inference at the Edge(2019)
   - Language Models are Few-Shot Learners(2020)
 
 ## RISC-V

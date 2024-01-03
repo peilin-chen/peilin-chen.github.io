@@ -133,6 +133,7 @@ author_profile: true
   - Q8BERT: Quantized 8Bit BERT(2019)
   - Machine Learning at Facebook: Understanding Inference at the Edge(2019)
   - Language Models are Few-Shot Learners(2020)
+  - Training high-performance and large-scale deep neural networks with full 8-bit integers(2020)
   - Low Latency Deep Learning Inference Model for Distributed Intelligent IoT Edge Clusters(2021)
 
 ## RISC-V

@@ -80,6 +80,7 @@ author_profile: true
   - Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators(2022)
 * [DATE](https://dblp.org/db/conf/date/index.html)
   - TDO-CIM: Transparent Detection and Offloading for Computation In-memory(2020)
+  - A Fast and Energy Efficient Computing-in-Memory Architecture for Few-Shot Learning Applications(2020)
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)
   - Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture(2022)
 * [ASPDAC](https://dblp.org/db/conf/aspdac/index.html)

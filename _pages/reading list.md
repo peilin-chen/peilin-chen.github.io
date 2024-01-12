@@ -127,6 +127,7 @@ author_profile: true
   - Neuro-Symbolic Computing: Advancements and Challenges in Hardware-Software Co-Design(2023)
 
 ## Machine Learning
+  - Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures(2009)
   - Training deep neural networks with low precision multiplications(2015)
   - Attention Is All You Need(2017)
   - Training and Inference with Integers in Deep Neural Networks(2018)

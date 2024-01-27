@@ -79,6 +79,7 @@ author_profile: true
   - Multi-Objective Optimization of ReRAM Crossbars for Robust DNN Inferencing under Stochastic Noise(2021)
   - Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators(2022)
 * [DATE](https://dblp.org/db/conf/date/index.html)
+  - ReCom: An efficient resistive accelerator for compressed deep neural networks(2018)
   - TDO-CIM: Transparent Detection and Offloading for Computation In-memory(2020)
   - A Fast and Energy Efficient Computing-in-Memory Architecture for Few-Shot Learning Applications(2020)
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)

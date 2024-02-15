@@ -20,7 +20,7 @@ Peilin CHEN is a fourth-year undergraduate student at the School of Microelectro
 
 ## News
 
-Look forward to good news!
+**[15/02/2024] I have received an offer from the University of Virginia! \
 
 
 

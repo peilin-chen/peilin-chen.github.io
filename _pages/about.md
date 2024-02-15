@@ -20,7 +20,7 @@ Peilin CHEN is a fourth-year undergraduate student at the School of Microelectro
 
 ## News
 
-**[2024.02]** I will be a Ph.D. student in the Electrical and Computer Engineering Department of the Univerisity of Virginia in 2024 fall!
+**[2024.02]** I will be a Ph.D. student in the Electrical and Computer Engineering Department of the University of Virginia in 2024 fall!
 
 
 

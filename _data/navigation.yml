@@ -3,9 +3,6 @@ main:
 #  - title: "Research"
 #    url: /research/
 
-#  - title: "Publications"
-#    url: /publications/
-
 #  - title: "Talks"
 #    url: /talks/    
         
@@ -15,7 +12,10 @@ main:
 #  - title: "Gallery"
 #    url: /gallery/
 
-  - title: "Reading list"
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Reading List"
     url: /reading list/
 
   - title: "Channel"

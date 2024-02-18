@@ -14,7 +14,7 @@ redirect_from:
 
 ## Short Bio
 
-Peilin CHEN is a fourth-year undergraduate student at the School of Microelectronics, Xidian University (XDU). His research interests are Digital/Mixed-signal IC Design, AI Chips Based on Computing-In-Memory, and Computer Architecture.
+Peilin CHEN is a fourth-year undergraduate student at the School of Microelectronics, Xidian University (XDU). His current research interests are Digital/Mixed-signal IC Design, AI Chips Based on Computing-In-Memory, and Computer Architecture.
 
 &emsp;
 

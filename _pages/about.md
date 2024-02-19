@@ -20,7 +20,7 @@ Peilin CHEN is a fourth-year undergraduate student at the School of Microelectro
 
 ## News
 
-**[2024.02]** I will be a Ph.D. student in the ECE Department of the University of Virginia in 2024 Fall and have been awarded the UVA Provost's Fellowship!
+**[2024.02]** I will be a Ph.D. student in the ECE Department of the University of Virginia in Fall 2024 and have been awarded the UVA Provost's Fellowship!
 
 
 

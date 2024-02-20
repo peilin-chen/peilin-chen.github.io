@@ -95,6 +95,7 @@ author_profile: true
   - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)
 * Others
   - DRAMSim2: A Cycle Accurate Memory System Simulator(2011)
+  - DianNao: a small-footprint high-throughput accelerator for ubiquitous machine-learning(2014)
   - Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks(2016)
   - Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1(2016)
   - Ramulator: A Fast and Extensible DRAM Simulator(2016)

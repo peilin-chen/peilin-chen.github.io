@@ -2,7 +2,7 @@
 layout: single
 title: "Paper Reading"
 permalink: /reading list/
-author_profile: true
+author_profile: false
 ---
 
 ## AI Chip/Accelerator

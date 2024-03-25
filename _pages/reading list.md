@@ -116,6 +116,7 @@ author_profile: false
   - Compute-in-Memory Chips for Deep Learning: Recent Trends and Prospects(2021)
   - NeuroSim Simulator for Compute-in-Memory Hardware Accelerator: Validation and Benchmark(2021)
   - Benchmarking Memory-Centric Computing Systems: Analysis of Real Processing-In-Memory Hardware(2021)
+  - SIAM: Chiplet-based Scalable In-Memory Acceleration with Mesh for Deep Neural Networks(2021)
   - Evaluating Spatial Accelerator Architectures with Tiled Matrix-Matrix Multiplication(2022)
   - Digital Versus Analog Artificial Intelligence Accelerators: Advances, trends, and emerging designs(2022)
   - ULECGNet: An Ultra-Lightweight End-to-End ECG Classification Neural Network(2022)

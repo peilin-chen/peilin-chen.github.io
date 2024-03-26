@@ -131,6 +131,7 @@ author_profile: false
   - Wafer-scale Computing: Advancements, Challenges, and Future Perspectives(2023)
   - Neuro-Symbolic Computing: Advancements and Challenges in Hardware-Software Co-Design(2023)
   - Block-Wise Mixed-Precision Quantization: Enabling High Efficiency for Practical ReRAM-based DNN Accelerators(2023)
+  - A Heterogeneous Chiplet Architecture for Accelerating End-to-End Transformer Models(2023)
 
 ## Machine Learning
   - Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures(2009)

@@ -40,6 +40,8 @@ author_profile: false
   - SCALEDEEP:A Scalable Compute Architecture for Learning and Evaluating Deep Networks(2017)
   - SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks(2017)
   - ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks(2021)
+* MICRO
+  - Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture(2019)
 * [ASPLOS](https://dblp.org/db/conf/asplos/index.html)
   - DianNao: a small-footprint high-throughput accelerator for ubiquitous machine-learning(2014)
   - PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference(2019)

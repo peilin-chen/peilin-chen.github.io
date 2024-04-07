@@ -94,7 +94,7 @@ author_profile: false
 * [ISCAS](https://dblp.org/db/conf/iscas/index.html) or [ISCAS](https://ieeexplore.ieee.org/xpl/conhome/1000089/all-proceedings)
   - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)
   - MINT: Mixed-Precision RRAM-Based IN-Memory Training Architecture(2020)
-* [MWSCAS](https://dblp.org/db/conf/mwscas/index.html)
+* [MWSCAS](https://dblp.org/db/conf/mwscas/index.html) or [MWSCAS](https://ieeexplore.ieee.org/xpl/conhome/1000090/all-proceedings)
   - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)
 * Others
   - DRAMSim2: A Cycle Accurate Memory System Simulator(2011)

@@ -27,7 +27,7 @@ author_profile: false
   - Evolver: A Deep Learning Processor With On-Device Quantization–Voltage–Frequency Tuning(2021)
   - TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes(2023)
   - ReDCIM: Reconfigurable Digital ComputingIn-Memory Processor With Unified FP/INT Pipeline for Cloud AI Acceleration(2023)
-* [IEDM](https://ieeexplore.ieee.org/xpl/conhome/1000245/all-proceedings)
+* [IEDM](https://ieeexplore.ieee.org/xpl/conhome/1000245/all-proceedings) or [IEDM](https://ieeexplore.ieee.org/xpl/conhome/1000245/all-proceedings)
   - NeuroSim+: An integrated device-to-algorithm framework for benchmarking synaptic devices and array architectures(2017)
   - DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies(2019)
 * [VLSI](https://dblp.org/db/conf/vlsic/index.html) or [VLSI](https://ieeexplore.ieee.org/xpl/conhome/1000802/all-proceedings)

@@ -10,7 +10,7 @@ author_profile: false
   - Neuro-inspired computing chips(2020)
 * [Science](https://www.science.org/action/doSearch?AllField=Edge+learning+using+a+fully+integrated+neuro-inspired+memristor+chip)
   - Edge learning using a fully integrated neuro-inspired memristor chip(2023)
-* [ISSCC](https://dblp.org/db/conf/isscc/index.html)
+* [ISSCC](https://dblp.org/db/conf/isscc/index.html) or [ISSCC](https://ieeexplore.ieee.org/xpl/conhome/1000708/all-proceedings)
   - A 1.42TOPS/W Deep Convolutional Neural Network Recognition Processor for Intelligent IoE Systems(2016)
   - A 288μW Programmable Deep-Learning Processor with 270KB On-Chip Weight Storage Using Non-Uniform Memory Hierarchy for Mobile Intelligence(2017)
   - A 0.62mW Ultra-Low-Power Convolutional-NeuralNetwork Face-Recognition Processor and a CIS Integrated with Always-On Haar-Like Face Detector(2017)

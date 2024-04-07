@@ -73,7 +73,7 @@ author_profile: false
 * [TVLSI](https://dblp.org/db/journals/tvlsi/index.html)
   - Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns(2017)
   - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)
-* [ICCAD](https://dblp.org/db/conf/iccad/index.html)
+* [ICCAD](https://dblp.org/db/conf/iccad/index.html) or [ICCAD](https://ieeexplore.ieee.org/xpl/conhome/1000151/all-proceedings)
   - Scaling the "memory wall"(2012)
   - OpenRAM: An open-source memory compiler(2016)
   - Accelergy: An Architecture-Level Energy Estimation Methodology for Accelerator Designs(2019)

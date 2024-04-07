@@ -45,7 +45,7 @@ author_profile: false
 * [ASPLOS](https://dblp.org/db/conf/asplos/index.html)
   - DianNao: a small-footprint high-throughput accelerator for ubiquitous machine-learning(2014)
   - PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference(2019)
-* [DAC](https://dblp.org/db/conf/dac/index.html)
+* [DAC](https://dblp.org/db/conf/dac/index.html) or [DAC](https://ieeexplore.ieee.org/xpl/conhome/1000196/all-proceedings)
   - Atomlayer: a universal ReRAM-based CNN accelerator with atomic layer computation(2018)
   - A Configurable Multi-Precision CNN Computing Framework Based on Single Bit RRAM(2019)
   - A Two-way SRAM Array based Accelerator for Deep Neural Network On-chip Training(2020)

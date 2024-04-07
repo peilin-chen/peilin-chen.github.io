@@ -30,7 +30,7 @@ author_profile: false
 * [IEDM](https://ieeexplore.ieee.org/xpl/conhome/1000245/all-proceedings)
   - NeuroSim+: An integrated device-to-algorithm framework for benchmarking synaptic devices and array architectures(2017)
   - DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies(2019)
-* [VLSI](https://dblp.org/db/conf/vlsic/index.html)
+* [VLSI](https://dblp.org/db/conf/vlsic/index.html) or [VLSI](https://ieeexplore.ieee.org/xpl/conhome/1000802/all-proceedings)
   - A 1.06-to-5.09 TOPS/W reconfigurable hybrid-neural-network processor for deep learning applications(2017)
   - A 40nm Analog-Input ADC-Free Compute-in-Memory RRAM Macro with Pulse-Width Modulation between Sub-arrays(2022)
 * [ISCA](https://dblp.org/db/conf/isca/index.html) or [ISCA](https://dl.acm.org/conference/isca)

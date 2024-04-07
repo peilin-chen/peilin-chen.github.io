@@ -64,7 +64,7 @@ author_profile: false
 * [TCAS-I](https://dblp.org/db/journals/tcasI/index.html)
   - Research Progress on Memristor: From Synapses to Computing Systems(2022)
   - ENNA: An Efficient Neural Network Accelerator Design Based on ADC-Free Compute-In-Memory Subarrays(2023)
-* [TCAD](https://dblp.org/db/journals/tcad/index.html)
+* [TCAD](https://dblp.org/db/journals/tcad/index.html) or [TCAD](https://ieeexplore.ieee.org/xpl/issues?punumber=43&isnumber=10477239)
   - MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System(2018)
   - DNN+NeuroSim V2.0: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators for On-Chip Training(2021)
   - OCC: An Automated End-to-End Machine Learning Optimizing Compiler for Computing-In-Memory(2022)

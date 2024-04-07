@@ -61,7 +61,7 @@ author_profile: false
 * [TC](https://dblp.org/db/journals/tc/index.html)
   - CIMAT: A Compute-In-Memory Architecture for On-chip Training Based on Transpose SRAM Arrays(2020)
   - Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators(2021)
-* [TCAS-I](https://dblp.org/db/journals/tcasI/index.html)
+* [TCAS-I](https://dblp.org/db/journals/tcasI/index.html) or [TCAS-I](https://ieeexplore.ieee.org/xpl/issues?punumber=8919&isnumber=10484988)
   - Research Progress on Memristor: From Synapses to Computing Systems(2022)
   - ENNA: An Efficient Neural Network Accelerator Design Based on ADC-Free Compute-In-Memory Subarrays(2023)
 * [TCAD](https://dblp.org/db/journals/tcad/index.html) or [TCAD](https://ieeexplore.ieee.org/xpl/issues?punumber=43&isnumber=10477239)

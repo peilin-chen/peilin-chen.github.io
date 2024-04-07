@@ -42,7 +42,7 @@ author_profile: false
   - ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks(2021)
 * [MICRO](https://dblp.org/db/conf/micro/index.html) or [MICRO](https://dl.acm.org/conference/micro)
   - Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture(2019)
-* [ASPLOS](https://dblp.org/db/conf/asplos/index.html)
+* [ASPLOS](https://dblp.org/db/conf/asplos/index.html) or [ASPLOS](https://dl.acm.org/conference/asplos/proceedings)
   - DianNao: a small-footprint high-throughput accelerator for ubiquitous machine-learning(2014)
   - PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference(2019)
 * [DAC](https://dblp.org/db/conf/dac/index.html) or [DAC](https://ieeexplore.ieee.org/xpl/conhome/1000196/all-proceedings)

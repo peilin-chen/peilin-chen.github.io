@@ -81,7 +81,7 @@ author_profile: false
   - GAMMA: automating the HW mapping of DNN models on accelerators via genetic algorithm(2020)
   - Multi-Objective Optimization of ReRAM Crossbars for Robust DNN Inferencing under Stochastic Noise(2021)
   - Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators(2022)
-* [DATE](https://dblp.org/db/conf/date/index.html)
+* [DATE](https://dblp.org/db/conf/date/index.html) or [DATE](https://ieeexplore.ieee.org/xpl/conhome/1000198/all-proceedings)
   - ReCom: An efficient resistive accelerator for compressed deep neural networks(2018)
   - TDO-CIM: Transparent Detection and Offloading for Computation In-memory(2020)
   - A Fast and Energy Efficient Computing-in-Memory Architecture for Few-Shot Learning Applications(2020)

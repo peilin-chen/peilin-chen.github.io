@@ -54,7 +54,7 @@ author_profile: false
   - AutoDCIM: An Automated Digital CIM Compiler(2023)
   - A Convolution Neural Network Accelerator Design with Weight Mapping and Pipeline Optimization(2023)
   - PIM-HLS: An Automatic Hardware Generation Tool for Heterogeneous Processing-In-Memory-based Neural Network Accelerators(2023)
-* [HPCA](https://dblp.org/db/conf/hpca/index.html)
+* [HPCA](https://dblp.org/db/conf/hpca/index.html) or [HPCA](https://ieeexplore.ieee.org/xpl/conhome/1000335/all-proceedings)
   - PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning(2017)
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
   - MAGMA: An Optimization Framework for Mapping Multiple DNNs on Multiple Accelerator Cores(2022)

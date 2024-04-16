@@ -22,3 +22,4 @@ author_profile: true
 ## Material
 * [Tutorial on Hardware Accelerators for Deep Neural Networks](https://eyeriss.mit.edu/tutorial.html), by Prof. Vivienne Sze
 * [RISC-V Processor Design](https://ysyx.oscc.cc/), by Prof. Yungang Bao
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), by Jay Alammar

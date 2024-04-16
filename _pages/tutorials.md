@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tutorials for Learning"
+title: "Tutorials"
 permalink: /tutorials/
 author_profile: true
 ---

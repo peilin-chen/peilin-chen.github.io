@@ -1,4 +1,4 @@
-![image](https://github.com/peilin-chen/peilin-chen.github.io/assets/84078615/dcb61b76-ce7d-4f42-9a96-f4d89f388d2c)---
+---
 layout: archive
 title: "Tutorials"
 permalink: /tutorials/

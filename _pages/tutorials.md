@@ -26,7 +26,7 @@ author_profile: true
 
 ## Conference Timeline
 * Jan.
-  - GLSVLSI
+  GLSVLSI
 * Feb.
   - VLSI
 * Mar.

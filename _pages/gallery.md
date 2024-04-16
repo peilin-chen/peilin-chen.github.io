@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 permalink: /gallery/
-author_profile: false
+author_profile: True
 ---
 
 ## NTU, Singapore, Aug. 2023

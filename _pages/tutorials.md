@@ -25,14 +25,12 @@ author_profile: true
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), by Jay Alammar
 
 ## Conference Timeline
-* Jan.
 * Feb.
   - VLSI
 * Mar.
   - ISLPED
 * Apr.
   - ESSCIRC, Hot Chips, MICRO, ICCAD, ASPLOS (Spring)
-* May
 * June
   - A-SSCC
 * July
@@ -41,8 +39,7 @@ author_profile: true
   - ASPLOS (Summer)
 * Sept.
   - ISSCC, DATE
-* Oct. 
 * Nov.
   - ISCAS, DAC, CICC, ISCA, ASPLOS (Fall)
-* Dec.
+
 

@@ -29,7 +29,7 @@ author_profile: true
 * Feb.: VLSI
 * Mar.: ISLPED
 * Apr.: ESSCIRC, Hot Chips, MICRO, ICCAD, ASPLOS (Spring)
-* May : 
+* May: 
 * June: A-SSCC
 * July: ASP-DAC, IEDM, HPCA, 
 * Aug.: ASPLOS (Summer)

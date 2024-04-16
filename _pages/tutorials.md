@@ -1,4 +1,4 @@
----
+![image](https://github.com/peilin-chen/peilin-chen.github.io/assets/84078615/dcb61b76-ce7d-4f42-9a96-f4d89f388d2c)---
 layout: archive
 title: "Tutorials"
 permalink: /tutorials/
@@ -25,7 +25,7 @@ author_profile: true
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), by Jay Alammar
 
 ## Conference Timeline
-| 左对齐 | 右对齐 | 居中对齐 | 左对齐 | 右对齐 | 居中对齐 | 左对齐 | 右对齐 | 居中对齐 | 左对齐 | 右对齐 | 居中对齐 |
+| Jan. | Feb. | Mar. | Apr. | May | June | July | Aug. | Sept. | Oct. | Nov. | Dec. |
 |:-----:| :----: | :----: |:-----:| :----: | :----: |:-----:| :----: | :----: |:-----:| :----: | :----: |
 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |

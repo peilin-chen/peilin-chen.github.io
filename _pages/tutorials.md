@@ -18,3 +18,6 @@ author_profile: true
 ## Advice
 * [Advice for Ph.D.](https://www.eecs.harvard.edu/htk/phdadvice/), by Prof. H.T. Kung
 * [Advice for Research](https://fengbintu.github.io/advice/), by Prof. Fengbin Tu
+
+## Material
+* [Tutorial on Hardware Accelerators for Deep Neural Networks](https://eyeriss.mit.edu/tutorial.html), by Prof. Vivienne Sze

@@ -25,10 +25,12 @@ author_profile: true
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), by Jay Alammar
 
 ## Conference Timeline
+* Jan.
+  - GLSVLSI
 * Feb.
   - VLSI
 * Mar.
-  - ISLPED
+  - ISLPED, ESWEEK
 * Apr.
   - ESSCIRC, Hot Chips, MICRO, ICCAD, ASPLOS (Spring)
 * June

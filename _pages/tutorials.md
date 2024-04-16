@@ -31,29 +31,18 @@ author_profile: true
 * Mar.
   - ISLPED
 * Apr.
-  - ESSCIRC
-  - Hot Chips
-  - MICRO
-  - ICCAD
-  - ASPLOS (Spring)
+  - ESSCIRC, Hot Chips, MICRO, ICCAD, ASPLOS (Spring)
 * May
 * June
   - A-SSCC
 * July
-  - ASP-DAC
-  - IEDM
-  - HPCA 
+  - ASP-DAC, IEDM, HPCA 
 * Aug.
   - ASPLOS (Summer)
 * Sept.
-  - ISSCC
-  - DATE
+  - ISSCC, DATE
 * Oct. 
 * Nov.
-  - ISCAS
-  - DAC
-  - CICC
-  - ISCA
-  - ASPLOS (Fall)
+  - ISCAS, DAC, CICC, ISCA, ASPLOS (Fall)
 * Dec.
 

@@ -12,4 +12,4 @@ author_profile: True
 
 <img src="/images/NTU-3.jpg">
 
-On August 4, 2023, I completed my group presentation and visited the Centre for Integrated Circuits and Systems (CICS).
+On August 4, 2023, I completed my group presentation and received the Distinction Award.

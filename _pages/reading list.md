@@ -134,6 +134,7 @@ author_profile: true
   - Neuro-Symbolic Computing: Advancements and Challenges in Hardware-Software Co-Design(2023)
   - Block-Wise Mixed-Precision Quantization: Enabling High Efficiency for Practical ReRAM-based DNN Accelerators(2023)
   - A Heterogeneous Chiplet Architecture for Accelerating End-to-End Transformer Models(2023)
+  - Ramulator 2.0: A Modern, Modular, and Extensible DRAM Simulator(2023)
 
 ## Machine Learning
   - Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures(2009)

@@ -23,6 +23,7 @@ author_profile: true
 * [Tutorial on Hardware Accelerators for Deep Neural Networks](https://eyeriss.mit.edu/tutorial.html), by Prof. Vivienne Sze
 * [RISC-V Processor Design](https://ysyx.oscc.cc/), by Prof. Yungang Bao
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), by Jay Alammar
+* [Tips for Giving Clear Talks](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf), by Prof. Kayvon Fatahalian
 
 ## Conference Timeline
 * Jan.

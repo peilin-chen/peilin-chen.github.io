@@ -147,6 +147,7 @@ author_profile: true
   - Language Models are Few-Shot Learners(2020)
   - Training high-performance and large-scale deep neural networks with full 8-bit integers(2020)
   - Low Latency Deep Learning Inference Model for Distributed Intelligent IoT Edge Clusters(2021)
+  - OneBit: Towards Extremely Low-bit Large Language Models(2024)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

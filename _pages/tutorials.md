@@ -30,7 +30,7 @@ author_profile: true
 * Feb.
   - VLSI
 * Mar.
-  - ISLPED, ESWEEK
+  - ISLPED, ESWEEK (CASES, CODES+ISSS, EMSOFT)
 * Apr.
   - ESSCIRC, Hot Chips, MICRO, ICCAD, ASPLOS (Spring)
 * June

@@ -19,6 +19,7 @@ author_profile: true
   - UNPU: A 50.6TOPS/W Unified Deep Neural Network Accelerator with 1b-to-16b Fully-Variable Weight Bit-Precision(2018)
   - A 65nm 4Kb Algorithm-Dependent Computing-inMemory SRAM Unit-Macro with 2.3ns and 55.8TOPS/W Fully Parallel Product-Sum Operation for Binary DNN Edge Processors(2018)
   - A 28nm 64Kb 6T SRAM Computing-in-Memory Macro with 8b MAC Operation for AI Edge Chips(2020)
+  - AMD Chiplet Architecture for High-Performance Server and Desktop Products(2020)
   - A Programmable Neural-Network Inference Accelerator Based on Scalable In-Memory Computing(2021)
   - An 89TOPS/W and 16.3TOPS/mm2 All-Digital SRAM-Based Full-Precision Compute-In-Memory Macro in 22nm for Machine-Learning Edge Applications(2021)
 * [JSSC](https://dblp.org/db/journals/jssc/index.html) or [JSSC](https://ieeexplore.ieee.org/xpl/issues?punumber=4&isnumber=10480871)

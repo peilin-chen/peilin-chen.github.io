@@ -14,7 +14,7 @@ redirect_from:
 
 ## Short Bio
 
-Peilin CHEN is a fourth-year undergraduate student at the School of Microelectronics, Xidian University (XDU). He will be a Ph.D. student in the ECE Department of the University of Virginia under the supervision of [Prof. Xiaoxuan Yang](https://xiaoxuan-yang.github.io/index.html). His current research interests are Digital/Mixed-signal IC Design, AI Chips Based on Computing-In-Mmeory, and Computer Architecture.
+Peilin CHEN is a fourth-year undergraduate student at the School of Microelectronics, Xidian University (XDU). He will be a Ph.D. student in the ECE Department of the University of Virginia under the supervision of Prof. [Xiaoxuan Yang](https://xiaoxuan-yang.github.io/index.html). His current research interests are Digital/Mixed-signal IC Design, AI Chips Based on Computing-In-Mmeory, and Computer Architecture.
 
 &emsp;
 

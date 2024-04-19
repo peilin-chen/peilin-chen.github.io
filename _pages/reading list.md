@@ -90,7 +90,7 @@ author_profile: true
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)
   - Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture(2022)
   - Achieving Datacenter-scale Performance through Chiplet-based Manycore Architectures(2023)
-* [ASP-DAC](https://dblp.org/db/conf/aspdac/index.html) or [ASPDAC](https://ieeexplore.ieee.org/xpl/conhome/1000194/all-proceedings)
+* [ASP-DAC](https://dblp.org/db/conf/aspdac/index.html) or [ASP-DAC](https://ieeexplore.ieee.org/xpl/conhome/1000194/all-proceedings)
   - ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks(2018)
   - Learning the sparsity for ReRAM: mapping and pruning sparse neural network for ReRAM based accelerator(2019)
   - Improving the Robustness and Efficiency of PIM-Based Architecture by SW/HW Co-Design(2023)

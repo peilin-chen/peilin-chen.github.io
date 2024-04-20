@@ -58,6 +58,7 @@ author_profile: true
   - A Convolution Neural Network Accelerator Design with Weight Mapping and Pipeline Optimization(2023)
   - PIM-HLS: An Automatic Hardware Generation Tool for Heterogeneous Processing-In-Memory-based Neural Network Accelerators(2023)
   - Chiplets: How Small is too Small?(2023)
+  - HexaMesh: Scaling to Hundreds of Chiplets with an Optimized Chiplet Arrangement(2023)
 * [HPCA](https://dblp.org/db/conf/hpca/index.html) or [HPCA](https://ieeexplore.ieee.org/xpl/conhome/1000335/all-proceedings)
   - PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning(2017)
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)

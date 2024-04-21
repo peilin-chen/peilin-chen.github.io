@@ -53,6 +53,7 @@ author_profile: true
   - A Configurable Multi-Precision CNN Computing Framework Based on Single Bit RRAM(2019)
   - A Two-way SRAM Array based Accelerator for Deep Neural Network On-chip Training(2020)
   - HERO: hessian-enhanced robust optimization for unifying and improving generalization and quantization performance(2022)
+  - Chiplet actuary: a quantitative cost model and multi-chiplet architecture exploration(2022)
   - PIMCOMP: A Universal Compilation Framework for Crossbar-based PIM DNN Accelerators(2023)
   - AutoDCIM: An Automated Digital CIM Compiler(2023)
   - A Convolution Neural Network Accelerator Design with Weight Mapping and Pipeline Optimization(2023)

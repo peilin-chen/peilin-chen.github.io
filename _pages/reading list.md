@@ -63,6 +63,7 @@ author_profile: true
   - PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning(2017)
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
   - MAGMA: An Optimization Framework for Mapping Multiple DNNs on Multiple Accelerator Cores(2022)
+  - Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators(2024)
 * [TC](https://dblp.org/db/journals/tc/index.html) or [TC](https://ieeexplore.ieee.org/xpl/issues?punumber=12&isnumber=10470450)
   - CIMAT: A Compute-In-Memory Architecture for On-chip Training Based on Transpose SRAM Arrays(2020)
   - Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators(2021)

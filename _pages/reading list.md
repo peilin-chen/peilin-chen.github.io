@@ -63,6 +63,7 @@ author_profile: true
 * [HPCA](https://dblp.org/db/conf/hpca/index.html) or [HPCA](https://ieeexplore.ieee.org/xpl/conhome/1000335/all-proceedings)
   - PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning(2017)
   - A3: Accelerating Attention Mechanisms in Neural Networks with Approximation(2020)
+  - SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning(2021)
   - MAGMA: An Optimization Framework for Mapping Multiple DNNs on Multiple Accelerator Cores(2022)
   - TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer(2022)
   - Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators(2024)

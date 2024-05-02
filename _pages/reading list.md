@@ -111,6 +111,7 @@ author_profile: true
 * [MWSCAS](https://dblp.org/db/conf/mwscas/index.html) or [MWSCAS](https://ieeexplore.ieee.org/xpl/conhome/1000090/all-proceedings)
   - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)
 * Others
+  - Analyzing CUDA workloads using a detailed GPU simulator(2009)
   - DRAMSim2: A Cycle Accurate Memory System Simulator(2011)
   - Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks(2016)
   - Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1(2016)

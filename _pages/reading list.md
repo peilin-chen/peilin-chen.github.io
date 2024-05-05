@@ -156,6 +156,7 @@ author_profile: true
   - Ramulator 2.0: A Modern, Modular, and Extensible DRAM Simulator(2023)
   - End-to-End Benchmarking of Chiplet-Based In-Memory Computing(2023)
   - Performance Impact of Architectural Parameters on Chiplet-Based IMC Accelerators(2023)
+  - The Big Chip: Challenge, Model and Architecture(2023)
   - The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits(2024)
 
 ## Machine Learning

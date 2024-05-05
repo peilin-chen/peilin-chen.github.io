@@ -93,6 +93,7 @@ author_profile: true
   - Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators(2022)
   - Big-Little Chiplets for In-Memory Acceleration of DNNs: A Scalable Heterogeneous Architecture(2022)
 * [DATE](https://dblp.org/db/conf/date/index.html) or [DATE](https://ieeexplore.ieee.org/xpl/conhome/1000198/all-proceedings)
+  - CACTI-3DD: Architecture-level modeling for 3D die-stacked DRAM main memory(2012)
   - ReCom: An efficient resistive accelerator for compressed deep neural networks(2018)
   - TDO-CIM: Transparent Detection and Offloading for Computation In-memory(2020)
   - A Fast and Energy Efficient Computing-in-Memory Architecture for Few-Shot Learning Applications(2020)

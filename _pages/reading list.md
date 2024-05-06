@@ -120,6 +120,7 @@ author_profile: true
   - Efficient Processing of Deep Neural Networks: A Tutorial and Survey(2017)
   - FINN: A Framework for Fast, Scalable Binarized Neural Network Inference(2017)
   - HBM (High Bandwidth Memory) DRAM Technology and Architecture(2017)
+  - CACTI 7: New Tools for Interconnect Exploration in Innovative Off-Chip Memories(2017)
   - A Lightweight YOLOv2: A Binarized CNN with A Parallel Support Vector Regression for an FPGA(2018)
   - NeuroSim: A Circuit-Level Macro Model for Benchmarking Neuro-Inspired Architectures in Online Learning(2018)
   - Motivation for and Evaluation of the First Tensor Processing Unit(2018)

@@ -135,6 +135,7 @@ author_profile: true
   - MNSIM 2.0: A Behavior-Level Modeling Tool for Memristor-based Neuromorphic Computing Systems(2020)
   - An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs(2020)
   - Compressing Large-Scale Transformer-Based Models: A Case Study on BERT(2020)
+  - Hardware Accelerator for Multi-Head Attention and Position-Wise Feed-Forward in the Transformer(2020)
   - Compute-in-RRAM with Limited On-chip Resources(2021)
   - Compute-in-Memory Chips for Deep Learning: Recent Trends and Prospects(2021)
   - NeuroSim Simulator for Compute-in-Memory Hardware Accelerator: Validation and Benchmark(2021)

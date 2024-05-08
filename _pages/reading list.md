@@ -80,6 +80,7 @@ author_profile: true
   - SWAP: A Server-Scale Communication-Aware Chiplet-Based Manycore PIM Accelerator(2022)
   - ESSENCE: Exploiting Structured Stochastic Gradient Pruning for Endurance-Aware ReRAM-Based In-Memory Training Systems(2023)
   - A Coordinated Model Pruning and Mapping Framework for RRAM-Based DNN Accelerators(2023)
+  - AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference With Transformers(2023)
 * [TVLSI](https://dblp.org/db/journals/tvlsi/index.html) or [TVLSI](https://ieeexplore.ieee.org/xpl/issues?punumber=92&isnumber=10477564)
   - Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns(2017)
   - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)

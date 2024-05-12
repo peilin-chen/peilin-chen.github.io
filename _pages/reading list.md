@@ -184,6 +184,7 @@ author_profile: true
   - Training high-performance and large-scale deep neural networks with full 8-bit integers(2020)
   - Low Latency Deep Learning Inference Model for Distributed Intelligent IoT Edge Clusters(2021)
   - FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU(2023)
+  - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models(2023)
   - OneBit: Towards Extremely Low-bit Large Language Models(2024)
 
 ## RISC-V

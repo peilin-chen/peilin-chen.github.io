@@ -168,6 +168,7 @@ author_profile: true
   - Performance Impact of Architectural Parameters on Chiplet-Based IMC Accelerators(2023)
   - The Big Chip: Challenge, Model and Architecture(2023)
   - The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits(2024)
+  - FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs(2024)
 
 ## Machine Learning
   - Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures(2009)

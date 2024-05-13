@@ -184,6 +184,7 @@ author_profile: true
   - Language Models are Few-Shot Learners(2020)
   - Training high-performance and large-scale deep neural networks with full 8-bit integers(2020)
   - Longformer: The Long-Document Transformer(2020)
+  - ETC: Encoding Long and Structured Inputs in Transformers(2020)
   - Low Latency Deep Learning Inference Model for Distributed Intelligent IoT Edge Clusters(2021)
   - FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU(2023)
   - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models(2023)

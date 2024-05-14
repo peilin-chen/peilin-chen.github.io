@@ -85,6 +85,7 @@ author_profile: true
   - TDO-CIM: Transparent Detection and Offloading for Computation In-memory(2020)
   - A Fast and Energy Efficient Computing-in-Memory Architecture for Few-Shot Learning Applications(2020)
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)
+  - In-Memory Computing based Accelerator for Transformer Networks for Long Sequences(2021)
   - Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture(2022)
   - Achieving Datacenter-scale Performance through Chiplet-based Manycore Architectures(2023)
 * [ASP-DAC](https://dblp.org/db/conf/aspdac/index.html) or [ASP-DAC](https://ieeexplore.ieee.org/xpl/conhome/1000194/all-proceedings)

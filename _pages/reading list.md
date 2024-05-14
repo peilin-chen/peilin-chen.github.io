@@ -191,6 +191,7 @@ author_profile: true
   - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models(2023)
   - Dynamic N:M Fine-Grained Structured Sparse Attention Mechanism(2023)
   - Efficient Memory Management for Large Language Model Serving with PagedAttention(2023)
+  - Efficiently Scaling Transformer Inference(2023)
   - OneBit: Towards Extremely Low-bit Large Language Models(2024)
 
 ## RISC-V

@@ -116,6 +116,7 @@ author_profile: true
 * [TVLSI](https://dblp.org/db/journals/tvlsi/index.html) or [TVLSI](https://ieeexplore.ieee.org/xpl/issues?punumber=92&isnumber=10477564)
   - Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns(2017)
   - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)
+  - An Algorithm–Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers(2022)
 * Others
   - Analyzing CUDA workloads using a detailed GPU simulator(2009)
   - DRAMSim2: A Cycle Accurate Memory System Simulator(2011)

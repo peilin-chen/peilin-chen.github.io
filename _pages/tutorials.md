@@ -21,6 +21,7 @@ author_profile: true
 
 ## Material
 * [Tutorial on Hardware Accelerators for Deep Neural Networks](https://eyeriss.mit.edu/tutorial.html), by Prof. Vivienne Sze
+* [AI System & AI Infra](https://github.com/chenzomi12/AISystem), by ZOMI
 * [RISC-V Processor Design](https://ysyx.oscc.cc/), by Prof. Yungang Bao
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), by Jay Alammar
 * [Tips for Giving Clear Talks](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf), by Prof. Kayvon Fatahalian

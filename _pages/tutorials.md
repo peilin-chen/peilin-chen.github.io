@@ -25,6 +25,10 @@ author_profile: true
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), by Jay Alammar
 * [Tips for Giving Clear Talks](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf), by Prof. Kayvon Fatahalian
 
+## Course
+* [Hardware Accelerators for Machine Learning (CS 217)](https://cs217.stanford.edu/), by Stanford Uni
+* [Hardware for Machine Learning (EE 290)](https://inst.eecs.berkeley.edu/~ee290-2/sp21/#resources), by UC Berkeley
+
 ## Conference Timeline
 * Jan.
   - GLSVLSI

@@ -199,6 +199,7 @@ author_profile: true
   - Efficiently Scaling Transformer Inference(2023)
   - OneBit: Towards Extremely Low-bit Large Language Models(2024)
   - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond(2024)
+  - TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding(2024)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

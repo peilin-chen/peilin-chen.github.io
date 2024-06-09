@@ -193,6 +193,7 @@ author_profile: true
   - Big Bird: Transformers for Longer Sequences(2020)
   - Low Latency Deep Learning Inference Model for Distributed Intelligent IoT Edge Clusters(2021)
   - Memory-efficient Transformers via Top-$k$ Attention(2021)
+  - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness(2022)
   - FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU(2023)
   - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models(2023)
   - Dynamic N:M Fine-Grained Structured Sparse Attention Mechanism(2023)

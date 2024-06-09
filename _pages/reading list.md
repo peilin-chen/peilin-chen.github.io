@@ -191,6 +191,7 @@ author_profile: true
   - Longformer: The Long-Document Transformer(2020)
   - ETC: Encoding Long and Structured Inputs in Transformers(2020)
   - Big Bird: Transformers for Longer Sequences(2020)
+  - Long Range Arena: A Benchmark for Efficient Transformers(2020)
   - Low Latency Deep Learning Inference Model for Distributed Intelligent IoT Edge Clusters(2021)
   - Memory-efficient Transformers via Top-$k$ Attention(2021)
   - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness(2022)

@@ -186,6 +186,7 @@ author_profile: true
   - Q8BERT: Quantized 8Bit BERT(2019)
   - Machine Learning at Facebook: Understanding Inference at the Edge(2019)
   - Generating Long Sequences with Sparse Transformers(2019)
+  - Fast Transformer Decoding: One Write-Head is All You Need(2019)
   - Language Models are Few-Shot Learners(2020)
   - Training high-performance and large-scale deep neural networks with full 8-bit integers(2020)
   - Longformer: The Long-Document Transformer(2020)

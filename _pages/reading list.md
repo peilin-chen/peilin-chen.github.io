@@ -200,6 +200,7 @@ author_profile: true
   - Dynamic N:M Fine-Grained Structured Sparse Attention Mechanism(2023)
   - Efficient Memory Management for Large Language Model Serving with PagedAttention(2023)
   - Efficiently Scaling Transformer Inference(2023)
+  - GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints(2023)
   - OneBit: Towards Extremely Low-bit Large Language Models(2024)
   - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond(2024)
   - TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding(2024)

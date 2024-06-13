@@ -10,7 +10,7 @@ author_profile: True
 
 <img src="/images/XDU_2.JPG">
 
-On June 7, 2024, I graduated from Xidian University. Happy!!!
+On June 7, 2024, I graduated from Xidian University🎉🎉🎉!
 
 ## NTU, Singapore, Aug. 2023
 
@@ -18,4 +18,4 @@ On June 7, 2024, I graduated from Xidian University. Happy!!!
 
 <img src="/images/NTU-2.jpg">
 
-On August 4, 2023, I completed my group presentation and received the Distinction Award.
+On August 4, 2023, I completed my group presentation and received the Distinction Award🎉🎉🎉!

@@ -47,8 +47,10 @@ author_profile: true
   - ASPLOS (Summer)
 * Sept.
   - ISSCC, DATE
+* Oct.
+  - ISCAS
 * Nov.
-  - ISCAS, DAC, CICC, ISCA, ASPLOS (Fall)
+  - DAC, CICC, ISCA, ASPLOS (Fall)
 
 ## Related Journal
 * JSSC, TC, TCAS-I, TCAD, TCAS-II, TVLSI

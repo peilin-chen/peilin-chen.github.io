@@ -51,6 +51,7 @@ author_profile: true
   - DianNao: a small-footprint high-throughput accelerator for ubiquitous machine-learning(2014)
   - PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference(2019)
   - DOTA: detect and omit weak attentions for scalable transformer acceleration(2022)
+  - TinyForge: A Design Space Exploration to Advance Energy and Silicon Area Trade-offs in tinyML Compute Architectures with Custom Latch Arrays(2024)
 * [DAC](https://dblp.org/db/conf/dac/index.html) or [DAC](https://ieeexplore.ieee.org/xpl/conhome/1000196/all-proceedings)
   - Atomlayer: a universal ReRAM-based CNN accelerator with atomic layer computation(2018)
   - A Configurable Multi-Precision CNN Computing Framework Based on Single Bit RRAM(2019)

@@ -24,7 +24,7 @@ Peilin CHEN is a Ph.D. student in the ECE Department of the University of Virgin
 **[2024.02]** I will be a Ph.D. student at the University of Virginia in Fall 2024 and have been awarded the UVA Provost's Fellowship🎉!
 <br/><br/>
 <div id="map-container" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <div id="map-content" style="transform: scale(0.5); transform-origin: center;">
+    <div id="map-content" style="width: 500px;">
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY&cl=ffffff&w=a"></script>
     </div>
 </div>

@@ -23,7 +23,7 @@ Peilin CHEN is a Ph.D. student in the ECE Department of the University of Virgin
 **[2024.06]** My dissertation, **Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture,** has been selected as the excellent graduation project🎉! \
 **[2024.02]** I will be a Ph.D. student at the University of Virginia in Fall 2024 and have been awarded the UVA Provost's Fellowship🎉!
 <br/><br/>
-<div style="width: 1000px; display: flex; justify-content: center; align-items: center; margin: 0 auto;">
+<div style="height: 100%; width: 100%; display: flex; justify-content: center; align-items: center; margin: 0 auto;">
     <a href="https://clustrmaps.com/site/1bxgh" title="Visit tracker">
         <img src="//www.clustrmaps.com/map_v2.png?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY&cl=ffffff"/>
     </a>

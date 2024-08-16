@@ -25,7 +25,7 @@ Peilin CHEN is a Ph.D. student in the ECE Department of the University of Virgin
 <br/><br/>
 <div style="width: 500px; display: flex; justify-content: center; align-items: center; margin: 0 auto;">
     <a href="https://clustrmaps.com/site/1bxgh" title="Visit tracker">
-        <img src="//www.clustrmaps.com/map_v2.png?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY&cl=ffffff" alt="Map" />
+        <img src="//www.clustrmaps.com/map_v2.png?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY&cl=ffffff"/>
     </a>
 </div>
 

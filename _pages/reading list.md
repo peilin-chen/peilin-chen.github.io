@@ -204,6 +204,7 @@ author_profile: true
   - Efficiently Scaling Transformer Inference(2023)
   - GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints(2023)
   - KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache(2023)
+  - H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models(2023)
   - OneBit: Towards Extremely Low-bit Large Language Models(2024)
   - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond(2024)
   - TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding(2024)

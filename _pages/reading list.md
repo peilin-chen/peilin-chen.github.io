@@ -209,6 +209,7 @@ author_profile: true
   - Efficient Streaming Language Models with Attention Sinks(2024)
   - KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization(2024)
   - MiniCache: KV Cache Compression in Depth Dimension for Large Language Models(2024)
+  - Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference(2024)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

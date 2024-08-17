@@ -215,6 +215,7 @@ author_profile: true
   - ThinK: Thinner Key Cache by Query-Driven Pruning(2024)
   - GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM(2024)
   - MODEL TELLS YOU WHAT TO DISCARD: ADAPTIVE KV CACHE COMPRESSION FOR LLMS(2024)
+  - SparQ Attention: Bandwidth-Efficient LLM Inference(2024)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

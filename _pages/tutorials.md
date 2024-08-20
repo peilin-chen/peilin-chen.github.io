@@ -29,6 +29,7 @@ author_profile: true
 ## Course
 * [Hardware Accelerators for Machine Learning (CS 217)](https://cs217.stanford.edu/), by Stanford Uni
 * [Hardware for Machine Learning (EE 290)](https://inst.eecs.berkeley.edu/~ee290-2/sp21/#resources), by UC Berkeley
+* [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940), by MIT
 
 ## Conference Timeline
 * Jan.

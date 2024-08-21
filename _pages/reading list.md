@@ -217,6 +217,7 @@ author_profile: true
   - MODEL TELLS YOU WHAT TO DISCARD: ADAPTIVE KV CACHE COMPRESSION FOR LLMS(2024)
   - SparQ Attention: Bandwidth-Efficient LLM Inference(2024)
   - QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving(2024)
+  - AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration(2024)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

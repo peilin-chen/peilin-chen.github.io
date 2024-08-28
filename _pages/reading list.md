@@ -184,6 +184,7 @@ author_profile: true
   - Attention Is All You Need(2017)
   - Training and Inference with Integers in Deep Neural Networks(2018)
   - Improving Language Understanding by Generative Pre-Training(2018)
+  - Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference(2018)
   - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2019)
   - Language Models are Unsupervised Multitask Learners(2019)
   - Q8BERT: Quantized 8Bit BERT(2019)

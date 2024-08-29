@@ -199,6 +199,7 @@ author_profile: true
   - Long Range Arena: A Benchmark for Efficient Transformers(2020)
   - Low Latency Deep Learning Inference Model for Distributed Intelligent IoT Edge Clusters(2021)
   - Memory-efficient Transformers via Top-$k$ Attention(2021)
+  - I-BERT: Integer-only BERT Quantization(2021)
   - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness(2022)
   - OPT: Open Pre-trained Transformer Language Models(2022)
   - FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU(2023)

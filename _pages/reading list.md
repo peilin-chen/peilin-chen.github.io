@@ -181,6 +181,7 @@ author_profile: true
 ## Machine Learning
   - Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures(2009)
   - Training deep neural networks with low precision multiplications(2015)
+  - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding(2016)
   - Attention Is All You Need(2017)
   - Training and Inference with Integers in Deep Neural Networks(2018)
   - Improving Language Understanding by Generative Pre-Training(2018)

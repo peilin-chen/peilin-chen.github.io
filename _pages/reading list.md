@@ -226,6 +226,7 @@ author_profile: true
   - QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving(2024)
   - AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration(2024)
   - SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models(2024)
+  - Weight Update Scheme for 1T1R Memristor Array Based Equilibrium Propagation(2024)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

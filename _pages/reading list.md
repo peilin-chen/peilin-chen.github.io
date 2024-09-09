@@ -150,6 +150,7 @@ author_profile: true
   - HAT: Hardware-Aware Transformers for Efficient Natural Language Processing(2020)
   - DRAMsim3: A Cycle-Accurate, Thermal-Capable DRAM Simulator(2020)
   - OPTIMUS: OPTImized matrix MUltiplication Structure for Transformer neural network accelerator(2020)
+  - Flexible Communication Avoiding Matrix Multiplication on FPGA with High-Level Synthesis(2020)
   - Compute-in-RRAM with Limited On-chip Resources(2021)
   - Compute-in-Memory Chips for Deep Learning: Recent Trends and Prospects(2021)
   - NeuroSim Simulator for Compute-in-Memory Hardware Accelerator: Validation and Benchmark(2021)

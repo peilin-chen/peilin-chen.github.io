@@ -96,6 +96,7 @@ author_profile: true
 * [ASP-DAC](https://dblp.org/db/conf/aspdac/index.html) or [ASP-DAC](https://ieeexplore.ieee.org/xpl/conhome/1000194/all-proceedings)
   - ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks(2018)
   - Learning the sparsity for ReRAM: mapping and pruning sparse neural network for ReRAM based accelerator(2019)
+  - This is SPATEM! A Spatial-Temporal Optimization Framework for Efficient Inference on ReRAM-based CNN Accelerator(2022)
   - Improving the Robustness and Efficiency of PIM-Based Architecture by SW/HW Co-Design(2023)
 * [ISCAS](https://dblp.org/db/conf/iscas/index.html) or [ISCAS](https://ieeexplore.ieee.org/xpl/conhome/1000089/all-proceedings)
   - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)

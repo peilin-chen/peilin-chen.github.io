@@ -179,6 +179,7 @@ author_profile: true
   - The Big Chip: Challenge, Model and Architecture(2023)
   - The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits(2024)
   - FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs(2024)
+  - Weight Update Scheme for 1T1R Memristor Array Based Equilibrium Propagation(2024)
 
 ## Machine Learning
   - Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures(2009)
@@ -229,7 +230,6 @@ author_profile: true
   - QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving(2024)
   - AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration(2024)
   - SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models(2024)
-  - Weight Update Scheme for 1T1R Memristor Array Based Equilibrium Propagation(2024)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

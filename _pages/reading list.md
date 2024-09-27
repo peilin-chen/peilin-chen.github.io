@@ -124,6 +124,7 @@ author_profile: true
   - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)
   - An Algorithm–Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers(2022)
 * Others
+  - Steps toward Artificial Intelligence(1961)
   - Analyzing CUDA workloads using a detailed GPU simulator(2009)
   - DRAMSim2: A Cycle Accurate Memory System Simulator(2011)
   - Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks(2016)

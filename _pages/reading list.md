@@ -177,6 +177,7 @@ author_profile: true
   - End-to-End Benchmarking of Chiplet-Based In-Memory Computing(2023)
   - Performance Impact of Architectural Parameters on Chiplet-Based IMC Accelerators(2023)
   - The Big Chip: Challenge, Model and Architecture(2023)
+  - The Rise and Potential of Large Language Model Based Agents: A Survey(2023)
   - The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits(2024)
   - FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs(2024)
   - Weight Update Scheme for 1T1R Memristor Array Based Equilibrium Propagation(2024)

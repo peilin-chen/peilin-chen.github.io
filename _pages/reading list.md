@@ -182,6 +182,7 @@ author_profile: true
   - The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits(2024)
   - FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs(2024)
   - Weight Update Scheme for 1T1R Memristor Array Based Equilibrium Propagation(2024)
+  - AttentionLego: An Open-Source Building Block For Spatially-Scalable Large Language Model Accelerator With Processing-In-Memory Technology(2024)
 
 ## Machine Learning
   - Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures(2009)

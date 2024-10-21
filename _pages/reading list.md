@@ -105,6 +105,7 @@ author_profile: true
   - Computing Utilization Enhancement for Chiplet-based Homogeneous Processing-in-Memory Deep Learning Processors(2021)
 * [MWSCAS](https://dblp.org/db/conf/mwscas/index.html) or [MWSCAS](https://ieeexplore.ieee.org/xpl/conhome/1000090/all-proceedings)
   - 8T XNOR-SRAM based Parallel Compute-in-Memory for Deep Neural Network Accelerator(2020)
+  - Open-Source Memory Compiler for Automatic RRAM Generation and Verification(2021)
 * [TC](https://dblp.org/db/journals/tc/index.html) or [TC](https://ieeexplore.ieee.org/xpl/issues?punumber=12&isnumber=10470450)
   - CIMAT: A Compute-In-Memory Architecture for On-chip Training Based on Transpose SRAM Arrays(2020)
   - Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators(2021)

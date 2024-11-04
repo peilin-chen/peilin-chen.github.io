@@ -48,6 +48,7 @@ author_profile: true
   - ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks(2021)
 * [MICRO](https://dblp.org/db/conf/micro/index.html) or [MICRO](https://dl.acm.org/conference/micro)
   - Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture(2019)
+  - Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture(2021)
   - Si-Kintsugi: Towards Recovering Golden-Like Performance of Defective Many-Core Spatial Architectures for AI(2023)
   - SOFA: A Compute-Memory Optimized Sparsity Accelerator via Cross-Stage Coordinated Tiling(2024)
 * [ASPLOS](https://dblp.org/db/conf/asplos/index.html) or [ASPLOS](https://dl.acm.org/conference/asplos/proceedings)

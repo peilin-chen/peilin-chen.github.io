@@ -244,6 +244,7 @@ author_profile: true
   - OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models(2024)
   - Atom: Low-Bit Quantization for Efficient and Accurate LLM Serving(2024)
   - Addition is All You Need for Energy-efficient Language Models(2024)
+  - LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference(2024)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

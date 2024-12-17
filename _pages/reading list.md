@@ -77,6 +77,7 @@ author_profile: true
   - MAGMA: An Optimization Framework for Mapping Multiple DNNs on Multiple Accelerator Cores(2022)
   - TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer(2022)
   - Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators(2024)
+  - Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator(2024)
 * [ISLPED](https://dblp.org/db/conf/islped/index.html) or [ISLPED](https://dl.acm.org/conference/islped)
   - A Fully-Integrated Energy-Scalable Transformer Accelerator Supporting Adaptive Model Configuration and Word Elimination for Language Understanding on Edge Devices(2023)
 * [ICCAD](https://dblp.org/db/conf/iccad/index.html) or [ICCAD](https://ieeexplore.ieee.org/xpl/conhome/1000151/all-proceedings)

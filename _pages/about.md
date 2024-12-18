@@ -20,6 +20,7 @@ Peilin CHEN is a Ph.D. student in the ECE Department of the University of Virgin
 
 ## News
 
+**[2024.12]** One first-authored paper has been accepted to IEEE AICAS 2025🎉! See you in Bordeaux, France🎉!
 **[2024.06]** My dissertation, **Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture,** has been selected as the excellent graduation project🎉! \
 **[2024.02]** I will be a Ph.D. student at the University of Virginia in Fall 2024 and have been awarded the UVA Provost's Fellowship🎉!
 <br/><br/>

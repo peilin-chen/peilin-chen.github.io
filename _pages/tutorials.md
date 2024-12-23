@@ -30,6 +30,7 @@ author_profile: true
 * [Hardware Accelerators for Machine Learning (CS 217)](https://cs217.stanford.edu/), by Stanford Uni
 * [Hardware for Machine Learning (EE 290)](https://inst.eecs.berkeley.edu/~ee290-2/sp21/#resources), by UC Berkeley
 * [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940), by MIT
+* [Semiconductor Memory Devices and Circuits](https://www.youtube.com/playlist?list=PLnQi8W6dRSW5HBtFp9F18kx9-iCjDwBTe), by Georgia Tech
 
 ## Conference Timeline
 * Jan.

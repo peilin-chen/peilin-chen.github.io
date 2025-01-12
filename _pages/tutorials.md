@@ -48,7 +48,7 @@ author_profile: true
 * Aug.
   - ASPLOS (Summer)
 * Sept.
-  - ISSCC, DATE
+  - ISSCC, DATE, AICAS
 * Oct.
   - ISCAS
 * Nov.

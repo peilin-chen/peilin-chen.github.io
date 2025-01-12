@@ -11,4 +11,4 @@ author_profile: true
 
 ## Conference Papers
 
-Look forward to my first conference paper!
+* **Peilin Chen** and Xiaoxuan Yang, "Optimizing and Exploring System Performance in Compact Processing-in-Memory-Based Chips," IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), Bordeaux, FRANCE, 2025.

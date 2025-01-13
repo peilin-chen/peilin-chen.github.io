@@ -99,6 +99,7 @@ author_profile: true
   - In-Memory Computing based Accelerator for Transformer Networks for Long Sequences(2021)
   - Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture(2022)
   - Achieving Datacenter-scale Performance through Chiplet-based Manycore Architectures(2023)
+  - SoftmAP: Software-Hardware Co-design for Integer-Only Softmax on Associative Processors(2024)
 * [ASP-DAC](https://dblp.org/db/conf/aspdac/index.html) or [ASP-DAC](https://ieeexplore.ieee.org/xpl/conhome/1000194/all-proceedings)
   - ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks(2018)
   - Learning the sparsity for ReRAM: mapping and pruning sparse neural network for ReRAM based accelerator(2019)

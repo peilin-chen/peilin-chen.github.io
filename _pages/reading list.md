@@ -147,6 +147,7 @@ author_profile: true
   - NeuroSim: A Circuit-Level Macro Model for Benchmarking Neuro-Inspired Architectures in Online Learning(2018)
   - Motivation for and Evaluation of the First Tensor Processing Unit(2018)
   - NVIDIA Tensor Core Programmability, Performance & Precision(2018)
+  - Loihi: A Neuromorphic Manycore Processor with On-Chip Learning(2018)
   - mRNA: Enabling Efficient Mapping Space Exploration for a Reconfiguration Neural Accelerator(2019)
   - In-Memory Computing: Advances and Prospects(2019)
   - Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices(2019)

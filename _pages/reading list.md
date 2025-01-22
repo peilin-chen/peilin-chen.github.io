@@ -156,6 +156,7 @@ author_profile: true
   - Timeloop: A Systematic Approach to DNN Accelerator Evaluation(2019)
   - Exploring Bit-Slice Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment(2019)
   - Modeling Deep Learning Accelerator Enabled GPUs(2019)
+  - MLP+NeuroSimV3.0: Improving On-chip Learning Performance with Device to Algorithm Optimizations(2019)
   - MNSIM 2.0: A Behavior-Level Modeling Tool for Memristor-based Neuromorphic Computing Systems(2020)
   - An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs(2020)
   - Compressing Large-Scale Transformer-Based Models: A Case Study on BERT(2020)

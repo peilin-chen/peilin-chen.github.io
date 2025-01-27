@@ -26,6 +26,7 @@ author_profile: true
   - A Programmable Neural-Network Inference Accelerator Based on Scalable In-Memory Computing(2021)
   - An 89TOPS/W and 16.3TOPS/mm2 All-Digital SRAM-Based Full-Precision Compute-In-Memory Macro in 22nm for Machine-Learning Edge Applications(2021)
   - A 5-nm 254-TOPS/W 221-TOPS/mm2 Fully-Digital Computing-in-Memory Macro Supporting Wide-Range Dynamic-Voltage-Frequency Scaling and Simultaneous MAC and Write Operations(2022)
+  - A 4nm 6163-TOPS/W/b \mathbf4790-TOPS/mm^2/b SRAM Based Digital-Computing-in-Memory Macro Supporting Bit-Width Flexibility and Simultaneous MAC and Weight Update(2023)
 * [JSSC](https://dblp.org/db/journals/jssc/index.html) or [JSSC](https://ieeexplore.ieee.org/xpl/issues?punumber=4&isnumber=10480871)
   - Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks(2017)
   - A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications(2018)

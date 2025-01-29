@@ -197,6 +197,7 @@ author_profile: true
   - The Big Chip: Challenge, Model and Architecture(2023)
   - The Rise and Potential of Large Language Model Based Agents: A Survey(2023)
   - ReFloat: Low-Cost Floating-Point Processing in ReRAM for Accelerating Iterative Linear Solvers(2023)
+  - Knowledge Distillation between DNN and SNN for Intelligent Sensing Systems on Loihi Chip(2023)
   - The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits(2024)
   - FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs(2024)
   - Weight Update Scheme for 1T1R Memristor Array Based Equilibrium Propagation(2024)

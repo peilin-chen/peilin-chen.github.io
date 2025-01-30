@@ -207,6 +207,7 @@ author_profile: true
   - ChipNeMo: Domain-Adapted LLMs for Chip Design(2024)
   - Unleashing Energy-Efficiency: Neural Architecture Search without Training for Spiking Neural Networks on Loihi Chip(2024)
   - Quantization-Aware Training of Spiking Neural Networks for Energy-Efficient Spectrum Sensing on Loihi Chip(2024)
+  - Legendre-SNN on Loihi-2: Evaluation and Insights(2024)
 
 ## Machine Learning
   - Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures(2009)

@@ -42,6 +42,7 @@ author_profile: true
 * [VLSI](https://dblp.org/db/conf/vlsic/index.html) or [VLSI](https://ieeexplore.ieee.org/xpl/conhome/1000802/all-proceedings)
   - A 1.06-to-5.09 TOPS/W reconfigurable hybrid-neural-network processor for deep learning applications(2017)
   - A 40nm Analog-Input ADC-Free Compute-in-Memory RRAM Macro with Pulse-Width Modulation between Sub-arrays(2022)
+  - A 12nm 121-TOPS/W 41.6-TOPS/mm2 All Digital Full Precision SRAM-based Compute-in-Memory with Configurable Bit-width For AI Edge Applications(2022)
 * [ISCA](https://dblp.org/db/conf/isca/index.html) or [ISCA](https://dl.acm.org/conference/isca)
   - ShiDianNao: shifting vision processing closer to the sensor(2015)
   - ISAAC: a convolutional neural network accelerator with in-situ analog arithmetic in crossbars(2016)

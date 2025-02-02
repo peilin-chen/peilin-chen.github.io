@@ -237,6 +237,7 @@ author_profile: true
   - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness(2022)
   - OPT: Open Pre-trained Transformer Language Models(2022)
   - GPT3.int8(): 8-bit Matrix Multiplication for Transformers at Scale(2022)
+  - Neural Architecture Search for Spiking Neural Networks(2022)
   - FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU(2023)
   - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models(2023)
   - Dynamic N:M Fine-Grained Structured Sparse Attention Mechanism(2023)

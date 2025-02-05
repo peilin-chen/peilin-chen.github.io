@@ -131,6 +131,7 @@ author_profile: true
   - DNN+NeuroSim V2.0: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators for On-Chip Training(2021)
   - OCC: An Automated End-to-End Machine Learning Optimizing Compiler for Computing-In-Memory(2022)
   - SWAP: A Server-Scale Communication-Aware Chiplet-Based Manycore PIM Accelerator(2022)
+  - H2Learn: High-Efficiency Learning Accelerator for High-Accuracy Spiking Neural Networks(2022)
   - ESSENCE: Exploiting Structured Stochastic Gradient Pruning for Endurance-Aware ReRAM-Based In-Memory Training Systems(2023)
   - A Coordinated Model Pruning and Mapping Framework for RRAM-Based DNN Accelerators(2023)
   - AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference With Transformers(2023)

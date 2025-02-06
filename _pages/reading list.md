@@ -212,6 +212,7 @@ author_profile: true
   - Quantization-Aware Training of Spiking Neural Networks for Energy-Efficient Spectrum Sensing on Loihi Chip(2024)
   - Legendre-SNN on Loihi-2: Evaluation and Insights(2024)
   - Are SNNs Truly Energy-efficient? — A Hardware Perspective(2024)
+  - Approximate Adder Tree Design with Sparsity-Aware Encoding and In-Memory Swapping for SRAM-based Digital Compute-In-Memory Macros(2024)
 
 ## Machine Learning
   - Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures(2009)

@@ -166,6 +166,7 @@ author_profile: true
   - Exploring Bit-Slice Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment(2019)
   - Modeling Deep Learning Accelerator Enabled GPUs(2019)
   - MLP+NeuroSimV3.0: Improving On-chip Learning Performance with Device to Algorithm Optimizations(2019)
+  - Surrogate Gradient Learning in Spiking Neural Networks: Bringing the Power of Gradient-Based Optimization to Spiking Neural Networks(2019)
   - MNSIM 2.0: A Behavior-Level Modeling Tool for Memristor-based Neuromorphic Computing Systems(2020)
   - An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs(2020)
   - Compressing Large-Scale Transformer-Based Models: A Case Study on BERT(2020)

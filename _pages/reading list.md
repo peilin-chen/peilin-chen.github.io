@@ -183,6 +183,7 @@ author_profile: true
   - SIAM: Chiplet-based Scalable In-Memory Acceleration with Mesh for Deep Neural Networks(2021)
   - Wafer Level System Integration of the Fifth Generation CoWoS®-S with High Performance Si Interposer at 2500 mm2(2021)
   - VS-Quant: Per-vector Scaled Quantization for Accurate Low-Precision Neural Network Inference(2021)
+  - Revisiting Batch Normalization for Training Low-Latency Deep Spiking Neural Networks From Scratch(2021)
   - Evaluating Spatial Accelerator Architectures with Tiled Matrix-Matrix Multiplication(2022)
   - Digital Versus Analog Artificial Intelligence Accelerators: Advances, trends, and emerging designs(2022)
   - ULECGNet: An Ultra-Lightweight End-to-End ECG Classification Neural Network(2022)

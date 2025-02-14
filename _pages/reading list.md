@@ -53,6 +53,7 @@ author_profile: true
   - In-Datacenter Performance Analysis of a Tensor Processing Unit(2017)
   - SCALEDEEP:A Scalable Compute Architecture for Learning and Evaluating Deep Networks(2017)
   - SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks(2017)
+  - SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks(2020)
   - ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks(2021)
   - A software-defined tensor streaming multiprocessor for large-scale machine learning(2022)
 * [MICRO](https://dblp.org/db/conf/micro/index.html) or [MICRO](https://dl.acm.org/conference/micro)

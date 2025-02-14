@@ -103,6 +103,7 @@ author_profile: true
   - ReCom: An efficient resistive accelerator for compressed deep neural networks(2018)
   - TDO-CIM: Transparent Detection and Offloading for Computation In-memory(2020)
   - A Fast and Energy Efficient Computing-in-Memory Architecture for Few-Shot Learning Applications(2020)
+  - Shenjing: A low power reconfigurable neuromorphic accelerator with partial-sum and spike networks-on-chip(2020)
   - A Runtime Reconfigurable Design of Compute-in-Memory based Hardware Accelerator(2021)
   - In-Memory Computing based Accelerator for Transformer Networks for Long Sequences(2021)
   - Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture(2022)

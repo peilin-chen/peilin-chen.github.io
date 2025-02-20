@@ -115,6 +115,7 @@ author_profile: true
   - Learning the sparsity for ReRAM: mapping and pruning sparse neural network for ReRAM based accelerator(2019)
   - This is SPATEM! A Spatial-Temporal Optimization Framework for Efficient Inference on ReRAM-based CNN Accelerator(2022)
   - Improving the Robustness and Efficiency of PIM-Based Architecture by SW/HW Co-Design(2023)
+  - A Low-Bitwidth Integer-STBP Algorithm for Efficient Training and Inference of Spiking Neural Networks(2023)
   - MINT: Multiplier-less INTeger Quantization for Energy Efficient Spiking Neural Networks(2024)
 * [ISCAS](https://dblp.org/db/conf/iscas/index.html) or [ISCAS](https://ieeexplore.ieee.org/xpl/conhome/1000089/all-proceedings)
   - Optimizing Weight Mapping and Data Flow for Convolutional Neural Networks on RRAM Based Processing-In-Memory Architecture(2019)

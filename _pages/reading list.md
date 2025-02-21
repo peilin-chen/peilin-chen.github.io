@@ -189,6 +189,7 @@ author_profile: true
   - VS-Quant: Per-vector Scaled Quantization for Accurate Low-Precision Neural Network Inference(2021)
   - Revisiting Batch Normalization for Training Low-Latency Deep Spiking Neural Networks From Scratch(2021)
   - Q-SpiNN: A Framework for Quantizing Spiking Neural Networks(2021)
+  - SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient Spiking Neural Network Training(2021)
   - Evaluating Spatial Accelerator Architectures with Tiled Matrix-Matrix Multiplication(2022)
   - Digital Versus Analog Artificial Intelligence Accelerators: Advances, trends, and emerging designs(2022)
   - ULECGNet: An Ultra-Lightweight End-to-End ECG Classification Neural Network(2022)

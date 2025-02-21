@@ -150,6 +150,7 @@ author_profile: true
   - Steps toward Artificial Intelligence(1961)
   - Analyzing CUDA workloads using a detailed GPU simulator(2009)
   - DRAMSim2: A Cycle Accurate Memory System Simulator(2011)
+  - Unsupervised learning of digit recognition using spike-timing-dependent plasticity(2015)
   - Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks(2016)
   - Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1(2016)
   - Ramulator: A Fast and Extensible DRAM Simulator(2016)

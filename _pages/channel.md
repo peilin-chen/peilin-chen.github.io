@@ -9,5 +9,5 @@ author_profile: true
 In this channel, I often share something I've learned and post some demonstration videos about my project.
 
 ## Eefocus channel: [Link](https://www.eefocus.com/course/1074129.html)
-In this channel, I post some premium videos for a fee, which have a strong relationship with my major.
+In this channel, I post some premium videos for a fee.
 

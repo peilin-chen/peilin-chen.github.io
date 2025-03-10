@@ -286,6 +286,7 @@ author_profile: true
   - Addition is All You Need for Energy-efficient Language Models(2024)
   - LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference(2024)
   - KV Prediction for Improved Time to First Token(2024)
+  - NITRO-D: Native Integer-only Training of Deep Convolutional Neural Networks(2024)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

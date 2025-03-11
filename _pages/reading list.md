@@ -147,6 +147,7 @@ author_profile: true
   - Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns(2017)
   - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)
   - An Algorithm–Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers(2022)
+  - A 40-nm 1.89-pJ/SOP Scalable Convolutional Spiking Neural Network Learning Core With On-Chip Spatiotemporal Back-Propagation(2023)
 * Others
   - Steps toward Artificial Intelligence(1961)
   - Analyzing CUDA workloads using a detailed GPU simulator(2009)

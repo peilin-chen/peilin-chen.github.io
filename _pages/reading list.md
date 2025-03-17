@@ -178,6 +178,7 @@ author_profile: true
   - MLP+NeuroSimV3.0: Improving On-chip Learning Performance with Device to Algorithm Optimizations(2019)
   - Surrogate Gradient Learning in Spiking Neural Networks: Bringing the Power of Gradient-Based Optimization to Spiking Neural Networks(2019)
   - SpykeTorch: Efficient Simulation of Convolutional Spiking Neural Networks With at Most One Spike per Neuron(2019)
+  - Bio-inspired digit recognition using reward-modulated spike-timing-dependent plasticity in deep convolutional networks(2019)
   - MNSIM 2.0: A Behavior-Level Modeling Tool for Memristor-based Neuromorphic Computing Systems(2020)
   - An Architecture-Level Energy and Area Estimator for Processing-In-Memory Accelerator Designs(2020)
   - Compressing Large-Scale Transformer-Based Models: A Case Study on BERT(2020)

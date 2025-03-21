@@ -266,6 +266,7 @@ author_profile: true
   - Rate Coding or Direct Coding: Which One is Better for Accurate, Robust, and Energy-efficient Spiking Neural Networks?(2022)
   - Exploring Lottery Ticket Hypothesis in Spiking Neural Networks(2022)
   - NITI: Training Integer Neural Networks Using Integer-only Arithmetic(2022)
+  - PocketNN: Integer-only Training and Inference of Neural Networks via Direct Feedback Alignment and Pocket Activations in Pure C++(2022)
   - FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU(2023)
   - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models(2023)
   - Dynamic N:M Fine-Grained Structured Sparse Attention Mechanism(2023)

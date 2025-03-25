@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Technology Symposium"
 permalink: /symposium/
 author_profile: true

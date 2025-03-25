@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Channel"
 permalink: /channel/
 author_profile: true

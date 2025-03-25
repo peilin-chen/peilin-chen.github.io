@@ -9,15 +9,6 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <link type="image/png" sizes="96x96" rel="icon" href="images/icons8-pi-96.png">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8X7HTJ0NEQ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-8X7HTJ0NEQ');
-    </script>
   </head>
 
   <body>
@@ -29,29 +20,11 @@ layout: compress
 
     <div class="page__footer">
       <footer>
-        <div style="pointer-events: none;" align=center>You are the No. <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-AZ6B3Byd12C41zW6-27.gif' border='0' alt='counter'></a> visitor of my homepage!<script type='text/javascript' src='https://www.counter12.com/ad.js?id=AZ6B3Byd12C41zW6'></script></div>
-        <!-- <div align=center>You are the No. <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-1ZDz8xC0yz6cW143-50.gif' border='0' alt='free counter'></a> visitor of my homepage!<script type='text/javascript' src='https://www.counter12.com/ad.js?id=1ZDz8xC0yz6cW143'></script></div> -->
-        <!-- <div align=center>You are the No. <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-65b8Wz108b7c8A0w-77.gif' border='0' alt='web counter free'></a> visitor of my homepage!<script type='text/javascript' src='https://www.counter12.com/ad.js?id=65b8Wz108b7c8A0w'></script></div> -->
-        
-        <!-- Default Statcounter code for My Personal Website
-        https://peilin-chen.github.io/ -->
-        <script type="text/javascript">
-        var sc_project=12940346; 
-        var sc_invisible=1; 
-        var sc_security="940d3e6d"; 
-        var scJsHost = "https://";
-        document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
-        "statcounter.com/counter/counter.js'></"+"script>");
-        </script>
-        <noscript><div class="statcounter"><a title="Web Analytics Made Easy -
-        Statcounter" href="https://statcounter.com/" target="_blank"><img
-        class="statcounter" src="https://c.statcounter.com/12940346/0/940d3e6d/0/"
-        alt="Web Analytics Made Easy - Statcounter"
-        referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-        <!-- End of Statcounter Code -->
+        {% include footer/custom.html %}
+        {% include footer.html %}
       </footer>
     </div>
-	  
+
     {% include scripts.html %}
 
   </body>

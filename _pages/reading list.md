@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Paper Reading"
 permalink: /reading list/
 author_profile: true

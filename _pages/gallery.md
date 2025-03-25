@@ -2,6 +2,9 @@
 title: "Gallery"
 permalink: /gallery/
 author_profile: True
+redirect_from: 
+  - /md/
+  - /Gallery.html
 ---
 
 ## XDU, Xi'an, China, Jun. 2024

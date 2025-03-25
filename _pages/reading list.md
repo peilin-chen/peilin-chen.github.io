@@ -1,8 +1,10 @@
 ---
-layout: single
 title: "Paper Reading"
 permalink: /reading list/
 author_profile: true
+redirect_from: 
+  - /md/
+  - /Paper Reading.html
 ---
 
 ## AI Chip/Accelerator

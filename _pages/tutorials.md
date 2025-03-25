@@ -3,9 +3,6 @@ layout: archive
 title: "Tutorials"
 permalink: /tutorials/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /Tutorials.html
 ---
 
 ## Writing 

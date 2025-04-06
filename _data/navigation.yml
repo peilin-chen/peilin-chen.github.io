@@ -21,8 +21,8 @@ main:
   - title: "Channel"
     url: /channel/
 
-  - title: "Symposium"
-    url: /symposium/
+  #- title: "Symposium"
+  #  url: /symposium/
 
   - title: "Tutorials"
     url: /tutorials/

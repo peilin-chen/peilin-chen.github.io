@@ -38,7 +38,7 @@ Peilin CHEN is a Ph.D. student in the ECE Department of the University of Virgin
 <style>
 .news-container {
     width: 100%;
-    height: 450px;  
+    height: 400px;  
     overflow-y: scroll;
     overflow-x: hidden;
     padding-right: 10px;  

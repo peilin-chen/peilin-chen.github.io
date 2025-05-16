@@ -21,11 +21,11 @@ Peilin CHEN is a Ph.D. student in the ECE Department of the University of Virgin
 ## News
 
 <div class="news-container">
-  <p>**[2025.04]** One first-authored paper has been accepted to ACM GLSVLSI 2025! See you in New Orleans, USA🎉! </p>
-  <p>**[2025.04]** Accepted as a DAC Young Fellow at the 62nd Design Automation Conference! See you in San Francisco, USA🎉! </p>
-  <p>**[2024.12]** One first-authored paper has been accepted to IEEE AICAS 2025! See you in Bordeaux, France🎉! </p>
-  <p>**[2024.06]** My dissertation, **Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture,** has been selected as the excellent graduation project🎉! </p>
-  <p>**[2024.02]** I will be a Ph.D. student at the University of Virginia in Fall 2024 and have been awarded the UVA Provost's Fellowship🎉!</p>
+  <p><strong>[2025.04]</strong> One first-authored paper has been accepted to ACM GLSVLSI 2025! See you in New Orleans, USA 🎉!</p>
+  <p><strong>[2025.04]</strong> Accepted as a DAC Young Fellow at the 62nd Design Automation Conference! See you in San Francisco, USA 🎉!</p>
+  <p><strong>[2024.12]</strong> One first-authored paper has been accepted to IEEE AICAS 2025! See you in Bordeaux, France 🎉!</p>
+  <p><strong>[2024.06]</strong> My dissertation, <strong>Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture</strong>, has been selected as the excellent graduation project 🎉!</p>
+  <p><strong>[2024.02]</strong> I will be a Ph.D. student at the University of Virginia in Fall 2024 and have been awarded the UVA Provost's Fellowship 🎉!</p>
 </div>
 
 <br/><br/>

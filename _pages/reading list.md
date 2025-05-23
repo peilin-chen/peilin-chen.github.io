@@ -89,6 +89,7 @@ author_profile: true
   - Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators(2024)
   - Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator(2024)
   - Prosperity: Accelerating Spiking Neural Networks via Product Sparsity(2025)
+  - Exploring the Performance Improvement of Tensor Processing Engines through Transformation in the Bit-weight Dimension of MACs(2025)
 * [ISLPED](https://dblp.org/db/conf/islped/index.html) or [ISLPED](https://dl.acm.org/conference/islped)
   - A Fully-Integrated Energy-Scalable Transformer Accelerator Supporting Adaptive Model Configuration and Word Elimination for Language Understanding on Edge Devices(2023)
 * [ICCAD](https://dblp.org/db/conf/iccad/index.html) or [ICCAD](https://ieeexplore.ieee.org/xpl/conhome/1000151/all-proceedings)

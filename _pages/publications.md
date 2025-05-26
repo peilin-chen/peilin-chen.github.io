@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Papers
 
-* **Peilin Chen** and Xiaoxuan Yang, "[Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration](https://arxiv.org/abs/2505.17787)," ACM Great Lakes Symposium on VLSI (GLSVLSI), New Orleans, USA, 2025.
+* **Peilin Chen** and Xiaoxuan Yang, "[Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration](https://arxiv.org/abs/2505.17787)," ACM Great Lakes Symposium on VLSI (GLSVLSI), New Orleans, USA, 2025. <span style="color: red;">(**Best Paper Award Nominee**)</span>
 * **Peilin Chen** and Xiaoxuan Yang, "[Optimizing and Exploring System Performance in Compact Processing-in-Memory-Based Chips](https://arxiv.org/abs/2502.21259)," IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), Bordeaux, FRANCE, 2025. [[Code](https://github.com/peilin-chen/Compact-PIM-based-Design)]
 
 ## Journal Papers

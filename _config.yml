@@ -84,7 +84,7 @@ author:
   avatar           : "my_photo6.jpg"
   bio              : "Ph.D. student at UVA"
   location         : "Charlottesville, VA, USA"
-  employer         : "UVA"
+  employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=REMjlmUAAAAJ&hl=en"
   email            :  "peilin@virginia.edu"

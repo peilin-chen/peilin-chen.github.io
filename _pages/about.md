@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Peilin (Leo) Chen's homepage!
+# Welcome to Peilin's homepage!
 
 &emsp;
 
 ## Short Bio
 
-Peilin (Leo) Chen is a Ph.D. student in the ECE Department of the University of Virginia (UVA) under the supervision of Prof. [Xiaoxuan Yang](https://xiaoxuan-yang.github.io/index.html). He received the B.S. degree in Electrical Engineering from Xidian University (XDU). His research interests are Digital/Mixed-signal IC Design, AI Chips Based on Computing-In-Memory, and Computer Architecture.
+Peilin Chen is a Ph.D. student in the ECE Department of the University of Virginia (UVA) under the supervision of Prof. [Xiaoxuan Yang](https://xiaoxuan-yang.github.io/index.html). He received the B.S. degree in Electrical Engineering from Xidian University (XDU). His research interests are Digital/Mixed-signal IC Design, AI Chips Based on Computing-In-Memory, and Computer Architecture.
 
 &emsp;
 

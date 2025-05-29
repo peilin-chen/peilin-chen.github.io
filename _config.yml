@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peilin Chen"
+title                    : "Peilin Chen" 
 title_separator          : "-"
 name                     : &name "Peilin Chen's Homepage"
 description              : &description "personal description"

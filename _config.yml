@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peilin (Leo) Chen"
+title                    : "Peilin Chen"
 title_separator          : "-"
-name                     : &name "Peilin (Leo) Chen's Homepage"
+name                     : &name "Peilin Chen's Homepage"
 description              : &description "personal description"
 url                      : https://peilin-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peilin (Leo) Chen"
+  name             : "Peilin Chen"
   avatar           : "my_photo6.jpg"
   bio              : "Ph.D. student at UVA"
   location         : "Charlottesville, VA, USA"

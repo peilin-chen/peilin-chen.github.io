@@ -21,7 +21,7 @@ Peilin (Leo) Chen is a first-year Ph.D. student in the ECE Department of the Uni
 ## News
 
 <div class="news-container">
-  <p><strong>[2025.04]</strong> Paper <strong>"Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration"<strong> wins <strong>Best Paper Award of GLSVLSI 2025<strong> 🎉!</p>
+  <p><strong>[2025.04]</strong> Paper <strong>"Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration"</strong> wins <strong>Best Paper Award of GLSVLSI 2025</strong> 🎉!</p>
   <p><strong>[2025.04]</strong> One first-authored paper has been accepted to ACM GLSVLSI 2025! See you in New Orleans, USA 🎉!</p>
   <p><strong>[2025.04]</strong> Accepted as a DAC Young Fellow at the 62nd Design Automation Conference! See you in San Francisco, USA 🎉!</p>
   <p><strong>[2024.12]</strong> One first-authored paper has been accepted to IEEE AICAS 2025! See you in Bordeaux, France 🎉!</p>

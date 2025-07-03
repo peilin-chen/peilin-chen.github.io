@@ -60,6 +60,12 @@ Peilin (Leo) Chen is a first-year Ph.D. student in the ECE Department of the Uni
 .news-container::-webkit-scrollbar-thumb:hover {
     background-color: #555;
 }
+
+.news-container p {
+    margin: 2px 0;  
+    padding: 0;
+}
+
 </style>
 
 

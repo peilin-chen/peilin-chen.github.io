@@ -10,12 +10,12 @@ author_profile: True
 <style>
     .image-container {
         display: flex;
-        justify-content: center; /* 图片整体居中显示，可选 */
-        gap: 20px; /* 两张图片之间的间距 */
+        justify-content: center;
+        gap: 20px; 
     }
     .image-container img {
-        width: 400px; /* 控制图片大小 */
-        height: auto; /* 保持比例 */
+        width: 400px;
+        height: auto; 
     }
 </style>
 

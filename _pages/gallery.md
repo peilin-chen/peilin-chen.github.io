@@ -5,10 +5,20 @@ permalink: /gallery/
 author_profile: True
 ---
 
+## GLSVLSI, New Orleans, USA, Jul. 2025
+
+<img src="/images/GLSVLSI_1.jpg">
+
+<img src="/images/GLSVLSI_2.jpg">
+
+Our work received the Best Paper Award at GLSVLSI 2025🎉🎉🎉.
+
 ## DAC Young Fellow, San Francisco, USA, Jun. 2025
 
 <img src="/images/DYF_1.jpg">
+
 <img src="/images/DYF_3.jpg">
+
 <img src="/images/DYF_2.jpg">
 
 I attended DAC 2025 as a DAC Young Fellow from June 22-25🎉🎉🎉.

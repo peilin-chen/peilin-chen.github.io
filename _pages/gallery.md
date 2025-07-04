@@ -7,22 +7,9 @@ author_profile: True
 
 ## DAC Young Fellow, San Francisco, USA, Jun. 2025
 
-<style>
-    .image-container {
-        display: flex;
-        justify-content: center;
-        gap: 20px; 
-    }
-    .image-container img {
-        width: 400px;
-        height: auto; 
-    }
-</style>
+<img src="/images/DYF_1.jpg">
 
-<div class="image-container">
-    <img src="/images/DYF_1.jpg">
-    <img src="/images/DYF_2.jpg">
-</div>
+<img src="/images/DYF_2.jpg">
 
 
 ## XDU, Xi'an, China, Jun. 2024

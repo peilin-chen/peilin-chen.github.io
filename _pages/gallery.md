@@ -11,6 +11,7 @@ author_profile: True
 
 <img src="/images/DYF_2.jpg">
 
+I attended DAC 2025 as a DAC Young Fellow from June 22-25.
 
 ## XDU, Xi'an, China, Jun. 2024
 

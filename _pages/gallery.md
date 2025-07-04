@@ -7,7 +7,7 @@ author_profile: True
 
 ## GLSVLSI, New Orleans, USA, Jul. 2025
 
-<img src="/images/GLSVLSI_1.jpg">
+<img src="/images/GLSVLSI_1.jpg">  
 
 <img src="/images/GLSVLSI_2.jpg">
 

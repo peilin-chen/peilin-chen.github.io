@@ -9,6 +9,7 @@ author_profile: true
 * [Nature](https://www.nature.com/search?journal=ncomms,%20nature,%20natelectron&article_type=research&subject=engineering,%20nanoscience-and-technology&order=relevance)
   - Neuro-inspired computing chips(2020)
   - Illusion of large on-chip memory by networked computing chips for neural network inference(2021)
+  - Accurate online training of dynamical spiking neural networks through Forward Propagation Through Time~(2023)
   - Neuromorphic computing at scale(2025)
 * [Science](https://www.science.org/action/doSearch?AllField=Edge+learning+using+a+fully+integrated+neuro-inspired+memristor+chip)
   - Edge learning using a fully integrated neuro-inspired memristor chip(2023)

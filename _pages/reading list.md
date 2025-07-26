@@ -59,6 +59,7 @@ author_profile: true
   - ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks(2021)
   - A software-defined tensor streaming multiprocessor for large-scale machine learning(2022)
 * [MICRO](https://dblp.org/db/conf/micro/index.html) or [MICRO](https://dl.acm.org/conference/micro)
+  - CirCNN: accelerating and compressing deep neural networks using block-circulant weight matrices(2017)
   - Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture(2019)
   - Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture(2021)
   - Si-Kintsugi: Towards Recovering Golden-Like Performance of Defective Many-Core Spatial Architectures for AI(2023)

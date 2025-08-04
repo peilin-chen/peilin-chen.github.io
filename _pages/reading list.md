@@ -7,6 +7,7 @@ author_profile: true
 
 ## AI Chip/Accelerator
 * [Nature](https://www.nature.com/search?journal=ncomms,%20nature,%20natelectron&article_type=research&subject=engineering,%20nanoscience-and-technology&order=relevance)
+  - Towards artificial general intelligence with hybrid Tianjic chip architecture(2019)
   - Neuro-inspired computing chips(2020)
   - Illusion of large on-chip memory by networked computing chips for neural network inference(2021)
   - Accurate online training of dynamical spiking neural networks through Forward Propagation Through Time~(2023)

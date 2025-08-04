@@ -246,6 +246,7 @@ author_profile: true
   - Training deep neural networks with low precision multiplications(2015)
   - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding(2016)
   - Attention Is All You Need(2017)
+  - TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning(2017)
   - Training and Inference with Integers in Deep Neural Networks(2018)
   - Improving Language Understanding by Generative Pre-Training(2018)
   - Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference(2018)

@@ -271,6 +271,7 @@ author_profile: true
   - Exploring Lottery Ticket Hypothesis in Spiking Neural Networks(2022)
   - NITI: Training Integer Neural Networks Using Integer-only Arithmetic(2022)
   - PocketNN: Integer-only Training and Inference of Neural Networks via Direct Feedback Alignment and Pocket Activations in Pure C++(2022)
+  - Online Training Through Time for Spiking Neural Networks(2022)
   - FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU(2023)
   - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models(2023)
   - Dynamic N:M Fine-Grained Structured Sparse Attention Mechanism(2023)
@@ -281,6 +282,8 @@ author_profile: true
   - H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models(2023)
   - QUIK: Towards End-to-End 4-Bit Inference on Generative Large Language Models(2023)
   - Training Spiking Neural Networks Using Lessons From Deep Learning(2023)
+  - Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks(2023)
+  - Online Stabilization of Spiking Neural Networks(2023)
   - OneBit: Towards Extremely Low-bit Large Language Models(2024)
   - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond(2024)
   - TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding(2024)
@@ -301,6 +304,7 @@ author_profile: true
   - LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference(2024)
   - KV Prediction for Improved Time to First Token(2024)
   - NITRO-D: Native Integer-only Training of Deep Convolutional Neural Networks(2024)
+  - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks(2024)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

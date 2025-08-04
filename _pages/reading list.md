@@ -118,6 +118,7 @@ author_profile: true
   - Gibbon: Efficient Co-Exploration of NN Model and Processing-In-Memory Architecture(2022)
   - Achieving Datacenter-scale Performance through Chiplet-based Manycore Architectures(2023)
   - SoftmAP: Software-Hardware Co-design for Integer-Only Softmax on Associative Processors(2024)
+  - SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support(2025)
 * [ASP-DAC](https://dblp.org/db/conf/aspdac/index.html) or [ASP-DAC](https://ieeexplore.ieee.org/xpl/conhome/1000194/all-proceedings)
   - ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks(2018)
   - Learning the sparsity for ReRAM: mapping and pruning sparse neural network for ReRAM based accelerator(2019)

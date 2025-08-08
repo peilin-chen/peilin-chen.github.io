@@ -265,6 +265,7 @@ author_profile: true
   - Big Bird: Transformers for Longer Sequences(2020)
   - Long Range Arena: A Benchmark for Efficient Transformers(2020)
   - Micro-Batch Training with Batch-Channel Normalization and Weight Standardization(2020)
+  - Going Deeper With Directly-Trained Larger Spiking Neural Networks(2020)
   - Low Latency Deep Learning Inference Model for Distributed Intelligent IoT Edge Clusters(2021)
   - Memory-efficient Transformers via Top-$k$ Attention(2021)
   - I-BERT: Integer-only BERT Quantization(2021)

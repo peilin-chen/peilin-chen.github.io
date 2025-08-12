@@ -80,6 +80,7 @@ author_profile: true
   - TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer(2022)
   - Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators(2024)
   - Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator(2024)
+  - Stellar: Energy-Efficient and Low-Latency SNN Algorithm and Hardware Co-Design with Spatiotemporal Computation(2024)
   - Prosperity: Accelerating Spiking Neural Networks via Product Sparsity(2025)
   - Exploring the Performance Improvement of Tensor Processing Engines through Transformation in the Bit-weight Dimension of MACs(2025)
 * [DAC](https://dblp.org/db/conf/dac/index.html) or [DAC](https://ieeexplore.ieee.org/xpl/conhome/1000196/all-proceedings)

@@ -66,6 +66,7 @@ author_profile: true
   - Si-Kintsugi: Towards Recovering Golden-Like Performance of Defective Many-Core Spatial Architectures for AI(2023)
   - SOFA: A Compute-Memory Optimized Sparsity Accelerator via Cross-Stage Coordinated Tiling(2024)
   - LoAS: Fully Temporal-Parallel Dataflow for Dual-Sparse Spiking Neural Networks(2024)
+  - COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation(2024)
 * [ASPLOS](https://dblp.org/db/conf/asplos/index.html) or [ASPLOS](https://dl.acm.org/conference/asplos/proceedings)
   - DianNao: a small-footprint high-throughput accelerator for ubiquitous machine-learning(2014)
   - PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference(2019)

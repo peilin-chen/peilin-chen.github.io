@@ -275,6 +275,7 @@ author_profile: true
   - Memory-efficient Transformers via Top-$k$ Attention(2021)
   - I-BERT: Integer-only BERT Quantization(2021)
   - Accelerating Sparse Deep Neural Networks(2021)
+  - Deep Residual Learning in Spiking Neural Networks(2021)
   - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness(2022)
   - OPT: Open Pre-trained Transformer Language Models(2022)
   - GPT3.int8(): 8-bit Matrix Multiplication for Transformers at Scale(2022)

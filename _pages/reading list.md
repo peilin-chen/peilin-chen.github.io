@@ -59,6 +59,7 @@ author_profile: true
   - SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks(2020)
   - ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks(2021)
   - A software-defined tensor streaming multiprocessor for large-scale machine learning(2022)
+  - ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching(2024)
 * [MICRO](https://dblp.org/db/conf/micro/index.html) or [MICRO](https://dl.acm.org/conference/micro)
   - CirCNN: accelerating and compressing deep neural networks using block-circulant weight matrices(2017)
   - Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture(2019)

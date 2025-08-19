@@ -14,6 +14,7 @@ author_profile: true
   - Neuromorphic computing at scale(2025)
 * [Science](https://www.science.org/action/doSearch?AllField=Edge+learning+using+a+fully+integrated+neuro-inspired+memristor+chip)
   - Edge learning using a fully integrated neuro-inspired memristor chip(2023)
+  - SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence(2023)
 * [ISSCC](https://dblp.org/db/conf/isscc/index.html) or [ISSCC](https://ieeexplore.ieee.org/xpl/conhome/1000708/all-proceedings)
   - A 1.42TOPS/W Deep Convolutional Neural Network Recognition Processor for Intelligent IoE Systems(2016)
   - A 288μW Programmable Deep-Learning Processor with 270KB On-Chip Weight Storage Using Non-Uniform Memory Hierarchy for Mobile Intelligence(2017)

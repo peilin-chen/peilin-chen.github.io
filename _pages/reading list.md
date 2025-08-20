@@ -280,6 +280,7 @@ author_profile: true
   - Accelerating Sparse Deep Neural Networks(2021)
   - Deep Residual Learning in Spiking Neural Networks(2021)
   - Incorporating Learnable Membrane Time Constant To Enhance Learning of Spiking Neural Networks(2021)
+  - One Timestep is All You Need: Training Spiking Neural Networks with Ultra Low Latency(2021)
   - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness(2022)
   - OPT: Open Pre-trained Transformer Language Models(2022)
   - GPT3.int8(): 8-bit Matrix Multiplication for Transformers at Scale(2022)
@@ -289,6 +290,7 @@ author_profile: true
   - NITI: Training Integer Neural Networks Using Integer-only Arithmetic(2022)
   - PocketNN: Integer-only Training and Inference of Neural Networks via Direct Feedback Alignment and Pocket Activations in Pure C++(2022)
   - Online Training Through Time for Spiking Neural Networks(2022)
+  - LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout(2022)
   - FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU(2023)
   - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models(2023)
   - Dynamic N:M Fine-Grained Structured Sparse Attention Mechanism(2023)
@@ -301,6 +303,7 @@ author_profile: true
   - Training Spiking Neural Networks Using Lessons From Deep Learning(2023)
   - Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks(2023)
   - Online Stabilization of Spiking Neural Networks(2023)
+  - Temporal-Coded Spiking Neural Networks with Dynamic Firing Threshold: Learning with Event-Driven Backpropagation(2023)
   - OneBit: Towards Extremely Low-bit Large Language Models(2024)
   - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond(2024)
   - TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding(2024)
@@ -322,6 +325,9 @@ author_profile: true
   - KV Prediction for Improved Time to First Token(2024)
   - NITRO-D: Native Integer-only Training of Deep Convolutional Neural Networks(2024)
   - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks(2024)
+  - Spiking Neural Network with Learnable Threshold for Event-based Classification and Object Detection(2024)
+  - LM-HT SNN: Enhancing the Performance of SNN to ANN Counterpart through Learnable Multi-hierarchical Threshold Model(2024)
+  - A Learnable Threshold and Resistance Spiking Neuron for Efficient Spiking Neural Networks Training(2025)
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

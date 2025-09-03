@@ -114,6 +114,7 @@ author_profile: true
   - Big-Little Chiplets for In-Memory Acceleration of DNNs: A Scalable Heterogeneous Architecture(2022)
 * [GLSVLSI](https://dblp.org/db/conf/glvlsi/index.html) or [GLSVLSI](https://dl.acm.org/conference/glsvlsi)
   - Computing Utilization Enhancement for Chiplet-based Homogeneous Processing-in-Memory Deep Learning Processors(2021)
+  - Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration(2025)
 * [ISLPED](https://dblp.org/db/conf/islped/index.html) or [ISLPED](https://dl.acm.org/conference/islped)
   - A Fully-Integrated Energy-Scalable Transformer Accelerator Supporting Adaptive Model Configuration and Word Elimination for Language Understanding on Edge Devices(2023)
 * [DATE](https://dblp.org/db/conf/date/index.html) or [DATE](https://ieeexplore.ieee.org/xpl/conhome/1000198/all-proceedings)

@@ -14,7 +14,7 @@ redirect_from:
 
 ## Short Bio
 
-Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the University of Virginia (UVA) under the supervision of Prof. [Xiaoxuan Yang](https://xiaoxuan-yang.github.io/index.html). He received the B.E. degree in Integrated Circuit Design and Integration System from Xidian University (XDU). His research interests are Digital/Mixed-signal IC Design, AI Chips Based on Computing-in-Memory, Software-Hardware Co-Design, Neuromorphic Computing, and Computer Architecture.
+Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the University of Virginia (UVA) under the supervision of Prof. [Xiaoxuan Yang](https://xiaoxuan-yang.github.io/index.html). He received the B.E. degree in Integrated Circuit Design and Integration System from Xidian University (XDU). His research interests are AI Chips Based on Computing-in-Memory, Software-Hardware Co-Design, Neuromorphic Computing, and Computer Architecture.
 
 &emsp;
 

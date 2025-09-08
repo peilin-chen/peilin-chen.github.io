@@ -63,6 +63,7 @@ author_profile: true
   - A software-defined tensor streaming multiprocessor for large-scale machine learning(2022)
   - ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching(2024)
   - Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks(2025)
+  - Transitive Array: An Efficient GEMM Accelerator with Result Reuse(2025)
 * [MICRO](https://dblp.org/db/conf/micro/index.html) or [MICRO](https://dl.acm.org/conference/micro)
   - CirCNN: accelerating and compressing deep neural networks using block-circulant weight matrices(2017)
   - Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture(2019)

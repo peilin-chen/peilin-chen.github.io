@@ -165,6 +165,7 @@ author_profile: true
 * [TVLSI](https://dblp.org/db/journals/tvlsi/index.html) or [TVLSI](https://ieeexplore.ieee.org/xpl/issues?punumber=92&isnumber=10477564)
   - Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns(2017)
   - Benchmark of the Compute-in-Memory-Based DNN Accelerator With Area Constraint(2020)
+  - Vesti: Energy-Efficient In-Memory Computing Accelerator for Deep Neural Networks(2020)
   - An Algorithm–Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers(2022)
   - A 40-nm 1.89-pJ/SOP Scalable Convolutional Spiking Neural Network Learning Core With On-Chip Spatiotemporal Back-Propagation(2023)
 * Others

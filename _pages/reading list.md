@@ -151,6 +151,7 @@ author_profile: true
 * [TCAS-I](https://dblp.org/db/journals/tcasI/index.html) or [TCAS-I](https://ieeexplore.ieee.org/xpl/issues?punumber=8919&isnumber=10484988)
   - Research Progress on Memristor: From Synapses to Computing Systems(2022)
   - ENNA: An Efficient Neural Network Accelerator Design Based on ADC-Free Compute-In-Memory Subarrays(2023)
+  - A 1–8b Reconfigurable Digital SRAM Compute-in-Memory Macro for Processing Neural Networks(2024)
 * [TCAD](https://dblp.org/db/journals/tcad/index.html) or [TCAD](https://ieeexplore.ieee.org/xpl/issues?punumber=43&isnumber=10477239)
   - MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System(2018)
   - DNN+NeuroSim V2.0: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators for On-Chip Training(2021)

@@ -251,7 +251,8 @@ author_profile: true
   - Are SNNs Truly Energy-efficient? — A Hardware Perspective(2024)
   - Approximate Adder Tree Design with Sparsity-Aware Encoding and In-Memory Swapping for SRAM-based Digital Compute-In-Memory Macros(2024)
   - Workload-Balanced Pruning for Sparse Spiking Neural Networks(2024)
-  - An all integer-based spiking neural network with dynamic threshold adaptation(2024)
+  - 5-nm High-Efficiency and High-Density Digital SRAM In-Memory-Computing Macros for AI Accelerators(2025)
+  - Neuromorphic is dead. Long live neuromorphic.(2025)
 
 ## Machine Learning
   - Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures(2009)
@@ -336,8 +337,9 @@ author_profile: true
   - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks(2024)
   - Spiking Neural Network with Learnable Threshold for Event-based Classification and Object Detection(2024)
   - LM-HT SNN: Enhancing the Performance of SNN to ANN Counterpart through Learnable Multi-hierarchical Threshold Model(2024)
+  - An all integer-based spiking neural network with dynamic threshold adaptation(2024)
   - A Learnable Threshold and Resistance Spiking Neuron for Efficient Spiking Neural Networks Training(2025)
-  - 5-nm High-Efficiency and High-Density Digital SRAM In-Memory-Computing Macros for AI Accelerators(2025)
+
 
 ## RISC-V
   - A 45nm 1.3GHz 16.7 double-precision GFLOPS/W RISC-V processor with vector accelerators(2014)

@@ -15,8 +15,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Reading List"
-    url: /reading list/
+  #- title: "Reading List"
+  #  url: /reading list/
 
   - title: "Channel"
     url: /channel/

@@ -41,7 +41,7 @@ Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the Un
 <style>
 .news-container {
     width: 100%;
-    height: 100px;  
+    height: 120px;  
     overflow-y: scroll;
     overflow-x: hidden;
     padding-right: 10px;  

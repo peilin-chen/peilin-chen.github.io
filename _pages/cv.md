@@ -5,5 +5,5 @@ permalink: /cv/
 author_profile: true
 ---
 
-<iframe src="/files/Peilin_Chen_CV.pdf" width="85%" height="1150px" style="border: none;">
+<iframe src="/files/Peilin_Chen_CV.pdf" width="87%" height="1150px" style="border: none;">
 </iframe> 

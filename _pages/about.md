@@ -73,8 +73,6 @@ Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the Un
 
 </style>
 
-<script data-goatcounter="https://peilin-chen.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
 
 
 

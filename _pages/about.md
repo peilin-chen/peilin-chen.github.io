@@ -32,12 +32,14 @@ Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the Un
   <p><strong>[2024.02]</strong> I will be a Ph.D. student at the University of Virginia in Fall 2024 and have been awarded the UVA Provost's Fellowship 🎉!</p>
 </div>
 
+<!--
 <br/><br/>
 <div id="map-container" style="display: flex; justify-content: center; align-items: center;">
     <div id="map-content" style="width: 450px;">
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY&cl=ffffff&w=a"></script>
     </div>
 </div>
+-->
 
 <style>
 .news-container {
@@ -70,6 +72,9 @@ Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the Un
 }
 
 </style>
+
+<script data-goatcounter="https://peilin-chen.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 
 
 

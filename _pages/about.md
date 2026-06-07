@@ -23,7 +23,6 @@ Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the Un
 <div class="news-container">
   <p><strong>[2026.05]</strong> One first-authored paper has been accepted to IEEE/ACM ISLPED 2026 (Oral presentation)! See you in Evanston, Illinois, USA 🎉!</p>
   <p><strong>[2026.04]</strong> One first-authored paper has been accepted to ACM GLSVLSI 2026! See you in Finger Lakes, NY, USA 🎉!</p>
-  <p><strong>[2025.11]</strong> One co-authored special session paper has been accepted to the IEEE International Conference on Microelectronics 2025 🎉!</p>
   <p><strong>[2025.07]</strong> Paper "Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration" wins <strong>Best Paper Award of GLSVLSI 2025</strong> 🎉!</p>
   <p><strong>[2025.04]</strong> One first-authored paper has been accepted to ACM GLSVLSI 2025! See you in New Orleans, USA 🎉!</p>
   <p><strong>[2025.04]</strong> Accepted as a DAC Young Fellow at the 62nd Design Automation Conference! See you in San Francisco, USA 🎉!</p>

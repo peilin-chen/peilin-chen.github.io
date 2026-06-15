@@ -18,8 +18,8 @@ main:
   #- title: "Reading List"
   #  url: /reading list/
 
-  - title: "Channel"
-    url: /channel/
+  - title: "Services"
+    url: /services/
 
   #- title: "Symposium"
   #  url: /symposium/

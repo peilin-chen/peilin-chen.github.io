@@ -89,7 +89,7 @@ Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the Un
 <style>
 .news-container {
     width: 100%;
-    max-height: 190px;
+    max-height: 220px;
     overflow-y: auto;
     overflow-x: hidden;
     padding: 0 12px;
@@ -103,11 +103,11 @@ Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the Un
 
 .news-item {
     display: grid;
-    grid-template-columns: 110px 1fr;
+    grid-template-columns: 90px 1fr;
     column-gap: 18px;
     padding: 14px 0;
     border-bottom: 1px solid #e5e7eb;
-    align-items: start;
+    align-items: stretch;
 }
 
 .news-item:last-child {
@@ -118,7 +118,11 @@ Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the Un
     font-weight: 700;
     color: #232D4B;
     white-space: nowrap;
-    padding-left: 4px;
+    padding-left: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .news-content {

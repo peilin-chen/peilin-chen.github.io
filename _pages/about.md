@@ -14,7 +14,25 @@ redirect_from:
 
 ## Short Bio
 
-Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the University of Virginia (UVA) under the supervision of Prof. [Xiaoxuan Yang](https://xiaoxuan-yang.github.io/index.html). He received the B.E. degree in Integrated Circuit Design and Integration System from Xidian University (XDU). His research interests are AI Chips Based on Computing-in-Memory, Algorithm-Hardware Co-Design, Neuromorphic Computing, and Computer Architecture.
+<div class="bio-card">
+  <p>
+    Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the
+    University of Virginia (UVA) under the supervision of Prof.
+    <a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>.
+    He received the B.E. degree in Integrated Circuit Design and Integration System
+    from Xidian University (XDU). His research interests are AI Chips Based on
+    Computing-in-Memory, Algorithm-Hardware Co-Design, Neuromorphic Computing,
+    and Computer Architecture.
+  </p>
+
+  <div class="bio-tags">
+    <span>AI Chips</span>
+    <span>Computing-in-Memory</span>
+    <span>Hardware-Algorithm Co-Design</span>
+    <span>Neuromorphic Computing</span>
+    <span>Computer Architecture</span>
+  </div>
+</div>
 
 &emsp;
 
@@ -87,6 +105,55 @@ Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the Un
 </div>
 
 <style>
+
+.bio-card {
+    max-width: 760px;
+    padding: 18px 22px;
+    margin-top: 10px;
+    margin-bottom: 46px;
+
+    background: #fafafa;
+    border-left: 4px solid #232D4B;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+.bio-card p {
+    margin: 0;
+    color: #2f3437;
+    line-height: 1.65;
+    font-size: 1em;
+}
+
+.bio-card a {
+    color: #E57200;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.bio-card a:hover {
+    color: #B84C00;
+    text-decoration: underline;
+}
+
+.bio-tags {
+    margin-top: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.bio-tags span {
+    display: inline-block;
+    padding: 4px 10px;
+    font-size: 0.82em;
+    font-weight: 600;
+    color: #232D4B;
+    background: #f1f3f6;
+    border: 1px solid #e5e7eb;
+    border-radius: 999px;
+}
+  
 .news-container {
     width: 100%;
     max-height: 220px;

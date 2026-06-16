@@ -105,7 +105,7 @@ redirect_from:
 <style>
 
 .bio-card {
-    max-width: 760px;
+    max-width: 100%;
     padding: 18px 22px;
     margin-top: 10px;
     margin-bottom: 46px;

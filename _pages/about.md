@@ -20,9 +20,8 @@ redirect_from:
     University of Virginia (UVA) under the supervision of Prof.
     <a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>.
     He received the B.E. degree in Integrated Circuit Design and Integration System
-    from Xidian University (XDU). His research interests are AI Chips Based on
-    Computing-in-Memory, Algorithm-Hardware Co-Design, Neuromorphic Computing,
-    and Computer Architecture.
+    from Xidian University (XDU). His research focuses on algorithm-hardware co-design
+    for efficient neural network inference and training.
   </p>
 
   <div class="bio-tags">

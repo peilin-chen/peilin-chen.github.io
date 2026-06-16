@@ -142,7 +142,7 @@ redirect_from:
   
 .news-container {
     width: 100%;
-    max-height: 210px;
+    max-height: 220px;
     overflow-y: auto;
     overflow-x: hidden;
     padding: 0 12px;

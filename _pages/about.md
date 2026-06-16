@@ -25,11 +25,15 @@ redirect_from:
   </p>
 
   <div class="bio-tags">
-    <span>AI Chips</span>
-    <span>Computing-in-Memory</span>
-    <span>Neuromorphic Computing</span>
-    <span>Computer Architecture</span>
-    <span>Machine Learning</span>
+    <div class="tag-row">
+      <span>AI Chips</span>
+      <span>Computing-in-Memory</span>
+      <span>Neuromorphic Computing</span>
+    </div>
+    <div class="tag-row">
+      <span>Computer Architecture</span>
+      <span>Machine Learning</span>
+    </div>
   </div>
 </div>
 
@@ -123,10 +127,18 @@ redirect_from:
 }
 
 .bio-tags {
-    margin-top: 14px;
+    margin-top: 16px;
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 8px;
+    align-items: center;
+}
+
+.tag-row {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
 }
 
 .bio-tags span {

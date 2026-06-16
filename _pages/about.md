@@ -27,9 +27,9 @@ redirect_from:
   <div class="bio-tags">
     <span>AI Chips</span>
     <span>Computing-in-Memory</span>
-    <span>Algorithm-Hardware Co-Design</span>
     <span>Neuromorphic Computing</span>
     <span>Computer Architecture</span>
+    <span>Machine Learning</span>
   </div>
 </div>
 

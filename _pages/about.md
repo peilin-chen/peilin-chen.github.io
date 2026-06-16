@@ -34,8 +34,6 @@ redirect_from:
   </div>
 </div>
 
-&emsp;
-
 ## News
 
 <div class="news-container">
@@ -123,17 +121,6 @@ redirect_from:
     color: #2f3437;
     line-height: 1.65;
     font-size: 1em;
-}
-
-.bio-card a {
-    color: #E57200;
-    text-decoration: none;
-    font-weight: 500;
-}
-
-.bio-card a:hover {
-    color: #B84C00;
-    text-decoration: underline;
 }
 
 .bio-tags {
@@ -246,6 +233,17 @@ redirect_from:
   <p><strong>[2024.06]</strong> My dissertation, <strong>Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture</strong>, has been selected as the excellent graduation project 🎉!</p>
   <p><strong>[2024.02]</strong> I will be a Ph.D. student at the University of Virginia in Fall 2024 and have been awarded the UVA Provost's Fellowship 🎉!</p>
 </div>
+
+.bio-card a {
+    color: #E57200;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.bio-card a:hover {
+    color: #B84C00;
+    text-decoration: underline;
+}
 
 <!--
 <br/><br/>

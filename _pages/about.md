@@ -26,7 +26,7 @@ redirect_from:
 
   <div class="bio-tags">
     <div class="tag-row">
-      <span>AI Chips</span>
+      <span>AI Chip</span>
       <span>Computing-in-Memory</span>
       <span>Neuromorphic Computing</span>
     </div>

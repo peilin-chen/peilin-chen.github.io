@@ -147,8 +147,8 @@ redirect_from:
     font-size: 0.82em;
     font-weight: 600;
     color: #232D4B;
-    background: #f1f3f6;
-    border: 1px solid #e5e7eb;
+    background: #f6f7f9;
+    border: 1px solid #e3e6ea;
     border-radius: 999px;
 }
   

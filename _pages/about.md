@@ -233,6 +233,13 @@ redirect_from:
 }
 </style>
 
+<br/><br/>
+<div id="map-container" style="display: flex; justify-content: center; align-items: center;">
+    <div id="map-content" style="width: 450px;">
+        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=W5zcQt09eiXCT7MSUXeRVUHqJrfT3K7tB0pDHkS34MQ&cl=ffffff&w=a"></script>
+    </div>
+</div>
+
 <!--
 <div class="news-container">
   <p><strong>[2026.05]</strong> One first-authored paper has been accepted to IEEE/ACM ISLPED 2026 (Oral presentation)! See you in Evanston, Illinois, USA 🎉!</p>
@@ -256,14 +263,12 @@ redirect_from:
     text-decoration: underline;
 }
 
-<!--
 <br/><br/>
 <div id="map-container" style="display: flex; justify-content: center; align-items: center;">
     <div id="map-content" style="width: 450px;">
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY&cl=ffffff&w=a"></script>
+        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=W5zcQt09eiXCT7MSUXeRVUHqJrfT3K7tB0pDHkS34MQ&cl=ffffff&w=a"></script>
     </div>
 </div>
--->
 <!--
 <style>
 .news-container {

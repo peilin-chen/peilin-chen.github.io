@@ -235,8 +235,8 @@ redirect_from:
 
 <br/>
 <div id="map-container" style="display: flex; justify-content: center; align-items: center;">
-    <div id="map-content" style="width: 600px;">
-        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=W5zcQt09eiXCT7MSUXeRVUHqJrfT3K7tB0pDHkS34MQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+    <div id="map-content" style="width: 450px;">
+        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=n&d=W5zcQt09eiXCT7MSUXeRVUHqJrfT3K7tB0pDHkS34MQ'></script>
     </div>
 </div>
 

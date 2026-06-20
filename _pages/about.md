@@ -236,7 +236,7 @@ redirect_from:
 <br/>
 <div id="map-container" style="display: flex; justify-content: center; align-items: center;">
     <div id="map-content" style="width: 450px;">
-        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=W5zcQt09eiXCT7MSUXeRVUHqJrfT3K7tB0pDHkS34MQ'></script>
+        <a href='https://mapmyvisitors.com/web/1c5ow'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=W5zcQt09eiXCT7MSUXeRVUHqJrfT3K7tB0pDHkS34MQ'/></a>
     </div>
 </div>
 

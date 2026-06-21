@@ -114,7 +114,6 @@ redirect_from:
     margin-bottom: 46px;
 
     background: #fafafa;
-    border-left: 4px solid #232D4B;
     border-radius: 8px;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
 }

@@ -232,13 +232,14 @@ redirect_from:
 }
 </style>
 
-<!--<br/>
+<!--
+<br/>
 <div id="map-container" style="display: flex; justify-content: center; align-items: center;">
     <div id="map-content" style="width: 450px;">
         <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=tt&d=W5zcQt09eiXCT7MSUXeRVUHqJrfT3K7tB0pDHkS34MQ'></script>
     </div>
 </div>
-
+-->
 <!--
 <div class="news-container">
   <p><strong>[2026.05]</strong> One first-authored paper has been accepted to IEEE/ACM ISLPED 2026 (Oral presentation)! See you in Evanston, Illinois, USA 🎉!</p>

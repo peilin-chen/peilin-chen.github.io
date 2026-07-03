@@ -232,7 +232,7 @@ redirect_from:
 }
 </style>
 
-<br/>
+<!--<br/>
 <div id="map-container" style="display: flex; justify-content: center; align-items: center;">
     <div id="map-content" style="width: 450px;">
         <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=tt&d=W5zcQt09eiXCT7MSUXeRVUHqJrfT3K7tB0pDHkS34MQ'></script>

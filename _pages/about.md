@@ -21,7 +21,7 @@ redirect_from:
     <a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>.
     He received the B.E. degree in Integrated Circuit Design and Integration System
     from Xidian University (XDU). His research focuses on designing energy-efficient algorithms, 
-    architectures, and systems for AI workloads.
+    architectures, and systems for AI workloads. 
   </p>
 
   <div class="bio-tags">

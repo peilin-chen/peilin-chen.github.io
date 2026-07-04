@@ -2,7 +2,7 @@
 layout: archive
 title: "Gallery"
 permalink: /gallery/
-author_profile: True
+author_profile: False
 ---
 
 ## GLSVLSI, New Orleans, USA, Jul. 2025

@@ -27,8 +27,8 @@ main:
   - title: "Tutorials"
     url: /tutorials/
 
-  - title: "Gallery"
-    url: /gallery/
+  #- title: "Gallery"
+  #  url: /gallery/
 
   - title: "CV"
     url: /cv/

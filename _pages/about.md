@@ -41,6 +41,13 @@ redirect_from:
 
 <div class="news-container">
   <div class="news-item">
+    <div class="news-date">Jul 2026</div>
+    <div class="news-content">
+      One first-authored paper has been accepted to IEEE/ACM ICCAD 2026! See you in San Jose, California, USA 🎉!
+    </div>
+  </div>
+  
+  <div class="news-item">
     <div class="news-date">May 2026</div>
     <div class="news-content">
       One first-authored paper has been accepted to IEEE/ACM ISLPED 2026

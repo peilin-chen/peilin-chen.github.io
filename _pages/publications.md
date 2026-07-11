@@ -7,6 +7,7 @@ author_profile: true
 
 ## Conference Papers
 
+* <span style="color: #E57200;">**Peilin Chen**</span> and Xiaoxuan Yang, "Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision," ACM/IEEE International Conference on Computer-Aided Design (ICCAD), San Jose, California, USA, 2026.
 * <span style="color: #E57200;">**Peilin Chen**</span> and Xiaoxuan Yang, "[SpikON: A Dual-Parallel and Efficient Accelerator for Online Spiking Neural Networks Learning](https://arxiv.org/abs/2606.30926)," ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Evanston, Illinois, USA, 2026. (**Invited for IEEE TVLSI Extension**)
 * <span style="color: #E57200;">**Peilin Chen**</span> and Xiaoxuan Yang, "[SpiKint: Native Full-Integer Spiking Neural Networks Training with an Efficient CIM-based Accelerator](https://dl.acm.org/doi/10.1145/3787109.3815248)," ACM Great Lakes Symposium on VLSI (GLSVLSI), Finger Lakes, NY, USA, 2026.
 * Xiaoxuan Yang, <span style="color: #E57200;">**Peilin Chen**</span>, Tergel Molom-Ochir, and Yiran Chen, "[End-to-End Transformer Acceleration Through Processing-in-Memory Architectures](https://ieeexplore.ieee.org/document/11322529)," IEEE International Conference on Microelectronics (ICM), Cairo, EGYPT, 2025.

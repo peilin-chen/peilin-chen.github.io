@@ -1,20 +1,18 @@
 .masthead-row {
-  display: flex;
-  align-items: center;
+  position: relative;
   width: 100%;
 }
 
 .greedy-nav {
-  flex: 1;
-  min-width: 0;
+  width: 100%;
 }
 
 .theme-switcher {
-  position: relative;
-  flex-shrink: 0;
-  margin-left: 0.75rem;
-  display: flex;
-  align-items: center;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  z-index: 100;
 }
 
 #theme-toggle {

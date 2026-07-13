@@ -2,6 +2,11 @@
   const root = document.documentElement;
   const toggle = document.getElementById("theme-toggle");
   const menu = document.getElementById("theme-menu");
+  const icon = document.getElementById("theme-icon");
+
+  if (!toggle || !menu || !icon) {
+    return;
+  }
 
   function getSystemTheme() {
     return window.matchMedia("(prefers-color-scheme: dark)").matches
@@ -14,12 +19,10 @@
 
     root.classList.toggle("dark-mode", activeTheme === "dark");
 
-    const icon = toggle.querySelector("i");
-
     if (activeTheme === "dark") {
-      icon.className = "fas fa-sun";
+      icon.textContent = "☀";
     } else {
-      icon.className = "fas fa-moon";
+      icon.textContent = "☾";
     }
   }
 

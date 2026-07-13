@@ -16,6 +16,19 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
+
+        <li class="theme-switcher">
+          <button id="theme-toggle" aria-label="Change theme">
+            <i class="fas fa-moon"></i>
+          </button>
+        
+          <div id="theme-menu" class="theme-menu">
+            <button data-theme="light">Light</button>
+            <button data-theme="dark">Dark</button>
+            <button data-theme="auto">Automatic</button>
+          </div>
+        </li>
+        
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>

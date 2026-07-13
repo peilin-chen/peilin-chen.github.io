@@ -1,3 +1,12 @@
+.greedy-nav {
+  display: flex;
+  align-items: center;
+}
+
+.visible-links {
+  flex-shrink: 0;
+}
+
 .theme-switcher {
   position: relative;
   margin-left: auto;
@@ -5,13 +14,26 @@
   align-items: center;
 }
 
-#theme-toggle {
+.greedy-nav #theme-toggle {
+  position: static;
+  height: auto;
+  right: auto;
   background: none;
+  color: #7a8288;
   border: none;
   cursor: pointer;
   font-size: 1rem;
-  color: #7a8288;
   padding: 0.5rem;
+}
+
+.greedy-nav #theme-toggle:hover {
+  color: #494e52;
+}
+
+.greedy-nav .theme-menu button {
+  position: static;
+  height: auto;
+  right: auto;
 }
 
 .theme-menu {
@@ -69,6 +91,14 @@ html.dark-mode .greedy-nav {
 html.dark-mode .greedy-nav a,
 html.dark-mode .masthead__menu-item a {
   color: #f0f0f0;
+}
+
+html.dark-mode .greedy-nav #theme-toggle {
+  color: #f0f0f0;
+}
+
+html.dark-mode .greedy-nav #theme-toggle:hover {
+  color: #9bd5f5;
 }
 
 html.dark-mode h1,

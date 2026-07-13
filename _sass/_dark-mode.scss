@@ -136,3 +136,46 @@ html.dark-mode .theme-menu button {
 html.dark-mode .theme-menu button:hover {
   background: #343746;
 }
+
+html.dark-mode .bio-card,
+html.dark-mode .news-container {
+  background: #2d3140;
+  border-color: #424758;
+  color: #f0f0f0;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.25);
+}
+
+html.dark-mode .bio-card p,
+html.dark-mode .news-content {
+  color: #f0f0f0;
+}
+
+html.dark-mode .news-date {
+  color: #dbe7ff;
+}
+
+html.dark-mode .news-item {
+  border-bottom-color: #424758;
+}
+
+html.dark-mode .news-content {
+  border-left-color: #424758;
+}
+
+html.dark-mode .bio-tags span {
+  color: #dbe7ff;
+  background: #252936;
+  border-color: #424758;
+}
+
+html.dark-mode .news-container {
+  scrollbar-color: #6f7688 #252936;
+}
+
+html.dark-mode .news-container::-webkit-scrollbar-track {
+  background: #252936;
+}
+
+html.dark-mode .news-container::-webkit-scrollbar-thumb {
+  background: #6f7688;
+}

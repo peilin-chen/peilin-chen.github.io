@@ -4,32 +4,43 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+
+        <button class="greedy-nav__toggle">
+          <div class="navicon"></div>
+        </button>
+
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ base_path }}/">{{ site.title }}</a>
+          </li>
+
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            </li>
           {% endfor %}
         </ul>
 
-        <li class="theme-switcher">
+        <div class="theme-switcher">
           <button id="theme-toggle" aria-label="Change theme">
             <i class="fas fa-moon"></i>
           </button>
-        
+
           <div id="theme-menu" class="theme-menu">
             <button data-theme="light">Light</button>
             <button data-theme="dark">Dark</button>
             <button data-theme="auto">Automatic</button>
           </div>
-        </li>
-        
+        </div>
+
         <ul class="hidden-links hidden"></ul>
+
       </nav>
     </div>
   </div>

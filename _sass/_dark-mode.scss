@@ -27,7 +27,7 @@
 
 #theme-icon {
   display: inline-block;
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 1;
 }
 
@@ -73,6 +73,7 @@
    Dark Mode
    ========================= */
 
+html.dark-mode,
 html.dark-mode body {
   background: #252836;
   color: #f0f0f0;

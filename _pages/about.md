@@ -14,7 +14,7 @@ redirect_from:
 
 ## Short Bio
 
-Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the
+Peilin (Leo) Chen is a second-year Ph.D. student in the Electrical and Computer Engineering Department at the
     University of Virginia (UVA) under the supervision of Prof.
     <a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>.
     He received the B.E. degree in Integrated Circuit Design and Integration System

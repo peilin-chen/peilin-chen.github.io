@@ -21,6 +21,8 @@ Peilin (Leo) Chen is a second-year Ph.D. student in the Electrical and Computer 
     from Xidian University (XDU). His research focuses on designing energy-efficient algorithms, 
     architectures, and systems for AI workloads. 
 
+&emsp
+
 <!--
 <div class="bio-card">
   <p>

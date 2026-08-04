@@ -14,12 +14,13 @@ redirect_from:
 
 ## Short Bio
 
-Peilin (Leo) Chen is a second-year Ph.D. student in the Electrical and Computer Engineering Department at the
+Peilin (Leo) Chen is a second-year Ph.D. student in the <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering">Electrical and Computer Engineering Department</a> at the
     University of Virginia (UVA) under the supervision of Prof.
-    <a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>.
-    He received the B.E. degree in Integrated Circuit Design and Integration System
-    from Xidian University (XDU). His research focuses on designing energy-efficient algorithms, 
-    architectures, and systems for AI workloads. 
+    <a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>. His research focuses on designing energy-efficient algorithms, 
+    architectures, and systems for AI workloads, including CNNs, LLMs, and neuromorphic deep learning models.
+
+Prior to UVA, he earned the B.E. degree from Xidian University (XDU) in 2024, majored in Integrated Circuit Design and Integration System.
+During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit pipeline RISC-V processor.
 
 
 <!--

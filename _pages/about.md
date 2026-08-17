@@ -331,7 +331,6 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
     <li>
       IEEE Transactions on Computers (TC), 2026
     </li>
-
     <li>
       IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026
     </li>
@@ -717,7 +716,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 }
 
 #main {
-    margin-top: 1。2em !important;
+    margin-top: 1.2em !important;
 }
 
 </style>

@@ -268,9 +268,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
   </div>
 
   <div class="publication-thumbnail">
-    <div class="paper-placeholder">
-      <span>Titanus</span>
-    </div>
+    <img src="/images/titanus.jpg" alt="Titanus">
   </div>
 
 </div>

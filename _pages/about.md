@@ -334,7 +334,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 .news-row {
     display: grid;
     grid-template-columns: 120px minmax(0, 1fr);
-    column-gap: 10px;
+    column-gap: 6px;
 
     padding: 4px 0;
 

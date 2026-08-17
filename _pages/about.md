@@ -371,7 +371,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 .news-text {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 400;
 
     line-height: 1.42;

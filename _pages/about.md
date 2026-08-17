@@ -3,326 +3,713 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 # Welcome to Peilin's homepage!
 
-<!--&emsp-->
-
 ## Short Bio
 
 Peilin (Leo) Chen is a Ph.D. candidate in the <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering">Electrical and Computer Engineering Department</a> at the
-    University of Virginia (UVA) under the supervision of Prof.
-    <a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>. His research focuses on designing energy-efficient algorithms, 
-    architectures, and systems for AI workloads, including CNNs, LLMs, and neuromorphic deep learning models.
+University of Virginia (UVA) under the supervision of Prof.
+<a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>. His research focuses on designing energy-efficient algorithms,
+architectures, and systems for AI workloads, including CNNs, LLMs, and neuromorphic deep learning models.
 
 Prior to UVA, he earned the B.E. degree from Xidian University (XDU) in 2024, majored in Integrated Circuit Design and Integration System.
 During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit pipeline RISC-V processor.
 
 
-<!--
-<div class="bio-card">
-  <p>
-    Peilin (Leo) Chen is a second-year Ph.D. student in the ECE Department of the
-    University of Virginia (UVA) under the supervision of Prof.
-    <a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>.
-    He received the B.E. degree in Integrated Circuit Design and Integration System
-    from Xidian University (XDU). His research focuses on designing energy-efficient algorithms, 
-    architectures, and systems for AI workloads. 
-  </p>
-
-  <div class="bio-tags">
-    <div class="tag-row">
-      <span>AI Chip</span>
-      <span>Computing-in-Memory</span>
-      <span>Neuromorphic Computing</span>
-    </div>
-    <div class="tag-row">
-      <span>Computer Architecture</span>
-      <span>Machine Learning</span>
-    </div>
-  </div>
-</div>
--->
-
 ## News
 
-<div class="news-container">
-  <div class="news-item">
-    <div class="news-date">Jul 2026</div>
-    <div class="news-content">
-      One first-authored paper has been accepted to IEEE/ACM ICCAD 2026! See you in San Jose, California, USA 🎉!
-    </div>
-  </div>
-  
-  <div class="news-item">
-    <div class="news-date">May 2026</div>
-    <div class="news-content">
-      One first-authored paper has been accepted to IEEE/ACM ISLPED 2026
-      (Oral presentation)! See you in Evanston, Illinois, USA 🎉!
-    </div>
-  </div>
+<div class="simple-news">
+<ul>
 
-  <div class="news-item">
-    <div class="news-date">Apr 2026</div>
-    <div class="news-content">
-      One first-authored paper has been accepted to ACM GLSVLSI 2026!
-      See you in Finger Lakes, NY, USA 🎉!
-    </div>
-  </div>
+  <li>
+    <strong>Jul 2026:</strong> &nbsp; » &nbsp;
+    One first-authored paper has been accepted to IEEE/ACM ICCAD 2026! See you in San Jose, California, USA 🎉!
+  </li>
 
-  <div class="news-item">
-    <div class="news-date">Jul 2025</div>
-    <div class="news-content">
-      Paper “Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration”
-      wins <strong>Best Paper Award of GLSVLSI 2025</strong> 🎉!
-    </div>
-  </div>
+  <li>
+    <strong>May 2026:</strong> &nbsp; » &nbsp;
+    One first-authored paper has been accepted to IEEE/ACM ISLPED 2026
+    (Oral presentation)! See you in Evanston, Illinois, USA 🎉!
+  </li>
 
-  <div class="news-item">
-    <div class="news-date">Apr 2025</div>
-    <div class="news-content">
-      One first-authored paper has been accepted to ACM GLSVLSI 2025!
-      See you in New Orleans, USA 🎉!
-    </div>
-  </div>
+  <li>
+    <strong>Apr 2026:</strong> &nbsp; » &nbsp;
+    One first-authored paper has been accepted to ACM GLSVLSI 2026!
+    See you in Finger Lakes, NY, USA 🎉!
+  </li>
 
-  <div class="news-item">
-    <div class="news-date">Apr 2025</div>
-    <div class="news-content">
-      Accepted as a DAC Young Fellow at the 62nd Design Automation Conference!
-      See you in San Francisco, USA 🎉!
-    </div>
-  </div>
+  <li>
+    <strong>Jul 2025:</strong> &nbsp; » &nbsp;
+    Paper “Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration”
+    wins <strong>Best Paper Award of GLSVLSI 2025</strong> 🎉!
+  </li>
 
-  <div class="news-item">
-    <div class="news-date">Dec 2024</div>
-    <div class="news-content">
-      One first-authored paper has been accepted to IEEE AICAS 2025!
-      See you in Bordeaux, France 🎉!
-    </div>
-  </div>
+  <li>
+    <strong>Apr 2025:</strong> &nbsp; » &nbsp;
+    One first-authored paper has been accepted to ACM GLSVLSI 2025!
+    See you in New Orleans, USA 🎉!
+  </li>
 
-  <div class="news-item">
-    <div class="news-date">Jun 2024</div>
-    <div class="news-content">
-      My dissertation, <strong>Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture</strong>,
-      has been selected as the excellent graduation project 🎉!
-    </div>
-  </div>
+  <li>
+    <strong>Apr 2025:</strong> &nbsp; » &nbsp;
+    Accepted as a DAC Young Fellow at the 62nd Design Automation Conference!
+    See you in San Francisco, USA 🎉!
+  </li>
 
-  <div class="news-item">
-    <div class="news-date">Feb 2024</div>
-    <div class="news-content">
-      I will be a Ph.D. student at the University of Virginia in Fall 2024
-      and have been awarded the UVA Provost's Fellowship 🎉!
-    </div>
-  </div>
+  <li>
+    <strong>Dec 2024:</strong> &nbsp; » &nbsp;
+    One first-authored paper has been accepted to IEEE AICAS 2025!
+    See you in Bordeaux, France 🎉!
+  </li>
+
+  <li>
+    <strong>Jun 2024:</strong> &nbsp; » &nbsp;
+    My dissertation, <strong>Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture</strong>,
+    has been selected as the excellent graduation project 🎉!
+  </li>
+
+  <li>
+    <strong>Feb 2024:</strong> &nbsp; » &nbsp;
+    I will be a Ph.D. student at the University of Virginia in Fall 2024
+    and have been awarded the UVA Provost's Fellowship 🎉!
+  </li>
+
+</ul>
 </div>
+
+
+## Selected Publications
+
+<p class="publication-note">
+  Please see the full publication list on my
+  <a href="https://scholar.google.com/citations?user=REMjlmUAAAAJ&hl=en">
+    Google Scholar
+  </a>.
+</p>
+
+
+<!-- =========================================================
+     Lonic
+     ========================================================= -->
+
+<div class="publication-item">
+
+  <div class="publication-content">
+
+    <div class="paper-title">
+      <a href="https://arxiv.org/abs/2608.12500">
+        Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision
+      </a>
+    </div>
+
+    <div class="paper-authors">
+      <strong>Peilin Chen</strong> and Xiaoxuan Yang
+    </div>
+
+    <div class="paper-venue">
+      ACM/IEEE International Conference on Computer-Aided Design (ICCAD),
+      San Jose, California, USA, 2026.
+    </div>
+
+    <div class="paper-award">
+      <i class="fas fa-award"></i>
+      Rank First in the Track
+    </div>
+
+    <div class="paper-links">
+      [<a href="https://arxiv.org/abs/2608.12500">paper</a>]
+    </div>
+
+  </div>
+
+  <div class="publication-thumbnail">
+    <div class="paper-placeholder">
+      <span>Lonic</span>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- =========================================================
+     SpikON
+     ========================================================= -->
+
+<div class="publication-item">
+
+  <div class="publication-content">
+
+    <div class="paper-title">
+      <a href="https://arxiv.org/abs/2606.30926">
+        SpikON: A Dual-Parallel and Efficient Accelerator for Online Spiking Neural Networks Learning
+      </a>
+    </div>
+
+    <div class="paper-authors">
+      <strong>Peilin Chen</strong> and Xiaoxuan Yang
+    </div>
+
+    <div class="paper-venue">
+      ACM/IEEE International Symposium on Low Power Electronics and Design
+      (ISLPED), Evanston, Illinois, USA, 2026.
+    </div>
+
+    <div class="paper-award">
+      <i class="fas fa-award"></i>
+      Invited for IEEE TVLSI Extension
+    </div>
+
+    <div class="paper-links">
+      [<a href="https://arxiv.org/abs/2606.30926">paper</a>]
+    </div>
+
+  </div>
+
+  <div class="publication-thumbnail">
+    <div class="paper-placeholder">
+      <span>SpikON</span>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- =========================================================
+     SpiKint
+     ========================================================= -->
+
+<div class="publication-item">
+
+  <div class="publication-content">
+
+    <div class="paper-title">
+      <a href="https://dl.acm.org/doi/10.1145/3787109.3815248">
+        SpiKint: Native Full-Integer Spiking Neural Networks Training with an Efficient CIM-based Accelerator
+      </a>
+    </div>
+
+    <div class="paper-authors">
+      <strong>Peilin Chen</strong> and Xiaoxuan Yang
+    </div>
+
+    <div class="paper-venue">
+      ACM Great Lakes Symposium on VLSI (GLSVLSI),
+      Finger Lakes, NY, USA, 2026.
+    </div>
+
+    <div class="paper-links">
+      [<a href="https://dl.acm.org/doi/10.1145/3787109.3815248">paper</a>]
+    </div>
+
+  </div>
+
+  <div class="publication-thumbnail">
+    <div class="paper-placeholder">
+      <span>SpiKint</span>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- =========================================================
+     End-to-End Transformer Acceleration
+     ========================================================= -->
+
+<div class="publication-item">
+
+  <div class="publication-content">
+
+    <div class="paper-title">
+      <a href="https://ieeexplore.ieee.org/document/11322529">
+        End-to-End Transformer Acceleration Through Processing-in-Memory Architectures
+      </a>
+    </div>
+
+    <div class="paper-authors">
+      Xiaoxuan Yang, <strong>Peilin Chen</strong>, Tergel Molom-Ochir, and Yiran Chen
+    </div>
+
+    <div class="paper-venue">
+      IEEE International Conference on Microelectronics (ICM),
+      Cairo, Egypt, 2025.
+    </div>
+
+    <div class="paper-links">
+      [<a href="https://ieeexplore.ieee.org/document/11322529">paper</a>]
+    </div>
+
+  </div>
+
+  <div class="publication-thumbnail">
+    <div class="paper-placeholder">
+      <span>Transformer<br>PIM</span>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- =========================================================
+     Titanus
+     ========================================================= -->
+
+<div class="publication-item">
+
+  <div class="publication-content">
+
+    <div class="paper-title">
+      <a href="https://dl.acm.org/doi/full/10.1145/3716368.3735145">
+        Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration
+      </a>
+    </div>
+
+    <div class="paper-authors">
+      <strong>Peilin Chen</strong> and Xiaoxuan Yang
+    </div>
+
+    <div class="paper-venue">
+      ACM Great Lakes Symposium on VLSI (GLSVLSI),
+      New Orleans, USA, 2025.
+    </div>
+
+    <div class="paper-award">
+      <i class="fas fa-award"></i>
+      Rank First in the Track · Best Paper Award
+    </div>
+
+    <div class="paper-links">
+      [<a href="https://dl.acm.org/doi/full/10.1145/3716368.3735145">paper</a>]
+    </div>
+
+  </div>
+
+  <div class="publication-thumbnail">
+    <div class="paper-placeholder">
+      <span>Titanus</span>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- =========================================================
+     Compact PIM
+     ========================================================= -->
+
+<div class="publication-item">
+
+  <div class="publication-content">
+
+    <div class="paper-title">
+      <a href="https://ieeexplore.ieee.org/abstract/document/11173147">
+        Optimizing and Exploring System Performance in Compact Processing-in-Memory-Based Chips
+      </a>
+    </div>
+
+    <div class="paper-authors">
+      <strong>Peilin Chen</strong> and Xiaoxuan Yang
+    </div>
+
+    <div class="paper-venue">
+      IEEE International Conference on Artificial Intelligence Circuits and Systems
+      (AICAS), Bordeaux, France, 2025.
+    </div>
+
+    <div class="paper-links">
+      [<a href="https://ieeexplore.ieee.org/abstract/document/11173147">paper</a>]
+    </div>
+
+  </div>
+
+  <div class="publication-thumbnail">
+    <div class="paper-placeholder">
+      <span>Compact<br>PIM</span>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- =========================================================
+     EEGNet
+     ========================================================= -->
+
+<div class="publication-item">
+
+  <div class="publication-content">
+
+    <div class="paper-title">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0026269224000466">
+        An optimized EEGNet processor for low-power and real-time EEG classification in wearable brain-computer interfaces
+      </a>
+    </div>
+
+    <div class="paper-authors">
+      Jiacheng Cao, Wei Xiong, Jie Lu, <strong>Peilin Chen</strong>,
+      Jian Wang, Jinmei Lai, and Miaoqing Huang
+    </div>
+
+    <div class="paper-venue">
+      Microelectronics Journal, 2024.
+    </div>
+
+    <div class="paper-links">
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0026269224000466">paper</a>]
+    </div>
+
+  </div>
+
+  <div class="publication-thumbnail">
+    <div class="paper-placeholder">
+      <span>EEGNet</span>
+    </div>
+  </div>
+
+</div>
+
 
 <style>
 
-.bio-card {
-    max-width: 100%;
-    padding: 18px 22px;
-    margin-top: 10px;
-    margin-bottom: 46px;
+/* =========================================================
+   General links
+   ========================================================= */
 
-    background: #fafafa;
-    border-radius: 8px;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+.page__content a {
+    color: #E57200;
+    text-decoration: none;
 }
 
-.bio-card p {
-    margin: 0;
+.page__content a:hover {
+    color: #B84C00;
+    text-decoration: underline;
+}
+
+
+/* =========================================================
+   News
+   Ruokai Yin-style simple list
+   ========================================================= */
+
+.simple-news {
+    margin-top: 4px;
+    margin-bottom: 32px;
+}
+
+.simple-news ul {
+    margin-top: 8px;
+    margin-bottom: 0;
+    padding-left: 23px;
+}
+
+.simple-news li {
+    margin-bottom: 7px;
+    line-height: 1.55;
     color: #2f3437;
-    line-height: 1.65;
-    font-size: 1em;
 }
 
-.bio-tags {
-    margin-top: 16px;
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    align-items: center;
-}
-
-.tag-row {
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    flex-wrap: wrap;
-}
-
-.bio-tags span {
-    display: inline-block;
-    padding: 4px 10px;
-    font-size: 0.82em;
+.simple-news li strong {
     font-weight: 600;
-    color: #232D4B;
-    background: #f6f7f9;
-    border: 1px solid #e3e6ea;
-    border-radius: 999px;
-}
-  
-.news-container {
-    width: 100%;
-    max-height: 300px;
-    overflow-y: auto;
-    overflow-x: hidden;
-    padding: 0 12px;
-    box-sizing: border-box;
-    border: 1px solid #e5e7eb;
-    border-radius: 10px;
-    background: #fff;
-    scrollbar-width: thin;
-    scrollbar-color: #888 #f1f1f1;
 }
 
-.news-item {
+
+/* =========================================================
+   Publication note
+   ========================================================= */
+
+.publication-note {
+    margin-top: -7px;
+    margin-bottom: 12px;
+    font-size: 0.9em;
+    color: #666;
+}
+
+
+/* =========================================================
+   Publications
+
+   Based on Ruokai Yin's current layout:
+   2/3 text on the left
+   1/3 thumbnail on the right
+   ========================================================= */
+
+.publication-item {
     display: grid;
-    grid-template-columns: 90px 1fr;
-    column-gap: 18px;
-    padding: 14px 0;
-    border-bottom: 1px solid #e5e7eb;
-    align-items: stretch;
+
+    grid-template-columns:
+        minmax(0, 2fr)
+        280px;
+
+    column-gap: 30px;
+
+    align-items: center;
+
+    padding: 19px 0;
+
+    border-bottom: 1px solid #eeeeee;
 }
 
-.news-item:last-child {
+.publication-item:last-of-type {
     border-bottom: none;
 }
 
-.news-date {
+
+/* =========================================================
+   Left side
+   ========================================================= */
+
+.publication-content {
+    min-width: 0;
+}
+
+
+/* Paper title */
+
+.paper-title {
+    font-family:
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    font-size: 16px;
+
     font-weight: 700;
+
+    line-height: 1.4;
+
+    margin-bottom: 5px;
+}
+
+.paper-title a {
     color: #232D4B;
-    white-space: nowrap;
-    padding-left: 0;
+    text-decoration: none;
+}
+
+.paper-title a:hover {
+    color: #E57200;
+    text-decoration: underline;
+}
+
+
+/* Authors */
+
+.paper-authors {
+    font-family:
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    font-size: 14px;
+
+    line-height: 1.5;
+
+    color: #2f3437;
+}
+
+
+/* Venue */
+
+.paper-venue {
+    font-family:
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    font-size: 14px;
+
+    line-height: 1.5;
+
+    color: #2f3437;
+
+    margin-top: 1px;
+}
+
+
+/* Award */
+
+.paper-award {
+    margin-top: 4px;
+
+    font-family:
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+    color: #E57200;
+}
+
+.paper-award i {
+    margin-right: 3px;
+}
+
+
+/* Paper links */
+
+.paper-links {
+    margin-top: 5px;
+
+    font-family:
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    font-size: 14px;
+}
+
+.paper-links a {
+    color: #E57200;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.paper-links a:hover {
+    color: #B84C00;
+    text-decoration: underline;
+}
+
+
+/* =========================================================
+   Right-side thumbnail
+   ========================================================= */
+
+.publication-thumbnail {
+    width: 280px;
+
+    height: 150px;
 
     display: flex;
+
     align-items: center;
+
     justify-content: center;
 }
 
-.news-content {
-    border-left: 2px solid #e5e7eb;
-    padding-left: 18px;
-    color: #2f3437;
-    line-height: 1.55;
-}
 
-.news-content a {
-    color: #E57200;
-    text-decoration: none;
-}
+/*
+  For now these are placeholders because paper thumbnails
+  have not been uploaded yet.
+*/
 
-.news-content a:hover {
-    color: #B84C00;
-    text-decoration: underline;
-}
+.paper-placeholder {
+    width: 280px;
 
-.news-container::-webkit-scrollbar {
-    width: 8px;
-}
+    height: 150px;
 
-.news-container::-webkit-scrollbar-thumb {
-    background-color: #888;
-    border-radius: 5px;
-}
+    display: flex;
 
-.news-container::-webkit-scrollbar-thumb:hover {
-    background-color: #555;
-}
+    align-items: center;
 
-@media (max-width: 600px) {
-    .news-item {
-        grid-template-columns: 1fr;
-        row-gap: 6px;
-    }
+    justify-content: center;
 
-    .news-content {
-        border-left: none;
-        padding-left: 4px;
-    }
-}
-</style>
+    text-align: center;
 
-<!--
-<br/>
-<div id="map-container" style="display: flex; justify-content: center; align-items: center;">
-    <div id="map-content" style="width: 450px;">
-        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=tt&d=W5zcQt09eiXCT7MSUXeRVUHqJrfT3K7tB0pDHkS34MQ'></script>
-    </div>
-</div>
--->
-<!--
-<div class="news-container">
-  <p><strong>[2026.05]</strong> One first-authored paper has been accepted to IEEE/ACM ISLPED 2026 (Oral presentation)! See you in Evanston, Illinois, USA 🎉!</p>
-  <p><strong>[2026.04]</strong> One first-authored paper has been accepted to ACM GLSVLSI 2026! See you in Finger Lakes, NY, USA 🎉!</p>
-  <p><strong>[2025.07]</strong> Paper "Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration" wins <strong>Best Paper Award of GLSVLSI 2025</strong> 🎉!</p>
-  <p><strong>[2025.04]</strong> One first-authored paper has been accepted to ACM GLSVLSI 2025! See you in New Orleans, USA 🎉!</p>
-  <p><strong>[2025.04]</strong> Accepted as a DAC Young Fellow at the 62nd Design Automation Conference! See you in San Francisco, USA 🎉!</p>
-  <p><strong>[2024.12]</strong> One first-authored paper has been accepted to IEEE AICAS 2025! See you in Bordeaux, France 🎉!</p>
-  <p><strong>[2024.06]</strong> My dissertation, <strong>Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture</strong>, has been selected as the excellent graduation project 🎉!</p>
-  <p><strong>[2024.02]</strong> I will be a Ph.D. student at the University of Virginia in Fall 2024 and have been awarded the UVA Provost's Fellowship 🎉!</p>
-</div>
-
-.bio-card a {
-    color: #E57200;
-    text-decoration: none;
-    font-weight: 500;
-}
-
-.bio-card a:hover {
-    color: #B84C00;
-    text-decoration: underline;
-}
-
-<br/><br/>
-<div id="map-container" style="display: flex; justify-content: center; align-items: center;">
-    <div id="map-content" style="width: 450px;">
-        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=W5zcQt09eiXCT7MSUXeRVUHqJrfT3K7tB0pDHkS34MQ&cl=ffffff&w=a"></script>
-    </div>
-</div>
-<!--
-<style>
-.news-container {
-    width: 100%;
-    height: 130px;  
-    overflow-y: scroll;
-    overflow-x: hidden;
-    padding-right: 10px;  
     box-sizing: border-box;
-    scrollbar-width: thin;
-    scrollbar-color: #888 #f1f1f1;
+
+    border: 1px solid #e2e5e9;
+
+    background:
+        linear-gradient(
+            135deg,
+            #f8f9fa 0%,
+            #f1f3f5 100%
+        );
+
+    color: #667085;
+
+    font-family:
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    font-size: 17px;
+
+    font-weight: 600;
+
+    line-height: 1.25;
 }
 
-.news-container::-webkit-scrollbar {
-    width: 8px;
+
+/* =========================================================
+   When real paper thumbnails are added
+
+   Example:
+
+   <div class="publication-thumbnail">
+     <img src="/images/paper-thumbnails/lonic.png"
+          alt="Lonic">
+   </div>
+   ========================================================= */
+
+.publication-thumbnail img {
+    width: 280px;
+
+    height: 150px;
+
+    object-fit: contain;
+
+    display: block;
 }
 
-.news-container::-webkit-scrollbar-thumb {
-    background-color: #888;
-    border-radius: 5px;
-}
 
-.news-container::-webkit-scrollbar-thumb:hover {
-    background-color: #555;
-}
+/* =========================================================
+   Mobile
+   ========================================================= */
 
-.news-container p {
-    margin: 2px 0;  
-    padding: 0;
+@media (max-width: 700px) {
+
+    .publication-item {
+        grid-template-columns: 1fr;
+
+        row-gap: 14px;
+
+        padding: 18px 0;
+    }
+
+    .publication-thumbnail {
+        width: 100%;
+
+        max-width: 280px;
+
+        height: 150px;
+
+        justify-content: flex-start;
+    }
+
+    .paper-placeholder {
+        width: 100%;
+
+        max-width: 280px;
+
+        height: 150px;
+    }
+
+    .publication-thumbnail img {
+        width: 100%;
+
+        max-width: 280px;
+
+        height: 150px;
+    }
+
+    .simple-news ul {
+        padding-left: 20px;
+    }
+
 }
 
 </style>
--->
-
-
-
-
-
-

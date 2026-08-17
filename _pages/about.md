@@ -701,3 +701,16 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 }
 
 </style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('a[href^="http"]').forEach(function (link) {
+    const url = new URL(link.href);
+
+    if (url.hostname !== window.location.hostname) {
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+    }
+  });
+});
+</script>

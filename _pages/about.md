@@ -334,7 +334,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 .news-row {
     display: grid;
     grid-template-columns: 120px minmax(0, 1fr);
-    column-gap: 22px;
+    column-gap: 10px;
 
     padding: 4px 0;
 
@@ -344,7 +344,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 .news-date {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-    font-size: 15.5px;
+    font-size: 17px;
     font-weight: 600;
 
     color: #232D4B;
@@ -361,7 +361,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 .news-text {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-    font-size: 15.5px;
+    font-size: 17px;
     font-weight: 400;
 
     line-height: 1.42;

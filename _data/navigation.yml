@@ -24,8 +24,8 @@ main:
   #- title: "Symposium"
   #  url: /symposium/
 
-  - title: "Tutorials"
-    url: /tutorials/
+  #- title: "Tutorials"
+  #  url: /tutorials/
 
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/

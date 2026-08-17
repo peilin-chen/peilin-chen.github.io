@@ -314,9 +314,6 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
 <style>
 
-/* =========================================================
-   General links
-   ========================================================= */
 
 .page__content a {
     color: #E57200;
@@ -329,11 +326,6 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 }
 
 
-/* =========================================================
-   News
-   Ruokai Yin-style simple list
-   ========================================================= */
-
 .news-list {
     margin-top: 8px;
     margin-bottom: 32px;
@@ -341,31 +333,35 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
 .news-row {
     display: grid;
-    grid-template-columns: 88px minmax(0, 1fr);
-    column-gap: 18px;
+    grid-template-columns: 120px minmax(0, 1fr);
+    column-gap: 22px;
 
-    padding: 8px 0;
+    padding: 9px 0;
 
-    align-items: start;
+    align-items: stretch;
 }
 
 .news-date {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-    font-size: 13.5px;
+    font-size: 15.5px;
     font-weight: 600;
-
-    line-height: 1.55;
 
     color: #232D4B;
 
     white-space: nowrap;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
 }
 
 .news-text {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-    font-size: 15px;
+    font-size: 15.5px;
     font-weight: 400;
 
     line-height: 1.55;
@@ -381,14 +377,14 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
     .news-row {
         grid-template-columns: 1fr;
-        row-gap: 2px;
+        row-gap: 3px;
 
         padding: 8px 0;
     }
 
     .news-date {
-        font-size: 13px;
-        color: #667085;
+        justify-content: flex-start;
+        font-size: 14px;
     }
 
 }

@@ -699,7 +699,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 }
 
 #main {
-    margin-top: 0.7em !important;
+    margin-top: 1em !important;
 }
 
 </style>

@@ -321,6 +321,24 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
 </div>
 
+  <h2 id="services">Services</h2>
+
+<div class="services-section">
+
+  <div class="service-title">Journal Reviewer</div>
+
+  <ul>
+    <li>
+      IEEE Transactions on Computers (TC), 2026
+    </li>
+
+    <li>
+      IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026
+    </li>
+  </ul>
+
+</div>
+
 
 <style>
 
@@ -701,23 +719,5 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 #main {
     margin-top: 1。2em !important;
 }
-
-  <h2 id="services">Services</h2>
-
-<div class="services-section">
-
-  <div class="service-title">Journal Reviewer</div>
-
-  <ul>
-    <li>
-      IEEE Transactions on Computers (TC), 2026
-    </li>
-
-    <li>
-      IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026
-    </li>
-  </ul>
-
-</div>
 
 </style>

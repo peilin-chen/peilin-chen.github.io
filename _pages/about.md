@@ -310,6 +310,9 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
       <span>Compact<br>PIM</span>
     </div>
   </div>
+  <div class="publication-thumbnail">
+    <img src="/images/compact_pim.jpg" alt="Compact_PIM">
+  </div>
 
 </div>
 

@@ -23,63 +23,80 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
 ## News
 
-<div class="simple-news">
-<ul>
+<div class="news-list">
 
-  <li>
-    <strong>Jul 2026:</strong> &nbsp; » &nbsp;
-    One first-authored paper has been accepted to IEEE/ACM ICCAD 2026! See you in San Jose, California, USA 🎉!
-  </li>
+  <div class="news-row">
+    <div class="news-date">Jul 2026</div>
+    <div class="news-text">
+      One first-authored paper has been accepted to IEEE/ACM ICCAD 2026! See you in San Jose, California, USA 🎉!
+    </div>
+  </div>
 
-  <li>
-    <strong>May 2026:</strong> &nbsp; » &nbsp;
-    One first-authored paper has been accepted to IEEE/ACM ISLPED 2026
-    (Oral presentation)! See you in Evanston, Illinois, USA 🎉!
-  </li>
+  <div class="news-row">
+    <div class="news-date">May 2026</div>
+    <div class="news-text">
+      One first-authored paper has been accepted to IEEE/ACM ISLPED 2026
+      (Oral presentation)! See you in Evanston, Illinois, USA 🎉!
+    </div>
+  </div>
 
-  <li>
-    <strong>Apr 2026:</strong> &nbsp; » &nbsp;
-    One first-authored paper has been accepted to ACM GLSVLSI 2026!
-    See you in Finger Lakes, NY, USA 🎉!
-  </li>
+  <div class="news-row">
+    <div class="news-date">Apr 2026</div>
+    <div class="news-text">
+      One first-authored paper has been accepted to ACM GLSVLSI 2026!
+      See you in Finger Lakes, NY, USA 🎉!
+    </div>
+  </div>
 
-  <li>
-    <strong>Jul 2025:</strong> &nbsp; » &nbsp;
-    Paper “Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration”
-    wins <strong>Best Paper Award of GLSVLSI 2025</strong> 🎉!
-  </li>
+  <div class="news-row">
+    <div class="news-date">Jul 2025</div>
+    <div class="news-text">
+      Paper “Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration”
+      wins <strong>Best Paper Award of GLSVLSI 2025</strong> 🎉!
+    </div>
+  </div>
 
-  <li>
-    <strong>Apr 2025:</strong> &nbsp; » &nbsp;
-    One first-authored paper has been accepted to ACM GLSVLSI 2025!
-    See you in New Orleans, USA 🎉!
-  </li>
+  <div class="news-row">
+    <div class="news-date">Apr 2025</div>
+    <div class="news-text">
+      One first-authored paper has been accepted to ACM GLSVLSI 2025!
+      See you in New Orleans, USA 🎉!
+    </div>
+  </div>
 
-  <li>
-    <strong>Apr 2025:</strong> &nbsp; » &nbsp;
-    Accepted as a DAC Young Fellow at the 62nd Design Automation Conference!
-    See you in San Francisco, USA 🎉!
-  </li>
+  <div class="news-row">
+    <div class="news-date">Apr 2025</div>
+    <div class="news-text">
+      Accepted as a DAC Young Fellow at the 62nd Design Automation Conference!
+      See you in San Francisco, USA 🎉!
+    </div>
+  </div>
 
-  <li>
-    <strong>Dec 2024:</strong> &nbsp; » &nbsp;
-    One first-authored paper has been accepted to IEEE AICAS 2025!
-    See you in Bordeaux, France 🎉!
-  </li>
+  <div class="news-row">
+    <div class="news-date">Dec 2024</div>
+    <div class="news-text">
+      One first-authored paper has been accepted to IEEE AICAS 2025!
+      See you in Bordeaux, France 🎉!
+    </div>
+  </div>
 
-  <li>
-    <strong>Jun 2024:</strong> &nbsp; » &nbsp;
-    My dissertation, <strong>Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture</strong>,
-    has been selected as the excellent graduation project 🎉!
-  </li>
+  <div class="news-row">
+    <div class="news-date">Jun 2024</div>
+    <div class="news-text">
+      My dissertation,
+      <strong>Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture</strong>,
+      has been selected as the excellent graduation project 🎉!
+    </div>
+  </div>
 
-  <li>
-    <strong>Feb 2024:</strong> &nbsp; » &nbsp;
-    I will be a Ph.D. student at the University of Virginia in Fall 2024
-    and have been awarded the UVA Provost's Fellowship 🎉!
-  </li>
+  <div class="news-row">
+    <div class="news-date">Feb 2024</div>
+    <div class="news-text">
+      I will be a Ph.D. student at the University of Virginia in Fall 2024
+      and have been awarded the UVA Provost's Fellowship 🎉!
+    </div>
+  </div>
 
-</ul>
 </div>
 
 
@@ -317,30 +334,63 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
    Ruokai Yin-style simple list
    ========================================================= */
 
-.simple-news {
-    margin-top: 4px;
-    margin-bottom: 28px;
+.news-list {
+    margin-top: 8px;
+    margin-bottom: 32px;
 }
 
-.simple-news ul {
-    margin: 6px 0 0 0;
-    padding-left: 22px;
-}
+.news-row {
+    display: grid;
+    grid-template-columns: 88px minmax(0, 1fr);
+    column-gap: 18px;
 
-.simple-news li {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 15px;
-    line-height: 1.55;
+    padding: 8px 0;
 
-    margin-bottom: 5px;
-    padding-left: 1px;
-
-    color: #333;
+    align-items: start;
 }
 
 .news-date {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    font-size: 13.5px;
     font-weight: 600;
+
+    line-height: 1.55;
+
+    color: #232D4B;
+
+    white-space: nowrap;
+}
+
+.news-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    font-size: 15px;
+    font-weight: 400;
+
+    line-height: 1.55;
+
     color: #333;
+}
+
+.news-text strong {
+    font-weight: 600;
+}
+
+@media (max-width: 600px) {
+
+    .news-row {
+        grid-template-columns: 1fr;
+        row-gap: 2px;
+
+        padding: 8px 0;
+    }
+
+    .news-date {
+        font-size: 13px;
+        color: #667085;
+    }
+
 }
 
 

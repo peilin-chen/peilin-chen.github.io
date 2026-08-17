@@ -52,7 +52,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
     <div class="news-date">Jul 2025</div>
     <div class="news-text">
       Paper “Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration”
-      wins <strong>Best Paper Award of GLSVLSI 2025</strong> 🎉!
+      wins Best Paper Award of GLSVLSI 2025 🎉!
     </div>
   </div>
 
@@ -84,7 +84,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
     <div class="news-date">Jun 2024</div>
     <div class="news-text">
       My dissertation,
-      <strong>Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture</strong>,
+      Design, logic synthesis and physical implementation of pipeline processor based on RISC-V architecture,
       has been selected as the excellent graduation project 🎉!
     </div>
   </div>

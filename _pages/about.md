@@ -137,6 +137,8 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
     <div class="paper-links">
       [<a href="https://arxiv.org/abs/2608.12500">paper</a>]
+      &nbsp;
+      [<a href="https://github.com/peilin-chen/Lonic">code</a>]
     </div>
 
   </div>
@@ -180,6 +182,8 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
     <div class="paper-links">
       [<a href="https://arxiv.org/abs/2606.30926">paper</a>]
+      &nbsp;
+      [<a href="https://github.com/peilin-chen/SpikON">code</a>]
     </div>
 
   </div>
@@ -218,6 +222,8 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
     <div class="paper-links">
       [<a href="https://dl.acm.org/doi/10.1145/3787109.3815248">paper</a>]
+      &nbsp;
+      [<a href="https://github.com/peilin-chen/SpiKint">code</a>]
     </div>
 
   </div>
@@ -261,6 +267,8 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
     <div class="paper-links">
       [<a href="https://dl.acm.org/doi/full/10.1145/3716368.3735145">paper</a>]
+      &nbsp;
+      [<a href="https://github.com/peilin-chen/Titanus-for-LLM-acceleration">code</a>]
     </div>
 
   </div>
@@ -299,6 +307,8 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
     <div class="paper-links">
       [<a href="https://ieeexplore.ieee.org/abstract/document/11173147">paper</a>]
+      &nbsp;
+      [<a href="https://github.com/peilin-chen/Compact-PIM-based-Design">code</a>]
     </div>
 
   </div>

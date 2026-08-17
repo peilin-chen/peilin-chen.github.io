@@ -12,14 +12,14 @@ main:
 #  - title: "Gallery"
 #    url: /gallery/
 
-  - title: "Publications"
-    url: /publications/
+ # - title: "Publications"
+  #  url: /publications/
 
   #- title: "Reading List"
   #  url: /reading list/
 
-  - title: "Services"
-    url: /services/
+ # - title: "Services"
+ #   url: /services/
 
   #- title: "Symposium"
   #  url: /symposium/

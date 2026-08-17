@@ -336,7 +336,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
     grid-template-columns: 120px minmax(0, 1fr);
     column-gap: 22px;
 
-    padding: 9px 0;
+    padding: 4px 0;
 
     align-items: stretch;
 }
@@ -364,7 +364,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
     font-size: 15.5px;
     font-weight: 400;
 
-    line-height: 1.55;
+    line-height: 1.42;
 
     color: #333;
 }

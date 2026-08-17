@@ -354,7 +354,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 .news-date {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 600;
 
     color: #232D4B;

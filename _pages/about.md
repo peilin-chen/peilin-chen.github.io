@@ -187,9 +187,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
   </div>
 
   <div class="publication-thumbnail">
-    <div class="paper-placeholder">
-      <span>SpikON</span>
-    </div>
+    <img src="/images/spikon.jpg" alt="SpikON">
   </div>
 
 </div>

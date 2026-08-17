@@ -225,9 +225,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
   </div>
 
   <div class="publication-thumbnail">
-    <div class="paper-placeholder">
-      <span>SpiKint</span>
-    </div>
+    <img src="/images/spikint.jpg" alt="SpiKint">
   </div>
 
 </div>

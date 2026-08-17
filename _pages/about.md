@@ -556,17 +556,16 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
    Right-side thumbnail
    ========================================================= */
 
-.publication-thumbnail {
-    width: 280px;
 
+  .publication-thumbnail {
+    width: 280px;
     height: 150px;
 
     display: flex;
-
     align-items: center;
-
     justify-content: center;
 }
+
 
 
 /*
@@ -614,24 +613,15 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 }
 
 
-/* =========================================================
-   When real paper thumbnails are added
-
-   Example:
-
-   <div class="publication-thumbnail">
-     <img src="/images/paper-thumbnails/lonic.png"
-          alt="Lonic">
-   </div>
-   ========================================================= */
 
 .publication-thumbnail img {
-    width: 280px;
+    max-width: 280px;
+    max-height: 150px;
 
-    height: 150px;
+    width: auto;
+    height: auto;
 
     object-fit: contain;
-
     display: block;
 }
 

@@ -86,10 +86,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 ## Selected Publications
 
 <p class="publication-note">
-  Please see the full publication list on my
-  <a href="https://scholar.google.com/citations?user=REMjlmUAAAAJ&hl=en">
-    Google Scholar
-  </a>.
+  Please see the full publication list on my Google Scholar.
 </p>
 
 
@@ -218,44 +215,6 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
 
 <!-- =========================================================
-     End-to-End Transformer Acceleration
-     ========================================================= -->
-
-<div class="publication-item">
-
-  <div class="publication-content">
-
-    <div class="paper-title">
-      <a href="https://ieeexplore.ieee.org/document/11322529">
-        End-to-End Transformer Acceleration Through Processing-in-Memory Architectures
-      </a>
-    </div>
-
-    <div class="paper-authors">
-      Xiaoxuan Yang, <strong>Peilin Chen</strong>, Tergel Molom-Ochir, and Yiran Chen
-    </div>
-
-    <div class="paper-venue">
-      IEEE International Conference on Microelectronics (ICM),
-      Cairo, Egypt, 2025.
-    </div>
-
-    <div class="paper-links">
-      [<a href="https://ieeexplore.ieee.org/document/11322529">paper</a>]
-    </div>
-
-  </div>
-
-  <div class="publication-thumbnail">
-    <div class="paper-placeholder">
-      <span>Transformer<br>PIM</span>
-    </div>
-  </div>
-
-</div>
-
-
-<!-- =========================================================
      Titanus
      ========================================================= -->
 
@@ -336,44 +295,6 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 </div>
 
 
-<!-- =========================================================
-     EEGNet
-     ========================================================= -->
-
-<div class="publication-item">
-
-  <div class="publication-content">
-
-    <div class="paper-title">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0026269224000466">
-        An optimized EEGNet processor for low-power and real-time EEG classification in wearable brain-computer interfaces
-      </a>
-    </div>
-
-    <div class="paper-authors">
-      Jiacheng Cao, Wei Xiong, Jie Lu, <strong>Peilin Chen</strong>,
-      Jian Wang, Jinmei Lai, and Miaoqing Huang
-    </div>
-
-    <div class="paper-venue">
-      Microelectronics Journal, 2024.
-    </div>
-
-    <div class="paper-links">
-      [<a href="https://www.sciencedirect.com/science/article/pii/S0026269224000466">paper</a>]
-    </div>
-
-  </div>
-
-  <div class="publication-thumbnail">
-    <div class="paper-placeholder">
-      <span>EEGNet</span>
-    </div>
-  </div>
-
-</div>
-
-
 <style>
 
 /* =========================================================
@@ -398,23 +319,28 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
 .simple-news {
     margin-top: 4px;
-    margin-bottom: 32px;
+    margin-bottom: 28px;
 }
 
 .simple-news ul {
-    margin-top: 8px;
-    margin-bottom: 0;
-    padding-left: 23px;
+    margin: 6px 0 0 0;
+    padding-left: 22px;
 }
 
 .simple-news li {
-    margin-bottom: 7px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
     line-height: 1.55;
-    color: #2f3437;
+
+    margin-bottom: 5px;
+    padding-left: 1px;
+
+    color: #333;
 }
 
-.simple-news li strong {
+.news-date {
     font-weight: 600;
+    color: #333;
 }
 
 

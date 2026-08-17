@@ -144,9 +144,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
   </div>
 
   <div class="publication-thumbnail">
-    <div class="paper-placeholder">
-      <span>Lonic</span>
-    </div>
+    <img src="/images/lonic.jpg" alt="Lonic">
   </div>
 
 </div>

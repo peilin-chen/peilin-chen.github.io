@@ -15,8 +15,8 @@ University of Virginia (UVA) under the supervision of Prof.
 <a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>. His research focuses on designing energy-efficient algorithms,
 architectures, and systems for AI workloads, including CNNs, LLMs, and neuromorphic deep learning models.
 
-Prior to UVA, he earned the B.E. degree from Xidian University (XDU) in 2024, majored in Integrated Circuit Design and Integration System.
-During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit pipeline RISC-V processor.
+Prior to UVA, he earned the B.E. degree from Xidian University (XDU) in 2024, majoring in Integrated Circuit Design and Integration System.
+During his undergraduate, he worked on designing the 64-bit pipeline RISC-V processor.
 
 ## Research Interests
 

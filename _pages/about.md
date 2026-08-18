@@ -20,6 +20,11 @@ architectures, and systems for AI workloads, including CNNs, LLMs, and neuromorp
 Prior to UVA, he earned the B.E. degree from Xidian University (XDU) in 2024, majored in Integrated Circuit Design and Integration System.
 During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit pipeline RISC-V processor.
 
+## Research Interests
+
+<p class="research-interests">
+  AI Chip, Algorithm–Hardware Co-Design, Neuromorphic Computing, Computer Architecture
+</p>
 
 ## News
 
@@ -314,6 +319,16 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
 <style>
 
+  .research-interests {
+    margin-top: 6px;
+    margin-bottom: 28px;
+
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+
+    color: #333;
+}
 
 .page__content a {
     color: #E57200;

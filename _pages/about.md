@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Peilin's homepage!
-
 ## Short Bio
 
 Peilin (Leo) Chen is a Ph.D. candidate in the <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering">Electrical and Computer Engineering Department</a> at the

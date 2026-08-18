@@ -109,7 +109,7 @@ During his undergraduate, he worked on designing the 64-bit pipeline RISC-V proc
      Lonic
      ========================================================= -->
 
-<div class="publication-item">
+<div class="publication-item first-publication">
 
   <div class="publication-content">
 

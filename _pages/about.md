@@ -11,7 +11,7 @@ redirect_from:
 ## Short Bio
 
 Peilin (Leo) Chen is a Ph.D. candidate in the <a href="https://engineering.virginia.edu/department/electrical-and-computer-engineering">Electrical and Computer Engineering Department</a> at the
-University of Virginia (UVA) under the supervision of Prof.
+University of Virginia (UVA), advised by Prof.
 <a href="https://engineering.virginia.edu/faculty/xiaoxuan-yang">Xiaoxuan Yang</a>. His research focuses on designing energy-efficient algorithms,
 architectures, and systems for AI workloads, including CNNs, LLMs, and neuromorphic deep learning models.
 

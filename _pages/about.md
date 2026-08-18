@@ -105,11 +105,6 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
 
 ## Selected Publications
 
-<p class="publication-note">
-  Please see the full publication list on my Google Scholar.
-</p>
-
-
 <!-- =========================================================
      Lonic
      ========================================================= -->

@@ -469,7 +469,7 @@ Prior to UVA, he earned a B.E. degree from Xidian University in 2024, majoring i
 
 .short-bio p {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px !important;
+    font-size: 17px !important;
 }
 
 /* =========================================================

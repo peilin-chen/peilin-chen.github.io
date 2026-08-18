@@ -326,8 +326,6 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
-
-    color: #333;
 }
 
 .page__content a {

@@ -18,11 +18,11 @@ architectures, and systems for AI workloads, including CNNs, LLMs, and neuromorp
 Prior to UVA, he earned a B.E. degree from Xidian University in 2024, majoring in Integrated Circuit Design and Integration System.
 During his undergraduate, he worked on designing the 64-bit pipeline RISC-V processor.
 
-## Research Interests
+<!--## Research Interests
 
 <p class="research-interests">
   AI Chip, Algorithm–Hardware Co-Design, Neuromorphic Computing, Computer Architecture
-</p>
+</p>-->
 
 ## News
 

@@ -325,10 +325,35 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
     text-decoration: underline;
 }
 
-
-.news-list {
+  .news-list {
     margin-top: 8px;
     margin-bottom: 32px;
+
+    max-height: 390px;    
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    padding-right: 10px;
+
+    scrollbar-width: thin;
+    scrollbar-color: #b8bec7 transparent;
+}
+
+  .news-list::-webkit-scrollbar {
+    width: 6px;
+}
+
+.news-list::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.news-list::-webkit-scrollbar-thumb {
+    background: #b8bec7;
+    border-radius: 10px;
+}
+
+.news-list::-webkit-scrollbar-thumb:hover {
+    background: #8c939d;
 }
 
 .news-row {

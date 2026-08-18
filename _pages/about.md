@@ -329,7 +329,7 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
     margin-top: 8px;
     margin-bottom: 32px;
 
-    max-height: 390px;    
+    max-height: 350px;    
     overflow-y: auto;
     overflow-x: hidden;
 

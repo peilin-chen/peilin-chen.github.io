@@ -716,6 +716,10 @@ During his undergraduate, he worked with Prof. Kang Li on designing the 64-bit p
     margin-top: 1.2em !important;
 }
 
+  .page__content h2:first-of-type {
+    margin-top: 0 !important;
+}
+
 </style>
 
 <script>

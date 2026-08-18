@@ -459,8 +459,12 @@ During his undergraduate, he worked on designing the 64-bit pipeline RISC-V proc
     border-bottom: none;
 }
 
-  .publication-item:first-of-type {
-    padding-top: 6px;
+#selected-research {
+    margin-bottom: 0 !important;
+}
+
+.first-publication {
+    padding-top: 4px !important;
 }
 
 /* =========================================================

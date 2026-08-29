@@ -427,9 +427,6 @@ Prior to UVA, he earned his B.E. degree in Integrated Circuit Design and Integra
     color: #666;
 }
 
-  #news {
-    margin-top: -1px !important;
-}
 
 
 /* =========================================================

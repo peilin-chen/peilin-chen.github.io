@@ -18,11 +18,11 @@ Prior to UVA, he earned his B.E. degree in Integrated Circuit Design and Integra
 
 </div>
 
-<!--## Research Interests
+## Research Interests
 
 <p class="research-interests">
   AI Chip, Algorithm–Hardware Co-Design, Neuromorphic Computing, Computer Architecture
-</p>-->
+</p>
 
 ## News
 

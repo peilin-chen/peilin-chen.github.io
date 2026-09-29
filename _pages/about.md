@@ -392,7 +392,7 @@ Prior to UVA, he earned his B.E. degree in Integrated Circuit Design and Integra
 
     line-height: 1.42;
 
-    color: #333;
+    color: #1A1C1F;
 }
 
 .news-text strong {
@@ -424,7 +424,7 @@ Prior to UVA, he earned his B.E. degree in Integrated Circuit Design and Integra
     margin-top: -7px;
     margin-bottom: 12px;
     font-size: 0.9em;
-    color: #666;
+    color: ##6F7175;
 }
 
 
@@ -519,7 +519,7 @@ Prior to UVA, he earned his B.E. degree in Integrated Circuit Design and Integra
 
     line-height: 1.5;
 
-    color: #2f3437;
+    color: #1A1C1F;
 }
 
 
@@ -536,7 +536,7 @@ Prior to UVA, he earned his B.E. degree in Integrated Circuit Design and Integra
 
     line-height: 1.5;
 
-    color: #2f3437;
+    color: #1A1C1F;
 
     margin-top: 1px;
 }

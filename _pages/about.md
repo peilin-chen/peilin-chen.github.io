@@ -424,7 +424,7 @@ Prior to UVA, he earned his B.E. degree in Integrated Circuit Design and Integra
     margin-top: -7px;
     margin-bottom: 12px;
     font-size: 0.9em;
-    color: ##6F7175;
+    color: #6F7175;
 }
 
 

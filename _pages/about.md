@@ -133,7 +133,7 @@ Local Online SNN Training with INT4 Precision" is selected as one of the ACM/IEE
 
     <div class="paper-award">
       <i class="fas fa-award"></i>
-      Rank First in the Track
+      Rank First in the Track · Best Paper Candidate
     </div>
 
     <div class="paper-links">

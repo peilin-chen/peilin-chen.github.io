@@ -26,7 +26,8 @@ Prior to UVA, he earned his B.E. degree in Integrated Circuit Design and Integra
 <div class="news-row">
     <div class="news-date">Oct 2026</div>
     <div class="news-text">
-      Our paper "Lonic" is selected as one of the ACM/IEEE ICCAD 2026 Best Paper Candidates 🎉!
+      Paper "Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully
+Local Online SNN Training with INT4 Precision" is selected as one of the ACM/IEEE ICCAD 2026 Best Paper Candidates 🎉!
     </div>
   </div>
 

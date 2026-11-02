@@ -24,6 +24,13 @@ Prior to UVA, he earned his B.E. degree in Integrated Circuit Design and Integra
 <div class="news-list">
 
 <div class="news-row">
+    <div class="news-date">Nov 2026</div>
+    <div class="news-text">
+      Selected to receive the ACM/IEEE ICCAD 2026 Student Scholar Program Grant 🎉!
+    </div>
+  </div>
+
+<div class="news-row">
     <div class="news-date">Oct 2026</div>
     <div class="news-text">
       Paper "Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully
